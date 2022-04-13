@@ -1,0 +1,1253 @@
+d,State,city,year,CVAPCity,CVAPd,PctCauc,PctB,PctLH,PctAPI,PctAME,PctSA,PctIndO,S,M,ESType,candidate,party,win,race,gender,votes,MS,Women_run_d,Women_run_e,Women_win_e,Women_win_d
+1,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,QUILKEY Chris,12,1,1,0,955,45,0,2,2,0
+1,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,DIAZ Jess,13,1,4,0,683,45,0,2,2,0
+1,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,SINGH Moninder,12,1,5,0,458,45,0,2,2,0
+2,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,KELLY Leo,12,1,1,0,1011,45,0,2,2,0
+2,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,DIAZ Jaymes,13,1,4,0,410,45,0,2,2,0
+2,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,GRIFFITHS Julie,12,1,1,0,211,45,0,2,2,0
+3,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,BENJAMIN Susai,12,1,7,0,951,45,0,2,2,0
+3,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,COLLINS Kathie,12,1,1,0,608,45,0,2,2,0
+3,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,BRILLO Frederick,13,1,1,0,282,45,0,2,2,0
+4,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,BALI Stephen,12,1,1,0,1368,45,2,2,2,2
+4,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,SANTOS Linda,13,1,4,1,642,45,2,2,2,2
+4,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,ISRAEL Carol,12,1,4,1,165,45,2,2,2,2
+5,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,BLEASDALE Tony,12,1,1,0,1068,45,0,2,2,0
+5,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,CAMILLERI Peter,13,1,1,0,270,45,0,2,2,0
+5,AUS,Blacktown,2016,NA,NA,38,NA,NA,16,NA,NA,NA,15,3,STV,BUNTING Brad,12,1,1,0,204,45,0,2,2,0
+city,AUS,Burwood,2017,NA,NA,13,NA,NA,52,NA,NA,NA,6,6,STV,FURNEAUX-COOK Lesley,11,1,1,1,376,36,2,2,2,2
+city,AUS,Burwood,2017,NA,NA,13,NA,NA,52,NA,NA,NA,6,6,STV,DEL DUCA Joseph,13,1,1,0,244,36,2,2,2,2
+city,AUS,Burwood,2017,NA,NA,13,NA,NA,52,NA,NA,NA,6,6,STV,CHAN Ernest,12,1,4,0,38,36,2,2,2,2
+city,AUS,Burwood,2017,NA,NA,13,NA,NA,52,NA,NA,NA,6,6,STV,CRICHTON Heather,12,1,1,1,33,36,2,2,2,2
+city,AUS,Burwood,2017,NA,NA,13,NA,NA,52,NA,NA,NA,6,6,STV,DIXIT Raj,13,1,5,0,28,36,2,2,2,2
+city,AUS,Burwood,2017,NA,NA,13,NA,NA,52,NA,NA,NA,6,6,STV,MANNAH George,12,1,6,0,5,36,2,2,2,2
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,BRTICEVIC George,12,1,1,0,635,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,BORG Fred,14.1,1,1,0,499,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,LAKE Paul,14,1,1,0,283,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,MORONEY Ben,4,1,1,0,206,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,GREISS George,13,1,6,0,197,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,OATES Meg,12,1,1,1,177,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,THOMPSON Bob,11,1,1,0,157,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,LOUND Darcy,12,1,1,0,146,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,CHOWDHURY Masood,12,1,5,1,123,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,MANOTO Rey,12,1,4,0,99,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,HUNT Karen,12,1,1,1,69,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,CHIVERS Margaret,12,1,1,1,41,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,ROWELL Ted,13,1,1,0,40,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,MORRISON Warren,14.1,1,1,0,18,225,4,4,4,4
+city,AUS,Campbelltown City Council,2016,NA,NA,50,NA,NA,8,NA,NA,NA,15,15,STV,GEORGE Ralph,13,1,6,0,14,225,4,4,4,4
+BANKSTOWN WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,* ASFOUR Khal (Elected 1),12,1,6,0,1199,45,0,5,5,0
+BANKSTOWN WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,ZAKHIA George (Elected 2),13,1,6,0,985,45,0,5,5,0
+BANKSTOWN WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,EL-HAYEK Bilal (Elected 3),12,1,6,0,889,45,0,5,5,0
+BASS HILL WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,* KUSKOFF Alex (Elected 1),12,1,1,0,1307,45,1,5,5,1
+BASS HILL WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,ISHAC Charlie (Elected 2),13,1,6,0,721,45,1,5,5,1
+BASS HILL WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,HARIKA Rachelle (Elected 3),12,1,6,1,231,45,1,5,5,1
+CANTERBURY WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,RAFFAN Clare (Elected 1),12,1,1,1,807,45,2,5,5,2
+CANTERBURY WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,* EISLER Linda (Elected 3),4,1,1,1,602,45,2,5,5,2
+CANTERBURY WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,MADIRAZZA Philip (Elected 2),13,1,1,0,481,45,2,5,5,2
+REVESBY WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,* DOWNEY Linda (Elected 1),12,1,1,1,865,45,1,5,5,1
+REVESBY WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,* WAUD Glen (Elected 2),13,1,1,0,591,45,1,5,5,1
+REVESBY WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,TUNTEVSKI Steve (Elected 3),12,1,1,0,252,45,1,5,5,1
+ROSELANDS WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,SALEH Nadia (Elected 1),12,1,6,1,1655,45,1,5,5,1
+ROSELANDS WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,ZAMAN Mohammad (Elected 2),13,1,6,0,678,45,1,5,5,1
+ROSELANDS WARD,AUS,Canterbury-Bankstown,2016,NA,NA,22,NA,13,15,NA,NA,NA,15,3,STV,HUDA Mohammad (Elected 3),12,1,6,0,444,45,1,5,5,1
+Cabravale Ward,AUS,Fairfield,2016,NA,NA,15,NA,NA,28,NA,NA,NA,12,4,STV,"LY, Kien",12,1,4,0,11322,48,1,1,1,1
+Cabravale Ward,AUS,Fairfield,2016,NA,NA,15,NA,NA,28,NA,NA,NA,12,4,STV,"LE, Dai",14,1,4,1,8200,48,1,1,1,1
+Cabravale Ward,AUS,Fairfield,2016,NA,NA,15,NA,NA,28,NA,NA,NA,12,4,STV,"GRIPPAUDO, Peter",13,1,1,0,2889,48,1,1,1,1
+Cabravale Ward,AUS,Fairfield,2016,NA,NA,15,NA,NA,28,NA,NA,NA,12,4,STV,"WONG, Adrian",12,1,4,0,162,48,1,1,1,1
+Fairfield Ward,AUS,Fairfield,2017,NA,NA,15,NA,NA,28,NA,NA,NA,12,4,STV,"BENNETT, Del",12,1,1,1,13614,48,2,2,2,2
+Fairfield Ward,AUS,Fairfield,2017,NA,NA,15,NA,NA,28,NA,NA,NA,12,4,STV,"AZZO, Paul",13,1,1,0,5507,48,2,2,2,2
+Fairfield Ward,AUS,Fairfield,2017,NA,NA,15,NA,NA,28,NA,NA,NA,12,4,STV,"SALIBA, Charbel",14.1,1,6,0,4515,48,2,2,2,2
+Fairfield Ward,AUS,Fairfield,2017,NA,NA,15,NA,NA,28,NA,NA,NA,12,4,STV,"TADIC-KAZI, Anita",12,1,6,1,64,48,2,2,2,2
+Parks Ward,AUS,Fairfield,2018,NA,NA,15,NA,NA,28,NA,NA,NA,12,4,STV,"KHOSHABA, Ninos",12,1,6,0,11240,48,1,1,1,1
+Parks Ward,AUS,Fairfield,2018,NA,NA,15,NA,NA,28,NA,NA,NA,12,4,STV,"ROHAN, Andrew",14,1,1,0,9506,48,1,1,1,1
+Parks Ward,AUS,Fairfield,2018,NA,NA,15,NA,NA,28,NA,NA,NA,12,4,STV,"MOLLUSO, Joe",13,1,1,0,6687,48,1,1,1,1
+Parks Ward,AUS,Fairfield,2018,NA,NA,15,NA,NA,28,NA,NA,NA,12,4,STV,"YILMAZ, Sera",12,1,6,1,115,48,1,1,1,1
+North Ward,AUS,Liverpool,2016,NA,NA,15,NA,12,8,NA,NA,NA,10,5,STV,HARLE Peter,14,1,1,0,650,50,0,3,3,0
+North Ward,AUS,Liverpool,2016,NA,NA,15,NA,12,8,NA,NA,NA,10,5,STV,KARNIB Ali,12,1,6,0,466,50,0,3,3,0
+North Ward,AUS,Liverpool,2016,NA,NA,15,NA,12,8,NA,NA,NA,10,5,STV,HADID Mazhar,13,1,6,0,368,50,0,3,3,0
+North Ward,AUS,Liverpool,2016,NA,NA,15,NA,12,8,NA,NA,NA,10,5,STV,HAGARTY Nathan,12,1,1,0,214,50,0,3,3,0
+North Ward,AUS,Liverpool,2016,NA,NA,15,NA,12,8,NA,NA,NA,10,5,STV,BALLOOT Gus,13,1,1,0,81,50,0,3,3,0
+South Ward,AUS,Liverpool,2016,NA,NA,15,NA,12,8,NA,NA,NA,10,5,STV,HADCHITI Tony,13,1,6,0,994,50,3,3,3,3
+South Ward,AUS,Liverpool,2016,NA,NA,15,NA,12,8,NA,NA,NA,10,5,STV,SHELTON Geoff,12,1,1,0,497,50,3,3,3,3
+South Ward,AUS,Liverpool,2016,NA,NA,15,NA,12,8,NA,NA,NA,10,5,STV,KALIYANDA Charishma,12,1,5,1,181,50,3,3,3,3
+South Ward,AUS,Liverpool,2016,NA,NA,15,NA,12,8,NA,NA,NA,10,5,STV,RHODES Karress,14,1,1,1,143,50,3,3,3,3
+South Ward,AUS,Liverpool,2016,NA,NA,15,NA,12,8,NA,NA,NA,10,5,STV,AYYAD Tina,13,1,6,1,84,50,3,3,3,3
+Dundas,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,ESBER Pierre,12,1,6,0,431,45,1,4,4,1
+Dundas,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,BARRAK Benjamin,13,1,6,0,327,45,1,4,4,1
+Dundas,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,GARRARD Michelle,14,1,1,1,286,45,1,4,4,1
+Epping,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,WEARNE Lorraine,14,1,1,1,591,45,2,4,4,2
+Epping,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,DAVIS Donna,12,1,1,1,291,45,2,4,4,2
+Epping,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,TYRRELL Bill,13,1,1,0,256,45,2,4,4,2
+North Rocks,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,HAN Paul,12,1,4,0,470,45,0,4,4,0
+North Rocks,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,JEFFERIES Andrew,13,1,1,0,419,45,0,4,4,0
+North Rocks,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,DWYER Bob,13,1,1,0,206,45,0,4,4,0
+Parramatta Ward,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,PANDEY Sameer,12,1,5,0,388,45,0,4,4,0
+Parramatta Ward,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,ZAITER Martin,13,1,6,0,348,45,0,4,4,0
+Parramatta Ward,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,BRADLEY Phil,4,1,1,0,203,45,0,4,4,0
+Rosehill,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,ISSA Steven,13,1,6,0,324,45,1,4,4,1
+Rosehill,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,PROCIV Patricia,12,1,1,1,274,45,1,4,4,1
+Rosehill,AUS,Parramatta,2017,NA,NA,14,NA,NA,46,NA,NA,NA,15,3,STV,WILSON Andrew,14,1,1,0,113,45,1,4,4,1
+city,AUS,Strathfield,2017,NA,NA,14,NA,NA,41,NA,NA,NA,7,7,STV,VACCARI Gulian,13,1,1,0,357,49,4,4,4,4
+city,AUS,Strathfield,2017,NA,NA,14,NA,NA,41,NA,NA,NA,7,7,STV,HALL Nella,11,1,1,1,291,49,4,4,4,4
+city,AUS,Strathfield,2017,NA,NA,14,NA,NA,41,NA,NA,NA,7,7,STV,PENSABENE Karen,12,1,1,1,260,49,4,4,4,4
+city,AUS,Strathfield,2017,NA,NA,14,NA,NA,41,NA,NA,NA,7,7,STV,BLACKMORE Matthew,11.1,1,1,0,70,49,4,4,4,4
+city,AUS,Strathfield,2017,NA,NA,14,NA,NA,41,NA,NA,NA,7,7,STV,DOUEIHI Antoine,13,1,6,0,55,49,4,4,4,4
+city,AUS,Strathfield,2017,NA,NA,14,NA,NA,41,NA,NA,NA,7,7,STV,DUGGAN Maryanne,12,1,1,1,54,49,4,4,4,4
+city,AUS,Strathfield,2017,NA,NA,14,NA,NA,41,NA,NA,NA,7,7,STV,KOKKOLIS Stephanie,13,1,1,1,30,49,4,4,4,4
+city,AUS,Sydney,2016,NA,NA,34,NA,NA,11,NA,NA,NA,10,10,STV,MOORE Clover,14,1,1,1,2499,100,7,7,7,7
+city,AUS,Sydney,2016,NA,NA,34,NA,NA,11,NA,NA,NA,10,10,STV,FORSTER Christine,13,1,1,1,648,100,7,7,7,7
+city,AUS,Sydney,2016,NA,NA,34,NA,NA,11,NA,NA,NA,10,10,STV,SCOTT Linda,12,1,1,1,564,100,7,7,7,7
+city,AUS,Sydney,2016,NA,NA,34,NA,NA,11,NA,NA,NA,10,10,STV,VITHOULKAS Angela,11,1,1,1,364,100,7,7,7,7
+city,AUS,Sydney,2016,NA,NA,34,NA,NA,11,NA,NA,NA,10,10,STV,PHELPS Kerryn,14,1,1,1,105,100,7,7,7,7
+city,AUS,Sydney,2016,NA,NA,34,NA,NA,11,NA,NA,NA,10,10,STV,CHUNG Craig,13,1,4,0,73,100,7,7,7,7
+city,AUS,Sydney,2016,NA,NA,34,NA,NA,11,NA,NA,NA,10,10,STV,THALIS Philip,14,1,1,0,62,100,7,7,7,7
+city,AUS,Sydney,2016,NA,NA,34,NA,NA,11,NA,NA,NA,10,10,STV,SCULLY Jess,14,1,2,1,49,100,7,7,7,7
+city,AUS,Sydney,2016,NA,NA,34,NA,NA,11,NA,NA,NA,10,10,STV,MILLER Jess,14,1,1,1,37,100,7,7,7,7
+city,AUS,Sydney,2016,NA,NA,34,NA,NA,11,NA,NA,NA,10,10,STV,KOK Robert,14,1,4,0,16,100,7,7,7,7
+city,CA,Agoura Hills ,2015,NA,NA,83,2,11,6,NA,NA,NA,5,2,ALP,Illece Buckley Weber,NA,1,NA,NA,1695,10,0,0,0,0
+city,CA,Agoura Hills ,2015,NA,NA,83,2,11,6,NA,NA,NA,5,2,ALP,Linda L. Northrup,NA,1,NA,NA,1425,10,0,0,0,0
+city,CA,Agoura Hills ,2018,NA,NA,83,2,11,6,NA,NA,NA,5,3,ALP,Deborah Klein Lopez,2,1,1,1,5934,15,1,1,1,1
+city,CA,Agoura Hills ,2018,NA,NA,83,2,11,6,NA,NA,NA,5,3,ALP,Chris Anstead,2,1,1,0,4462,15,1,1,1,1
+city,CA,Agoura Hills ,2018,NA,NA,83,2,11,6,NA,NA,NA,5,3,ALP,Denis Weber,1,1,1,0,3128,15,1,1,1,1
+city,CA,Alameda,2014,NA,NA,49,7,12,33,NA,NA,NA,5,2,ALP,Frank Matarrese (1),2,1,1,0,6748,10,0,0,0,0
+city,CA,Alameda,2014,NA,NA,49,7,12,33,NA,NA,NA,5,2,ALP,Jim Oddie (2),2,1,1,0,6012,10,0,0,0,0
+city,CA,Alameda,2016,NA,NA,49,7,12,33,NA,NA,NA,5,2,ALP,Malia Vella (1),2,1,2,1,13856,10,2,2,2,2
+city,CA,Alameda,2016,NA,NA,49,7,12,33,NA,NA,NA,5,2,ALP,Marilyn Ashcraft (2),2,1,1,1,12474,10,2,2,2,2
+city,CA,Alameda,2018,NA,NA,49,7,12,33,NA,NA,NA,5,2,ALP,John Knox White(1),2,1,1,0,14203,10,0,0,0,0
+city,CA,Alameda,2018,NA,NA,49,7,12,33,NA,NA,NA,5,2,ALP,Tony Daysog (2),2,1,4,0,12455,10,0,0,0,0
+city,CA,Albany,2016,NA,NA,61,3,10,29,NA,NA,NA,5,3,ALP,"Nick Pilch,",2,1,1,0,5386,15,0,0,0,0
+city,CA,Albany,2016,NA,NA,61,3,10,29,NA,NA,NA,5,3,ALP,"Peter Maas,",2,1,1,0,5328,15,0,0,0,0
+city,CA,Albany,2016,NA,NA,61,3,10,29,NA,NA,NA,5,3,ALP,"Michael Barnes,",2,1,1,0,3589,15,0,0,0,0
+city,CA,Albany,2018,NA,NA,61,3,10,29,NA,NA,NA,5,2,ALP,"Peggy, McQuaid,",2,1,1,1,4716,10,2,2,2,2
+city,CA,Albany,2018,NA,NA,61,3,10,29,NA,NA,NA,5,2,ALP,"Rochelle Nason,",2,1,1,1,4245,10,2,2,2,2
+3,CA,Alhambra ,2016,NA,NA,28,2,34,53,NA,NA,NA,5,1,SSD,D3: Jeff Maloney,NA,1,NA,NA,12585,5,0,0,0,0
+4,CA,Alhambra ,2016,NA,NA,28,2,34,53,NA,NA,NA,5,1,SSD,D4: David Mejia,NA,1,NA,NA,9780,5,0,0,0,0
+1,CA,Alhambra ,2018,NA,NA,28,2,34,53,NA,NA,NA,5,1,SSD,D1: Katherine Lee,2,1,4,1,7421,5,1,2,2,1
+2,CA,Alhambra ,2018,NA,NA,28,2,34,53,NA,NA,NA,5,1,SSD,D2: Ross J. Maza,2,1,2,0,14235,5,0,2,2,0
+5,CA,Alhambra ,2018,NA,NA,28,2,34,53,NA,NA,NA,5,1,SSD,D5: Adele Andrade-Stadler,2,1,2,1,9462,5,1,2,2,1
+city,CA,Aliso Viejo,2016,NA,NA,71,3,17,14,NA,NA,NA,5,2,ALP,Mike Munzong,1,1,1,0,11344,10,0,0,0,0
+city,CA,Aliso Viejo,2016,NA,NA,71,3,17,14,NA,NA,NA,5,2,ALP,William Phillips,2,1,1,0,9027,10,0,0,0,0
+city,CA,Aliso Viejo,2018,NA,NA,71,3,17,14,NA,NA,NA,5,2,ALP,Tiffany Ackley,2,1,1,1,9626,10,1,1,1,1
+city,CA,Aliso Viejo,2018,NA,NA,71,3,17,14,NA,NA,NA,5,2,ALP,David Harrington,1,1,1,0,8702,10,1,1,1,1
+1,CA,Anaheim,2016,NA,NA,60,3,53,15,NA,NA,NA,6,1,SSD,"Denise Barnes,",1,1,2,1,3646,6,1,2,2,1
+3,CA,Anaheim,2016,NA,NA,60,3,53,15,NA,NA,NA,6,1,SSD,"Jose Moreno,",2,1,2,0,4647,6,0,2,2,0
+4,CA,Anaheim,2016,NA,NA,60,3,53,15,NA,NA,NA,6,1,SSD,"Lucille Kring,",1,1,1,1,4936,6,1,2,2,1
+5,CA,Anaheim,2016,NA,NA,60,3,53,15,NA,NA,NA,6,1,SSD,"Steve Faessel,",1,1,1,0,6344,6,0,2,2,0
+2,CA,Anaheim,2018,NA,NA,60,3,53,15,NA,NA,NA,6,1,SSD,"Jordan Brandman,",2,1,1,0,4567,6,0,1,1,0
+3,CA,Anaheim,2018,NA,NA,60,3,53,15,NA,NA,NA,6,1,SSD,"Jose Moreno,",2,1,2,1,5905,6,1,1,1,1
+6,CA,Anaheim,2018,NA,NA,60,3,53,15,NA,NA,NA,6,1,SSD,"Trevor O'Neil,",1,1,1,0,10362,6,0,1,1,0
+city,CA,Antioch,2016,NA,NA,52,18,32,10,NA,NA,NA,5,2,ALP,Lamar Thrope,2,1,3,0,13427,10,1,1,1,1
+city,CA,Antioch,2016,NA,NA,52,18,32,10,NA,NA,NA,5,2,ALP,Monica Wilson,2,1,3,1,11655,10,1,1,1,1
+city,CA,Antioch,2018,NA,NA,52,18,32,10,NA,NA,NA,5,2,ALP,Joy Motts,2,1,1,1,12751,10,2,2,2,2
+city,CA,Antioch,2018,NA,NA,52,18,32,10,NA,NA,NA,5,2,ALP,Lori Ogorchock,NA,1,1,1,10435,10,2,2,2,2
+city,CA,Arcadia,2016,NA,NA,33,1,13,57,NA,NA,NA,5,2,ALP,Peter Amundson,NA,1,NA,NA,4122,10,0,0,0,0
+city,CA,Arcadia,2016,NA,NA,33,1,13,57,NA,NA,NA,5,2,ALP,April A. Verlato,NA,1,NA,NA,4077,10,0,0,0,0
+2,CA,Arcadia,2018,NA,NA,33,1,13,57,NA,NA,NA,5,1,SSD,Tom Beck,NA,1,NA,NA,1080,5,0,0,0,0
+5,CA,Arcadia,2018,NA,NA,33,1,13,57,NA,NA,NA,5,1,SSD,Roger Chandler,NA,1,NA,NA,804,5,0,0,0,0
+city,CA,Arroyo Grande,2016,NA,NA,86,2,13,5,NA,NA,NA,5,2,ALP,Caren Ray,2,1,1,1,4963,10,2,2,2,2
+city,CA,Arroyo Grande,2016,NA,NA,86,2,13,5,NA,NA,NA,5,2,ALP,Kristen Barneich,2,1,1,1,4109,10,2,2,2,2
+city,CA,Arroyo Grande,2018,NA,NA,86,2,13,5,NA,NA,NA,5,2,ALP,Jimmy Paulding,2,1,1,0,5253,10,0,0,0,0
+city,CA,Arroyo Grande,2018,NA,NA,86,2,13,5,NA,NA,NA,5,2,ALP,Keith Storton,2,1,1,0,4500,10,0,0,0,0
+city,CA,Artesia,2018,NA,NA,38,4,36,35,NA,NA,NA,5,3,ALP,Ali S. Taj,2,1,5,0,1988,15,1,1,1,1
+city,CA,Artesia,2018,NA,NA,38,4,36,35,NA,NA,NA,5,3,ALP,Rene J. Trevino,2,1,1,0,1823,15,1,1,1,1
+city,CA,Artesia,2018,NA,NA,38,4,36,35,NA,NA,NA,5,3,ALP,Melissa Ramoso,2,1,2,1,1762,15,1,1,1,1
+city,CA,Atascadero,2016,NA,NA,89,2,14,2,NA,NA,NA,5,2,ALP,Roberta Fonzi,1,1,1,1,7723,10,1,1,1,1
+city,CA,Atascadero,2016,NA,NA,89,2,14,2,NA,NA,NA,5,2,ALP,Charles Bourbeau,1,1,1,0,6464,10,1,1,1,1
+city,CA,Atascadero,2018,NA,NA,89,2,14,2,NA,NA,NA,5,2,ALP,Heather Newsom,1,1,1,1,6886,10,2,2,2,2
+city,CA,Atascadero,2018,NA,NA,89,2,14,2,NA,NA,NA,5,2,ALP,Susan Funk,2,1,1,1,6834,10,2,2,2,2
+city,CA,Avalon ,2016,NA,NA,94,1,62,0.5,NA,NA,NA,5,2,ALP,Richard Hernandez,NA,1,NA,NA,352,10,0,0,0,0
+city,CA,Avalon ,2016,NA,NA,94,1,62,0.5,NA,NA,NA,5,2,ALP,W.F. (Oley) Olsen,NA,1,NA,NA,303,10,0,0,0,0
+city,CA,Azusa,2017,NA,NA,45,4,67,8,NA,NA,NA,5,2,ALP,Robert Gonzales,2,1,2,0,2075,10,0,0,0,0
+city,CA,Azusa,2017,NA,NA,45,4,67,8,NA,NA,NA,5,2,ALP,Edward J. Alvarez,1,1,2,0,1907,10,0,0,0,0
+city,CA,Baldwin Park ,2015,NA,NA,35,1,79,15,NA,NA,NA,5,2,ALP,Ricardo Pacheco,NA,1,NA,NA,2289,10,0,0,0,0
+city,CA,Baldwin Park ,2015,NA,NA,35,1,79,15,NA,NA,NA,5,2,ALP,Monica Garcia,NA,1,NA,NA,2091,10,0,0,0,0
+city,CA,Baldwin Park ,2018,NA,NA,35,1,79,15,NA,NA,NA,5,2,ALP,Alejandra Avila,2,1,2,1,7247,10,1,1,1,1
+city,CA,Baldwin Park ,2018,NA,NA,35,1,79,15,NA,NA,NA,5,2,ALP,Paul C. Hernandez,2,1,1,0,4959,10,1,1,1,1
+city,CA,Bell Gardens ,2018,NA,NA,63,1,97,0.5,NA,NA,NA,5,3,ALP,Alejandra Cortez,2,1,2,1,3155,15,2,2,2,2
+city,CA,Bell Gardens ,2018,NA,NA,63,1,97,0.5,NA,NA,NA,5,3,ALP,Marco Barcena,2,1,2,0,2974,15,2,2,2,2
+city,CA,Bell Gardens ,2018,NA,NA,63,1,97,0.5,NA,NA,NA,5,3,ALP,Lisseth Flores,2,1,1,1,2645,15,2,2,2,2
+city,CA,Bell,2015,NA,NA,64,1,92,0.5,NA,NA,NA,5,3,ALP,Ali Saleh,NA,1,NA,NA,1080,15,0,0,0,0
+city,CA,Bell,2015,NA,NA,64,1,92,0.5,NA,NA,NA,5,3,ALP,Fidencio Joel Gallardo,NA,1,NA,NA,1029,15,0,0,0,0
+city,CA,Bell,2015,NA,NA,64,1,92,0.5,NA,NA,NA,5,3,ALP,Nestor Enrique Valencia,NA,1,NA,NA,817,15,0,0,0,0
+city,CA,Bell,2017,NA,NA,64,1,92,0.5,NA,NA,NA,5,2,ALP,Alicia Romero,2,1,1,1,825,10,2,2,2,2
+city,CA,Bell,2017,NA,NA,64,1,92,0.5,NA,NA,NA,5,2,ALP,Ana Maria Quintana,2,1,2,1,814,10,2,2,2,2
+city,CA,Bellflower,2017,NA,NA,35,14,51,11,NA,NA,NA,5,2,ALP,Dan Koops,1,1,1,0,2221,10,0,0,0,0
+city,CA,Bellflower,2017,NA,NA,35,14,51,11,NA,NA,NA,5,2,ALP,Juan F. Garza,2,1,2,0,2087,10,0,0,0,0
+1,CA,Berkeley,2010,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,LINDA MAIO,NA,1,1,1,3735,8,1,1,1,1
+4,CA,Berkeley,2010,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,JESSE ARREGUIN,NA,1,2,0,2544,8,0,1,1,0
+7,CA,Berkeley,2010,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,KRISS WORTHINGTON,NA,1,1,0,2078,8,0,1,1,0
+8,CA,Berkeley,2010,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,GORDON WOZNIAK,NA,1,1,0,2806,8,0,1,1,0
+2,CA,Berkeley,2012,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,DARRYL MOORE,NA,1,3,0,3407,8,0,1,1,0
+3,CA,Berkeley,2012,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,MAX ANDERSON,NA,1,3,0,3130,8,0,1,1,0
+5,CA,Berkeley,2012,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,LAURIE CAPITELLI,NA,1,1,0,4333,8,0,1,1,0
+6,CA,Berkeley,2012,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,SUSAN WENGRAF,NA,1,1,1,5601,8,1,1,1,1
+1,CA,Berkeley,2014,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,Jesse Arreguin,NA,1,2,0,2301,8,0,1,1,0
+7,CA,Berkeley,2014,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,KRISS WORTHINGTON,NA,1,1,0,833,8,0,1,1,0
+8,CA,Berkeley,2014,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,LORI DROSTE,NA,1,1,1,1318,8,1,1,1,1
+2,CA,Berkeley,2016,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,Susan Wengraf,2,1,1,1,4358,8,1,2,2,1
+3,CA,Berkeley,2016,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,Darryl Moore,2,1,3,0,2827,8,0,2,2,0
+5,CA,Berkeley,2016,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,Ben Bartlett,2,1,3,0,4048,8,0,2,2,0
+6,CA,Berkeley,2016,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,Sophie Hahn,2,1,1,1,5821,8,1,2,2,1
+4,CA,Berkeley,2017,NA,NA,62,9,11,22,NA,NA,NA,8,1,rcv,KATE HARRISON,NA,1,1,1,1608,8,1,1,1,1
+1,CA,Berkeley,2018,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,Rashi Kesarwani,2,1,4,1,3491,8,1,3,3,1
+4,CA,Berkeley,2018,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,Kate Harrison,4,1,1,1,2881,8,1,3,3,1
+7,CA,Berkeley,2018,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,Rigel Robinson,2,1,4,0,1580,8,0,3,3,0
+8,CA,Berkeley,2018,NA,NA,62,9,11,22,NA,NA,NA,8,1,RCV,Lori Droste,2,1,1,1,3667,8,1,3,3,1
+city,CA,Beverly Hills,2017,NA,NA,86,3,6,7,NA,NA,NA,5,3,ALP,John A. Mirisch,1,1,1,0,2154,15,0,0,0,0
+city,CA,Beverly Hills,2017,NA,NA,86,3,6,7,NA,NA,NA,5,3,ALP,Les Friedman,2,1,1,0,1966,15,0,0,0,0
+city,CA,Beverly Hills,2017,NA,NA,86,3,6,7,NA,NA,NA,5,3,ALP,Robert (Bob) Wunderlich,2,1,1,0,1948,15,0,0,0,0
+city,CA,Biggs,2016,NA,NA,74,1,36,3,NA,NA,NA,5,2,ALP,Roger Frith,1,1,1,0,311,10,0,0,0,0
+city,CA,Biggs,2016,NA,NA,74,1,36,3,NA,NA,NA,5,2,ALP,Nathan Wilkinson,1,1,1,0,272,10,0,0,0,0
+city,CA,Biggs,2018,NA,NA,74,1,36,3,NA,NA,NA,5,3,ALP,Angela Thompson,1,1,1,1,338,15,1,1,1,1
+city,CA,Biggs,2018,NA,NA,74,1,36,3,NA,NA,NA,5,3,ALP,James Sheppard,1,1,1,0,331,15,1,1,1,1
+city,CA,Biggs,2018,NA,NA,74,1,36,3,NA,NA,NA,5,3,ALP,Brian Bassett,NA,1,1,0,283,15,1,1,1,1
+city,CA,Brea,2016,NA,NA,71,1,24,18,NA,NA,NA,5,2,ALP,Christine Marick,1,1,1,1,11476,10,1,1,1,1
+city,CA,Brea,2016,NA,NA,71,1,24,18,NA,NA,NA,5,2,ALP,Marty Simonoff,1,1,1,0,9765,10,1,1,1,1
+city,CA,Brea,2018,NA,NA,71,1,24,18,NA,NA,NA,5,3,ALP,Cecilia Hupp,1,1,1,1,9726,15,1,1,1,1
+city,CA,Brea,2018,NA,NA,71,1,24,18,NA,NA,NA,5,3,ALP,Steven Vargas,1,1,2,0,7731,15,1,1,1,1
+city,CA,Brea,2018,NA,NA,71,1,24,18,NA,NA,NA,5,3,ALP,Glenn Parker,2,1,1,0,6948,15,1,1,1,1
+city,CA,Brentwood,2016,NA,NA,73,6,29,7,NA,NA,NA,5,2,ALP,Claudette Staton,2,1,3,1,11284,10,2,2,2,2
+city,CA,Brentwood,2016,NA,NA,73,6,29,7,NA,NA,NA,5,2,ALP,Karen Rarey,2,1,1,1,9466,10,2,2,2,2
+city,CA,Brentwood,2018,NA,NA,73,6,29,7,NA,NA,NA,5,2,ALP,Johnny Rodriguez,2,1,2,0,8662,10,0,0,0,0
+city,CA,Brentwood,2018,NA,NA,73,6,29,7,NA,NA,NA,5,2,ALP,Joel Bryant,1,1,1,0,8525,10,0,0,0,0
+1,CA,Buena Park,2016,NA,NA,53,5,38,26,NA,NA,NA,5,1,SSD,Fred Smith,2,1,1,0,2683,5,0,0,0,0
+4,CA,Buena Park,2016,NA,NA,53,5,38,26,NA,NA,NA,5,1,SSD,Art Brown,2,1,1,0,4692,5,0,0,0,0
+1,CA,Buena Park,2018,NA,NA,53,5,38,26,NA,NA,NA,5,1,SSD,Sunny Youngsun Park,2,1,4,1,1560,5,1,2,2,1
+2,CA,Buena Park,2018,NA,NA,53,5,38,26,NA,NA,NA,5,1,SSD,Elizabeth Swift,1,1,1,1,1079,5,1,2,2,1
+5,CA,Buena Park,2018,NA,NA,53,5,38,26,NA,NA,NA,5,1,SSD,Connor Traut,2,1,1,0,3026,5,0,2,2,0
+city,CA,Burbank,2015,NA,NA,74,2,26,12,NA,NA,NA,5,2,ALP,Emily Gabel-Luddy,NA,1,NA,NA,4170,10,0,0,0,0
+city,CA,Burbank,2015,NA,NA,74,2,26,12,NA,NA,NA,5,2,ALP,Will Rogers,NA,1,NA,NA,3563,10,0,0,0,0
+city,CA,Burbank,2017,NA,NA,74,2,26,12,NA,NA,NA,5,4,ALP,Jess Talamantes,NA,1,NA,NA,5485,20,0,0,0,0
+city,CA,Burbank,2017,NA,NA,74,2,26,12,NA,NA,NA,5,4,ALP,Robert Frutos,NA,1,NA,NA,5320,20,0,0,0,0
+city,CA,Burbank,2017,NA,NA,74,2,26,12,NA,NA,NA,5,4,ALP,David Gordon,NA,1,NA,NA,4799,20,0,0,0,0
+city,CA,Burbank,2017,NA,NA,74,2,26,12,NA,NA,NA,5,4,ALP,Sharon Springer,NA,1,NA,NA,3914,20,0,0,0,0
+city,CA,Calabasas,2018,NA,NA,82,3,7,10,NA,NA,NA,5,3,ALP,David J. Shapiro,2,1,1,0,6355,15,1,1,1,1
+city,CA,Calabasas,2018,NA,NA,82,3,7,10,NA,NA,NA,5,3,ALP,Mary Sue Maurer,2,1,1,1,5823,15,1,1,1,1
+city,CA,Calabasas,2018,NA,NA,82,3,7,10,NA,NA,NA,5,3,ALP,James R. Bozajian,2,1,1,0,5628,15,1,1,1,1
+city,CA,Carson ,2016,NA,NA,32,22,28,26,NA,NA,NA,5,2,ALP,Jawane Hilton,NA,1,NA,NA,11334,10,0,0,0,0
+city,CA,Carson ,2016,NA,NA,32,22,28,26,NA,NA,NA,5,2,ALP,Cedric L. Hicks,NA,1,NA,NA,9184,10,0,0,0,0
+city,CA,Carson ,2018,NA,NA,32,22,28,26,NA,NA,NA,5,2,ALP,Lula Davis-Holmes,2,1,3,1,11392,10,1,1,1,1
+city,CA,Carson ,2018,NA,NA,32,22,28,26,NA,NA,NA,5,2,ALP,Jim Dear,2,1,1,0,8868,10,1,1,1,1
+city,CA,Cerritos,2015,NA,NA,21,7,11,62,NA,NA,NA,5,2,ALP,Mark E. Pulido,NA,1,NA,NA,3997,10,0,0,0,0
+city,CA,Cerritos,2015,NA,NA,21,7,11,62,NA,NA,NA,5,2,ALP,Jim Edwards,NA,1,NA,NA,3459,10,0,0,0,0
+city,CA,Cerritos,2017,NA,NA,21,7,11,62,NA,NA,NA,5,2,ALP,Grace Hu,NA,1,NA,NA,3376,10,0,0,0,0
+city,CA,Cerritos,2017,NA,NA,21,7,11,62,NA,NA,NA,5,2,ALP,Frank Yokoyama,NA,1,NA,NA,3069,10,0,0,0,0
+city,CA,Chico,2016,NA,NA,82,2,15,5,NA,NA,NA,7,4,ALP,Sean Morgan,1,1,1,0,15426,28,1,1,1,1
+city,CA,Chico,2016,NA,NA,82,2,15,5,NA,NA,NA,7,4,ALP,Ann Schwab,2,1,1,1,15195,28,1,1,1,1
+city,CA,Chico,2016,NA,NA,82,2,15,5,NA,NA,NA,7,4,ALP,Randall Stone,2,1,2,0,14362,28,1,1,1,1
+city,CA,Chico,2016,NA,NA,82,2,15,5,NA,NA,NA,7,4,ALP,Karl Ory,2,1,1,0,13994,28,1,1,1,1
+city,CA,Chico,2018,NA,NA,82,2,15,5,NA,NA,NA,7,3,ALP,Alexandria Brown,2,1,1,1,16211,21,2,2,2,2
+city,CA,Chico,2018,NA,NA,82,2,15,5,NA,NA,NA,7,3,ALP,Kasey Reynolds,1,1,1,1,15984,21,2,2,2,2
+city,CA,Chico,2018,NA,NA,82,2,15,5,NA,NA,NA,7,3,ALP,Scott Huber,2,1,1,0,14921,21,2,2,2,2
+city,CA,Claremont ,2017,NA,NA,72,5,21,11,NA,NA,NA,5,2,ALP,Larry Schroeder,2,1,1,0,3799,10,0,0,0,0
+city,CA,Claremont ,2017,NA,NA,72,5,21,11,NA,NA,NA,5,2,ALP,Corey Calaycay,2,1,1,0,3271,10,0,0,0,0
+city,CA,Claremont ,2018,NA,NA,72,5,21,11,NA,NA,NA,5,3,ALP,Jennifer Stark,2,1,1,1,8355,15,1,1,1,1
+city,CA,Claremont ,2018,NA,NA,72,5,21,11,NA,NA,NA,5,3,ALP,Jed Leano,2,1,4,0,7248,15,1,1,1,1
+city,CA,Claremont ,2018,NA,NA,72,5,21,11,NA,NA,NA,5,3,ALP,Ed Reece,2,1,1,0,6146,15,1,1,1,1
+city,CA,Clayton,2016,NA,NA,85,2,8,8,NA,NA,NA,5,3,ALP,Julie Pierce,2,1,1,1,4447,15,2,2,2,2
+city,CA,Clayton,2016,NA,NA,85,2,8,8,NA,NA,NA,5,3,ALP,Jim Diaz,2,1,2,0,3861,15,2,2,2,2
+city,CA,Clayton,2016,NA,NA,85,2,8,8,NA,NA,NA,5,3,ALP,Tuija Catalano,NA,1,2,1,3053,15,2,2,2,2
+city,CA,Clayton,2018,NA,NA,85,2,8,8,NA,NA,NA,5,2,ALP,Jeff Wan,NA,1,4,0,2875,10,0,0,0,0
+city,CA,Clayton,2018,NA,NA,85,2,8,8,NA,NA,NA,5,2,ALP,Carl Wolfe,2,1,1,0,2828,10,0,0,0,0
+city,CA,Clovis ,2017,NA,NA,69,3,24,10,NA,NA,NA,5,2,ALP,Lynne Ashbeck,1,1,1,1,7782,10,1,1,1,1
+city,CA,Clovis ,2017,NA,NA,69,3,24,10,NA,NA,NA,5,2,ALP,Vong Mouanoutoua,1,1,4,0,4696,10,1,1,1,1
+1,CA,Clovis,2017,NA,NA,69,3,24,10,NA,NA,NA,5,1,SSD,Drew Bessinger,1,1,1,0,6155,5,0,0,0,0
+city,CA,Coalinga,2016,NA,NA,67,7,52,2,NA,NA,NA,5,2,ALP,Ron Lander,1,1,1,0,1461,10,1,1,1,1
+city,CA,Coalinga,2016,NA,NA,67,7,52,2,NA,NA,NA,5,2,ALP,Tanya Stolz,1,1,1,1,1219,10,1,1,1,1
+1,CA,Coalinga,2018,NA,NA,67,7,52,2,NA,NA,NA,5,1,SSD,Adam Adkisson,1,1,1,0,361,5,0,0,0,0
+3,CA,coalinga,2018,NA,NA,67,7,52,2,NA,NA,NA,5,1,SSD,Ray SIngleton,1,1,3,0,320,5,0,0,0,0
+5,CA,Coalinga,2018,NA,NA,67,7,52,2,NA,NA,NA,5,1,SSD,Ron Ramsey,2,1,1,0,341,5,0,0,0,0
+city,CA,Commerce,2015,NA,NA,60,2,95,2,NA,NA,NA,5,2,ALP,Hugo Argumedo,NA,1,NA,NA,599,10,0,0,0,0
+city,CA,Commerce,2015,NA,NA,60,2,95,2,NA,NA,NA,5,2,ALP,Oralia Rebollo,NA,1,NA,NA,556,10,0,0,0,0
+city,CA,Commerce,2017,NA,NA,60,2,95,2,NA,NA,NA,5,2,ALP,Leonard Mendoza,NA,1,NA,NA,522,10,0,0,0,0
+city,CA,Commerce,2017,NA,NA,60,2,95,2,NA,NA,NA,5,2,ALP,John Soria,NA,1,NA,NA,508,10,0,0,0,0
+1,CA,Compton,2015,NA,NA,38,31,66,0.5,NA,NA,NA,5,1,SSD,Janna Zurita,NA,1,NA,NA,512,5,0,0,0,0
+4,CA,Compton,2015,NA,NA,38,31,66,0.5,NA,NA,NA,5,1,SSD,Willie Jones,NA,1,NA,NA,293,5,0,0,0,0
+2,CA,Compton,2017,NA,NA,38,31,66,0.5,NA,NA,NA,5,1,SSD,Issac Galvan,NA,1,NA,NA,757,5,0,0,0,0
+3,CA,Compton,2017,NA,NA,38,31,66,0.5,NA,NA,NA,5,1,SSD,Tana McCoy,NA,1,NA,NA,819,5,0,0,0,0
+1,CA,Compton,2019,NA,NA,38,31,66,0.5,NA,NA,NA,5,1,SSD,Janna Zurita,NA,1,NA,NA,678,5,0,0,0,0
+4,CA,Compton,2019,NA,NA,38,31,66,0.5,NA,NA,NA,5,1,SSD,Justin A. Blakely,NA,1,NA,NA,565,5,0,0,0,0
+city,CA,Concord,2016,NA,NA,69,3,28,12,NA,NA,NA,5,2,ALP,Carlyn Obringer,2,1,1,1,18341,10,1,1,1,1
+city,CA,Concord,2016,NA,NA,69,3,28,12,NA,NA,NA,5,2,ALP,Ed Birsan,2,1,1,0,13984,10,1,1,1,1
+1,CA,Concord,2018,NA,NA,69,3,28,12,NA,NA,NA,5,1,SSD,Laura Hoffmeister,2,1,1,1,2453,5,1,1,1,1
+3,CA,Concord,2018,NA,NA,69,3,28,12,NA,NA,NA,5,1,SSD,Dominic Aliano,2,1,1,0,1237,5,0,1,1,0
+5,CA,Concord,2018,NA,NA,69,3,28,12,NA,NA,NA,5,1,SSD,Timothy McGallian,2,1,1,0,7828,5,0,1,1,0
+city,CA,Costa Mesa,2016,NA,NA,71,1,35,9,NA,NA,NA,5,3,ALP,Sandra Genis,1,1,1,1,18091,15,1,1,1,1
+city,CA,Costa Mesa,2016,NA,NA,71,1,35,9,NA,NA,NA,5,3,ALP,John Stephens,2,1,1,0,17869,15,1,1,1,1
+city,CA,Costa Mesa,2016,NA,NA,71,1,35,9,NA,NA,NA,5,3,ALP,Allan Mansoor,1,1,1,0,15187,15,1,1,1,1
+1,CA,Costa Mesa,2018,NA,NA,71,1,35,9,NA,NA,NA,6,1,SSD,Manuel Chavez,2,1,2,0,1603,6,0,2,2,0
+3,CA,Costa Mesa,2018,NA,NA,71,1,35,9,NA,NA,NA,6,1,SSD,Andrea Marr,2,1,2,1,3109,6,1,2,2,1
+5,CA,Costa Mesa,2018,NA,NA,71,1,35,9,NA,NA,NA,6,1,SSD,Arlis Reynolds,2,1,1,1,3168,6,1,2,2,1
+city,CA,Covina ,2017,NA,NA,53,5,52,10,NA,NA,NA,5,3,ALP,Jorge A. Marquez,2,1,2,0,2600,15,0,0,0,0
+city,CA,Covina ,2017,NA,NA,53,5,52,10,NA,NA,NA,5,3,ALP,John C. King,1,1,1,0,2450,15,0,0,0,0
+city,CA,Covina ,2017,NA,NA,53,5,52,10,NA,NA,NA,5,3,ALP,Victor Linares,2,1,2,0,2232,15,0,0,0,0
+city,CA,Cudahy ,2015,NA,NA,62,1,97,1,NA,NA,NA,5,3,ALP,Baru A. Sanchez,NA,1,NA,NA,516,15,0,0,0,0
+city,CA,Cudahy ,2015,NA,NA,62,1,97,1,NA,NA,NA,5,3,ALP,Christian Hernandez,NA,1,NA,NA,470,15,0,0,0,0
+city,CA,Cudahy ,2015,NA,NA,62,1,97,1,NA,NA,NA,5,3,ALP,Cristian Markovich,NA,1,NA,NA,445,15,0,0,0,0
+city,CA,Cudahy ,2017,NA,NA,62,1,97,1,NA,NA,NA,5,2,ALP,Jack M. Guerrero,1,1,2,0,559,10,0,0,0,0
+city,CA,Cudahy ,2017,NA,NA,62,1,97,1,NA,NA,NA,5,2,ALP,Chris Garcia,2,1,2,0,552,10,0,0,0,0
+city,CA,Cudahy ,2018,NA,NA,62,1,97,1,NA,NA,NA,5,3,ALP,Blanca Lozoya,NA,1,2,1,1110,15,2,2,2,2
+city,CA,Cudahy ,2018,NA,NA,62,1,97,1,NA,NA,NA,5,3,ALP,Elizabeth Alcantar,2,1,1,1,1100,15,2,2,2,2
+city,CA,Cudahy ,2018,NA,NA,62,1,97,1,NA,NA,NA,5,3,ALP,Jack M. Guerrero,1,1,2,0,1042,15,2,2,2,2
+city,CA,Cypress,2016,NA,NA,59,2,18,31,NA,NA,NA,5,2,ALP,Rob Johnson,1,1,1,0,9369,10,1,1,1,1
+city,CA,Cypress,2016,NA,NA,59,2,18,31,NA,NA,NA,5,2,ALP,Mariellen Yarc,1,1,1,1,8921,10,1,1,1,1
+city,CA,Cypress,2018,NA,NA,59,2,18,31,NA,NA,NA,5,3,ALP,Jon Peat,1,1,1,0,8913,15,1,1,1,1
+city,CA,Cypress,2018,NA,NA,59,2,18,31,NA,NA,NA,5,3,ALP,Stacy Berry,1,1,1,1,8283,15,1,1,1,1
+city,CA,Cypress,2018,NA,NA,59,2,18,31,NA,NA,NA,5,3,ALP,Paulo Morales,1,1,2,0,7448,15,1,1,1,1
+city,CA,Dana Point,2016,NA,NA,89,0.5,15,3,NA,NA,NA,5,2,ALP,Debra Lewis,2,1,1,1,7878,10,1,1,1,1
+city,CA,Dana Point,2016,NA,NA,89,0.5,15,3,NA,NA,NA,5,2,ALP,Paul Wyatt,2,1,1,0,7544,10,1,1,1,1
+1,CA,Dana Point,2018,NA,NA,89,0.5,15,3,NA,NA,NA,5,1,SSD,Joe Muller,1,1,1,0,1459,5,0,0,0,0
+2,CA,Dana Point,2018,NA,NA,89,0.5,15,3,NA,NA,NA,5,1,SSD,Richard Viczorek,1,1,1,0,1540,5,0,0,0,0
+3,CA,Dana Point,2018,NA,NA,89,0.5,15,3,NA,NA,NA,5,1,SSD,Jamey Federico,1,1,1,0,1701,5,0,0,0,0
+city,CA,Danville,2018,NA,NA,82,1,6,12,NA,NA,NA,5,2,ALP,Karen Stepper,1,1,1,1,14994,10,1,1,1,1
+city,CA,Danville,2018,NA,NA,82,1,6,12,NA,NA,NA,5,2,ALP,Robert Storer,1,1,1,0,13569,10,1,1,1,1
+city,CA,Diamond Bar,2015,NA,NA,35,4,19,53,NA,NA,NA,5,2,ALP,Ruth Low,NA,1,NA,NA,2266,10,0,0,0,0
+city,CA,Diamond Bar,2015,NA,NA,35,4,19,53,NA,NA,NA,5,2,ALP,Carol Herrera,NA,1,NA,NA,2216,10,0,0,0,0
+city,CA,Diamond Bar,2018,NA,NA,35,4,19,53,NA,NA,NA,5,3,ALP,Nancy A. Lyons,2,1,1,1,9880,15,1,1,1,1
+city,CA,Diamond Bar,2018,NA,NA,35,4,19,53,NA,NA,NA,5,3,ALP,Steve Tye,1,1,1,0,8231,15,1,1,1,1
+city,CA,Diamond Bar,2018,NA,NA,35,4,19,53,NA,NA,NA,5,3,ALP,Andrew Chou,2,1,4,0,7483,15,1,1,1,1
+1,CA,Downey ,2016,NA,NA,56,4,71,7,NA,NA,NA,5,1,SSD,D1: Blanca Pachero,NA,1,NA,NA,3379,5,0,0,0,0
+3,CA,Downey ,2016,NA,NA,56,4,71,7,NA,NA,NA,5,1,SSD,D3: Rick Rodriguez,NA,1,NA,NA,3716,5,0,0,0,0
+5,CA,Downey ,2016,NA,NA,56,4,71,7,NA,NA,NA,5,1,SSD,D5: Alex Saab,NA,1,NA,NA,24141,5,0,0,0,0
+1,CA,Downey ,2018,NA,NA,56,4,71,7,NA,NA,NA,5,1,SSD,NA,NA,1,NA,NA,336,5,0,1,1,0
+4,CA,Downey ,2018,NA,NA,56,4,71,7,NA,NA,NA,5,1,SSD,D4: Claudia Frometa,2,1,2,1,3981,5,1,1,1,1
+6,CA,Downey ,2018,NA,NA,56,4,71,7,NA,NA,NA,5,1,SSD,D6: Bryan Urias,2,1,2,0,273,5,0,1,1,0
+1,CA,Duarte,2018,NA,NA,51,8,46,16,NA,NA,NA,7,1,SSD,"Tzeitel Paras-Caracci,",2,1,4,1,711,7,1,3,3,1
+4,CA,Duarte,2018,NA,NA,51,8,46,16,NA,NA,NA,7,1,SSD,"Margaret E. Finlay,",11,1,1,1,554,7,1,3,3,1
+6,CA,Duarte,2018,NA,NA,51,8,46,16,NA,NA,NA,7,1,SSD,"Bryan Urias,",2,1,2,0,273,7,0,3,3,0
+7,CA,Duarte,2018,NA,NA,51,8,46,16,NA,NA,NA,7,1,SSD,JOCELYN NUNEZ,11,1,2,1,336,7,1,3,3,1
+city,CA,Dublin ,2016,NA,NA,58,7,13,26,NA,NA,NA,5,2,ALP,Arun Goel,2,1,4,0,8928,10,1,1,1,1
+city,CA,Dublin ,2016,NA,NA,58,7,13,26,NA,NA,NA,5,2,ALP,Melissa Hernandez Strah,2,1,2,1,7950,10,1,1,1,1
+city,CA,Dublin ,2018,NA,NA,58,7,13,26,NA,NA,NA,5,3,ALP,Jean Josey,1,1,1,1,9181,15,1,1,1,1
+city,CA,Dublin ,2018,NA,NA,58,7,13,26,NA,NA,NA,5,3,ALP,Shawn Kumagai,2,1,4,0,5944,15,1,1,1,1
+city,CA,Dublin ,2018,NA,NA,58,7,13,26,NA,NA,NA,5,3,ALP,Bobby Khullar,1,1,4,0,5719,15,1,1,1,1
+city,CA,El Cerrito,2016,NA,NA,58,7,12,25,NA,NA,NA,5,3,ALP,Greg Lyman,2,1,1,0,4903,15,1,1,1,1
+city,CA,El Cerrito,2016,NA,NA,58,7,12,25,NA,NA,NA,5,3,ALP,Rochelle Pardue-Okimoto,2,1,3,1,4830,15,1,1,1,1
+city,CA,El Cerrito,2016,NA,NA,58,7,12,25,NA,NA,NA,5,3,ALP,Paul Fadelli,2,1,1,0,4091,15,1,1,1,1
+city,CA,El Cerrito,2018,NA,NA,58,7,12,25,NA,NA,NA,5,2,ALP,Gabriel Quinto,2,1,4,0,8730,10,1,1,1,1
+city,CA,El Cerrito,2018,NA,NA,58,7,12,25,NA,NA,NA,5,2,ALP,Janet Abelson,2,1,1,1,8344,10,1,1,1,1
+city,CA,El Monte,2015,NA,NA,39,1,69,25,NA,NA,NA,5,2,ALP,Jerry Velasco,NA,1,NA,NA,2396,10,0,0,0,0
+city,CA,El Monte,2015,NA,NA,39,1,69,25,NA,NA,NA,5,2,ALP,"Victoria ""Vicky"" Martinez",NA,1,NA,NA,2375,10,0,0,0,0
+city,CA,El Monte,2018,NA,NA,39,1,69,25,NA,NA,NA,5,2,ALP,Maria Morales,2,1,2,1,6599,10,2,2,2,2
+city,CA,El Monte,2018,NA,NA,39,1,69,25,NA,NA,NA,5,2,ALP,Jessica Ancona,2,1,2,1,6433,10,2,2,2,2
+city,CA,Emeryville,2016,NA,NA,44,14,9,36,NA,NA,NA,5,3,ALP,John Bauters,2,1,1,0,2312,15,1,1,1,1
+city,CA,Emeryville,2016,NA,NA,44,14,9,36,NA,NA,NA,5,3,ALP,Ally Medina,2,1,1,1,2121,15,1,1,1,1
+city,CA,Emeryville,2016,NA,NA,44,14,9,36,NA,NA,NA,5,3,ALP,Christian Patz,2,1,1,0,1723,15,1,1,1,1
+city,CA,Emeryville,2018,NA,NA,44,14,9,36,NA,NA,NA,5,2,ALP,Dianne Martinez,2,1,2,1,3182,10,1,1,1,1
+city,CA,Emeryville,2018,NA,NA,44,14,9,36,NA,NA,NA,5,2,ALP,Scott Donahue,4,1,1,0,2569,10,1,1,1,1
+city,CA,Firebaugh,2016,NA,NA,79,1,90,0.5,NA,NA,NA,5,2,ALP,Elsa Lopez,1,1,2,1,888,10,1,1,1,1
+city,CA,Firebaugh,2016,NA,NA,79,1,90,0.5,NA,NA,NA,5,2,ALP,Freddy Valdez,1,1,2,0,793,10,1,1,1,1
+city,CA,Firebaugh,2018,NA,NA,79,1,90,0.5,NA,NA,NA,5,2,ALP,Marcia Sablan,2,1,1,1,697,10,1,1,1,1
+city,CA,Firebaugh,2018,NA,NA,79,1,90,0.5,NA,NA,NA,5,2,ALP,Felibe Perez,2,1,2,0,548,10,1,1,1,1
+city,CA,Fountain Valley,2016,NA,NA,56,1,13,35,NA,NA,NA,5,2,ALP,Steve Nagel,1,1,1,0,12131,10,1,1,1,1
+city,CA,Fountain Valley,2016,NA,NA,56,1,13,35,NA,NA,NA,5,2,ALP,Cheryl Brothers,1,1,1,1,9972,10,1,1,1,1
+city,CA,Fountain Valley,2018,NA,NA,56,1,13,35,NA,NA,NA,5,3,ALP,Michael Vo,1,1,4,0,8857,15,1,1,1,1
+city,CA,Fountain Valley,2018,NA,NA,56,1,13,35,NA,NA,NA,5,3,ALP,Patrick Harper,1,1,1,0,8370,15,1,1,1,1
+city,CA,Fountain Valley,2018,NA,NA,56,1,13,35,NA,NA,NA,5,3,ALP,Kim Constantine,1,1,1,1,8038,15,1,1,1,1
+city,CA,Fowler ,2016,NA,NA,48,2,64,11,NA,NA,NA,5,3,ALP,Daniel Parra,2,1,2,0,975,15,0,0,0,0
+city,CA,Fowler ,2016,NA,NA,48,2,64,11,NA,NA,NA,5,3,ALP,Karnig Ronald Kazari,NA,1,4,0,817,15,0,0,0,0
+city,CA,Fowler ,2016,NA,NA,48,2,64,11,NA,NA,NA,5,3,ALP,Leonard Hammer,1,1,1,0,787,15,0,0,0,0
+city,CA,Fowler ,2018,NA,NA,48,2,64,11,NA,NA,NA,5,2,ALP,David Cardenas,1,1,2,0,1332,10,0,0,0,0
+city,CA,Fowler ,2018,NA,NA,48,2,64,11,NA,NA,NA,5,2,ALP,Mark Rodriguez,NA,1,2,0,965,10,0,0,0,0
+city,CA,Fremont,2016,NA,NA,34,3,15,49,NA,NA,NA,5,3,ALP,Vinnie Bacon,2,1,1,0,34649,15,1,1,1,1
+city,CA,Fremont,2016,NA,NA,34,3,15,49,NA,NA,NA,5,3,ALP,Raj Saiwan,2,1,4,0,23391,15,1,1,1,1
+city,CA,Fremont,2016,NA,NA,34,3,15,49,NA,NA,NA,5,3,ALP,Kathy Kimberlin,2,1,1,1,13239,15,1,1,1,1
+1,CA,Fremont,2018,NA,NA,34,3,15,49,NA,NA,NA,6,1,SSD,Teresa Keng,1,1,4,1,3880,6,1,2,2,1
+2,CA,Fremont,2018,NA,NA,34,3,15,49,NA,NA,NA,6,1,SSD,Rick Jones,2,1,1,0,5000,6,0,2,2,0
+3,CA,Fremont,2018,NA,NA,34,3,15,49,NA,NA,NA,6,1,SSD,Jenny Kassan,2,1,1,1,3613,6,1,2,2,1
+4,CA,Fremont,2018,NA,NA,34,3,15,49,NA,NA,NA,6,1,SSD,Yang Shao,1,1,4,0,2939,6,0,2,2,0
+7,CA,Frenso,2018,NA,NA,54,8,46,12,NA,NA,NA,7,1,SSD,Nelson Esparza,2,1,2,0,5591,7,0,0,0,0
+1,CA,Fresno,2014,NA,NA,54,8,46,12,NA,NA,NA,7,1,SSD,Esmeralda Soria,2,1,2,1,5430,7,1,1,1,1
+3,CA,Fresno,2014,NA,NA,54,8,46,12,NA,NA,NA,7,1,SSD,Oliver Baines,2,1,3,0,2785,7,0,1,1,0
+5,CA,Fresno,2014,NA,NA,54,8,46,12,NA,NA,NA,7,1,SSD,Sal Quintero,2,1,2,0,3742,7,0,1,1,0
+7,CA,Fresno,2014,NA,NA,54,8,46,12,NA,NA,NA,7,1,SSD,Clint Olivier,1,1,1,0,2077,7,0,1,1,0
+5,CA,Fresno,2016,NA,NA,54,8,46,12,NA,NA,NA,7,1,SSD,Luis Chavez,2,1,2,0,8079,7,0,0,0,0
+6,CA,Fresno,2016,NA,NA,54,8,46,12,NA,NA,NA,7,1,SSD,Garry Bredefeld,1,1,1,0,18721,7,0,0,0,0
+1,CA,Fresno,2018,NA,NA,54,8,46,12,NA,NA,NA,7,1,SSD,Esmeralda Soria,2,1,2,1,6337,7,1,1,1,1
+3,CA,Fresno,2018,NA,NA,54,8,46,12,NA,NA,NA,7,1,SSD,Miguel Arias,2,1,2,0,6072,7,0,1,1,0
+5,CA,Fresno,2018,NA,NA,54,8,46,12,NA,NA,NA,7,1,SSD,Luis Chavez,2,1,2,0,7912,7,0,1,1,0
+city,CA,Fullerton ,2016,NA,NA,54,3,33,23,NA,NA,NA,5,3,ALP,Jennifer Fitzgerald,1,1,1,1,20137,15,1,1,1,1
+city,CA,Fullerton ,2016,NA,NA,54,3,33,23,NA,NA,NA,5,3,ALP,Bruce Whitaker,1,1,1,0,17006,15,1,1,1,1
+city,CA,Fullerton ,2016,NA,NA,54,3,33,23,NA,NA,NA,5,3,ALP,Jesus Silva,2,1,2,0,16799,15,1,1,1,1
+3,CA,Fullerton ,2018,NA,NA,54,3,33,23,NA,NA,NA,5,1,SSD,Jesus Silva,2,1,2,0,4066,5,0,0,0,0
+5,CA,Fullerton ,2018,NA,NA,54,3,33,23,NA,NA,NA,5,1,SSD,Ahmad Zahra,2,1,6,0,2123,5,0,0,0,0
+2,CA,Garden Grove ,2016,NA,NA,43,1,36,38,NA,NA,NA,6,1,SSD,John O'Neill,NA,1,1,0,7507,6,0,3,3,0
+3,CA,Garden Grove ,2016,NA,NA,43,1,36,38,NA,NA,NA,6,1,SSD,Thu-Ha Nguyen,2,1,4,1,4657,6,1,3,3,1
+5,CA,Garden Grove ,2016,NA,NA,43,1,36,38,NA,NA,NA,6,1,SSD,Stephanine Klopfenstein,1,1,1,1,4062,6,1,3,3,1
+6,CA,Garden Grove ,2016,NA,NA,43,1,36,38,NA,NA,NA,6,1,SSD,Kim Nguyen,1,1,4,1,3144,6,1,3,3,1
+1,CA,Garden Grove ,2018,NA,NA,43,1,36,38,NA,NA,NA,6,1,SSD,George Brietigam,1,1,1,0,2822,6,0,1,1,0
+3,CA,Garden Grove ,2018,NA,NA,43,1,36,38,NA,NA,NA,6,1,SSD,Thu-Ha Nguyen,2,1,4,1,4270,6,1,1,1,1
+4,CA,Garden Grove ,2018,NA,NA,43,1,36,38,NA,NA,NA,6,1,SSD,Phat Bui,1,1,4,0,2664,6,0,1,1,0
+city,CA,Gardena,2017,NA,NA,23,23,37,38,NA,NA,NA,5,2,ALP,Rodney G. Tanaka,2,1,4,0,2747,10,0,0,0,0
+city,CA,Gardena,2017,NA,NA,23,23,37,38,NA,NA,NA,5,2,ALP,"Harout ""Art"" Kaskanian",1,1,1,0,1760,10,0,0,0,0
+city,CA,Glendora,2017,NA,NA,78,2,29,7,NA,NA,NA,5,2,ALP,Michael Allawos,1,1,1,0,3495,10,1,1,1,1
+city,CA,Glendora,2017,NA,NA,78,2,29,7,NA,NA,NA,5,2,ALP,Karen K. Davis,1,1,1,1,2756,10,1,1,1,1
+city,CA,Gridley,2016,NA,NA,80,1,51,0,NA,NA,NA,5,2,ALP,Chris Williams,1,1,1,0,1139,10,0,0,0,0
+city,CA,Gridley,2016,NA,NA,80,1,51,0,NA,NA,NA,5,2,ALP,Gary Davidson,NA,1,1,0,993,10,0,0,0,0
+city,CA,Gridley,2018,NA,NA,80,1,51,0,NA,NA,NA,5,3,ALP,Bruce Johnson,1,1,1,0,732,15,0,0,0,0
+city,CA,Gridley,2018,NA,NA,80,1,51,0,NA,NA,NA,5,3,ALP,Todd Farr,1,1,1,0,697,15,0,0,0,0
+city,CA,Gridley,2018,NA,NA,80,1,51,0,NA,NA,NA,5,3,ALP,Raymond Borges,1,1,1,0,529,15,0,0,0,0
+city,CA,Grover Beach,2016,NA,NA,82,1,21,6,NA,NA,NA,5,2,ALP,Debbie Peterson,2,1,1,1,3118,10,1,1,1,1
+city,CA,Grover Beach,2016,NA,NA,82,1,21,6,NA,NA,NA,5,2,ALP,Jeff Lee,2,1,1,0,2641,10,1,1,1,1
+city,CA,Grover Beach,2018,NA,NA,82,1,21,6,NA,NA,NA,5,2,ALP,Mariam Shah,2,1,2,1,2772,10,2,2,2,2
+city,CA,Grover Beach,2018,NA,NA,82,1,21,6,NA,NA,NA,5,2,ALP,Barbara Nicolls,NA,1,1,1,2297,10,2,2,2,2
+city,CA,Hawaiian Gardens ,2015,NA,NA,59,3,78,10,NA,NA,NA,5,2,ALP,Hank Trimble,NA,1,NA,NA,453,10,0,0,0,0
+city,CA,Hawaiian Gardens ,2015,NA,NA,59,3,78,10,NA,NA,NA,5,2,ALP,Myra Maravilla,NA,1,NA,NA,445,10,0,0,0,0
+city,CA,Hawaiian Gardens ,2018,NA,NA,59,3,78,10,NA,NA,NA,5,3,ALP,Jesse Alvarado,2,1,1,0,1403,15,1,1,1,1
+city,CA,Hawaiian Gardens ,2018,NA,NA,59,3,78,10,NA,NA,NA,5,3,ALP,Monica Rodriguez,2,1,2,1,1383,15,1,1,1,1
+city,CA,Hawaiian Gardens ,2018,NA,NA,59,3,78,10,NA,NA,NA,5,3,ALP,Luis Roa,2,1,2,0,1299,15,1,1,1,1
+city,CA,Hawthorne ,2015,NA,NA,47,27,53,6,NA,NA,NA,5,3,ALP,Nilo Michelin,NA,1,NA,NA,1533,15,0,0,0,0
+city,CA,Hawthorne ,2015,NA,NA,47,27,53,6,NA,NA,NA,5,3,ALP,Haidar Awad,NA,1,NA,NA,1504,15,0,0,0,0
+city,CA,Hawthorne ,2015,NA,NA,47,27,53,6,NA,NA,NA,5,3,ALP,Katrina Manning,NA,1,NA,NA,1470,15,0,0,0,0
+city,CA,Hawthorne ,2018,NA,NA,47,27,53,6,NA,NA,NA,5,2,ALP,Olivia Valentine,2,1,3,1,8822,10,1,1,1,1
+city,CA,Hawthorne ,2018,NA,NA,47,27,53,6,NA,NA,NA,5,2,ALP,Alex Monteiro,2,1,3,0,6721,10,1,1,1,1
+city,CA,Hayward,2016,NA,NA,37,11,40,24,NA,NA,NA,7,4,ALP,Francisco Zermeno,2,1,2,0,12217,28,1,1,1,1
+city,CA,Hayward,2016,NA,NA,37,11,40,24,NA,NA,NA,7,4,ALP,Mark Salinas,2,1,2,0,12214,28,1,1,1,1
+city,CA,Hayward,2016,NA,NA,37,11,40,24,NA,NA,NA,7,4,ALP,Elisa Marquez,2,1,2,1,10420,28,1,1,1,1
+city,CA,Hayward,2016,NA,NA,37,11,40,24,NA,NA,NA,7,4,ALP,Al Mendall,2,1,1,0,9985,28,1,1,1,1
+city,CA,Hayward,2018,NA,NA,37,11,40,24,NA,NA,NA,7,3,ALP,Aisha Wahab,2,1,6,1,15949,21,2,2,2,2
+city,CA,Hayward,2018,NA,NA,37,11,40,24,NA,NA,NA,7,3,ALP,Sara Lamnin,2,1,1,1,15172,21,2,2,2,2
+city,CA,Hayward,2018,NA,NA,37,11,40,24,NA,NA,NA,7,3,ALP,Marvin Peixoto,2,1,2,0,10197,21,2,2,2,2
+city,CA,Hercules,2016,NA,NA,28,17,12,44,NA,NA,NA,5,3,ALP,Dan Romero,2,1,2,0,6511,15,0,0,0,0
+city,CA,Hercules,2016,NA,NA,28,17,12,44,NA,NA,NA,5,3,ALP,Roland Esquivias,2,1,4,0,3706,15,0,0,0,0
+city,CA,Hercules,2016,NA,NA,28,17,12,44,NA,NA,NA,5,3,ALP,Gerard Boulanger,2,1,1,0,3026,15,0,0,0,0
+city,CA,Hercules,2018,NA,NA,28,17,12,44,NA,NA,NA,5,2,ALP,Chris Kelley,2,1,1,1,5152,10,1,1,1,1
+city,CA,Hercules,2018,NA,NA,28,17,12,44,NA,NA,NA,5,2,ALP,Dion Bailey,2,1,3,0,3739,10,1,1,1,1
+city,CA,Hermosa Beach,2015,NA,NA,86,1,8,7,NA,NA,NA,5,2,ALP,Justin Massey,NA,1,NA,NA,2082,10,0,0,0,0
+city,CA,Hermosa Beach,2015,NA,NA,86,1,8,7,NA,NA,NA,5,2,ALP,Jeff Duclos,NA,1,NA,NA,1966,10,0,0,0,0
+city,CA,Hermosa Beach,2017,NA,NA,86,1,8,7,NA,NA,NA,5,3,ALP,Stacey Armato,NA,1,NA,NA,2288,15,0,0,0,0
+city,CA,Hermosa Beach,2017,NA,NA,86,1,8,7,NA,NA,NA,5,3,ALP,Mary Campbell,NA,1,NA,NA,1934,15,0,0,0,0
+city,CA,Hermosa Beach,2017,NA,NA,86,1,8,7,NA,NA,NA,5,3,ALP,H. S. Fangary,NA,1,NA,NA,1867,15,0,0,0,0
+city,CA,Hermosa Beach,2018,NA,NA,86,1,8,7,NA,NA,NA,5,3,ALP,Stacey Armato,NA,1,NA,NA,2288,15,0,0,0,0
+city,CA,Hermosa Beach,2018,NA,NA,86,1,8,7,NA,NA,NA,5,3,ALP,Mary Campbell,NA,1,NA,NA,1934,15,0,0,0,0
+city,CA,Hermosa Beach,2018,NA,NA,86,1,8,7,NA,NA,NA,5,3,ALP,H. S. Fangary,NA,1,NA,NA,1867,15,0,0,0,0
+city,CA,Huntington Beach,2016,NA,NA,78,1,17,11,NA,NA,NA,7,3,ALP,"Jill Hardy,",2,1,1,1,39107,21,2,2,2,2
+city,CA,Huntington Beach,2016,NA,NA,78,1,17,11,NA,NA,NA,7,3,ALP,"Lyn Semeta,",1,1,1,1,34457,21,2,2,2,2
+city,CA,Huntington Beach,2016,NA,NA,78,1,17,11,NA,NA,NA,7,3,ALP,"Patrick Brenden,",1,1,1,0,28424,21,2,2,2,2
+city,CA,Huntington Beach,2018,NA,NA,78,1,17,11,NA,NA,NA,7,4,ALP,"Mike Posey,",1,1,1,0,34047,28,2,2,2,2
+city,CA,Huntington Beach,2018,NA,NA,78,1,17,11,NA,NA,NA,7,4,ALP,"Barbara Delgleize,",1,1,1,1,28691,28,2,2,2,2
+city,CA,Huntington Beach,2018,NA,NA,78,1,17,11,NA,NA,NA,7,4,ALP,"Kim Carr,",2,1,1,1,28030,28,2,2,2,2
+city,CA,Huntington Beach,2018,NA,NA,78,1,17,11,NA,NA,NA,7,4,ALP,"Erik Peterson,",1,1,1,0,26129,28,2,2,2,2
+city,CA,Huntington Park,2015,NA,NA,66,1,98,1,NA,NA,NA,5,3,ALP,Graciela Ortiz,NA,1,NA,NA,1048,15,0,0,0,0
+city,CA,Huntington Park,2015,NA,NA,66,1,98,1,NA,NA,NA,5,3,ALP,Jhonny Pineda,NA,1,NA,NA,925,15,0,0,0,0
+city,CA,Huntington Park,2015,NA,NA,66,1,98,1,NA,NA,NA,5,3,ALP,Marilyn Sanabria,NA,1,NA,NA,898,15,0,0,0,0
+city,CA,Huntington Park,2017,NA,NA,66,1,98,1,NA,NA,NA,5,2,ALP,Karina Macias,2,1,2,1,1730,10,1,1,1,1
+city,CA,Huntington Park,2017,NA,NA,66,1,98,1,NA,NA,NA,5,2,ALP,"Manuel ""Manny"" Avila",2,1,2,0,1408,10,1,1,1,1
+city,CA,Huron,2016,NA,NA,84,0.5,99,0.5,NA,NA,NA,5,2,ALP,Hilda Placencia,2,1,2,1,476,10,1,1,1,1
+city,CA,Huron,2018,NA,NA,84,0.5,99,0.5,NA,NA,NA,5,3,ALP,Roberto Pimentel,NA,1,2,0,315,15,0,0,0,0
+city,CA,Huron,2018,NA,NA,84,0.5,99,0.5,NA,NA,NA,5,3,ALP,Mike Morales,NA,1,2,0,261,15,0,0,0,0
+city,CA,Huron,2018,NA,NA,84,0.5,99,0.5,NA,NA,NA,5,3,ALP,Jorge Solorio,NA,1,2,0,198,15,0,0,0,0
+city,CA,Irvine ,2016,NA,NA,54,2,9,38,NA,NA,NA,5,2,ALP,Christina Shea,1,1,1,1,28072,10,2,2,2,2
+city,CA,Irvine ,2016,NA,NA,54,2,9,38,NA,NA,NA,5,2,ALP,Melissa Fox,2,1,1,1,24023,10,2,2,2,2
+city,CA,Irvine ,2018,NA,NA,54,2,9,38,NA,NA,NA,5,2,ALP,Farrah Khan,2,1,4,1,23085,10,1,1,1,1
+city,CA,Irvine ,2018,NA,NA,54,2,9,38,NA,NA,NA,5,2,ALP,Anthony Kuo,1,1,4,0,21071,10,1,1,1,1
+city,CA,Irwindale ,2018,NA,NA,49,1,93,1,NA,NA,NA,5,2,ALP,"Hector ""Manuel"" Ortiz",2,1,2,0,291,10,0,0,0,0
+city,CA,Irwindale ,2018,NA,NA,49,1,93,1,NA,NA,NA,5,2,ALP,"Albert F. ""Albie"" Ambriz",2,1,2,0,219,10,0,0,0,0
+city,CA,Kerman ,2016,NA,NA,76,0,71,7,NA,NA,NA,5,2,ALP,Kanwaldeep Dhaliwa,2,1,4,0,1422,10,0,0,0,0
+city,CA,Kerman ,2016,NA,NA,76,0,71,7,NA,NA,NA,5,2,ALP,Espiridion Sandoval,2,1,2,0,1153,10,0,0,0,0
+1,CA,Kerman ,2018,NA,NA,76,0,71,7,NA,NA,NA,5,1,SSD,Ismael Herrera,NA,1,2,0,398,5,0,0,0,0
+2,CA,Kerman ,2018,NA,NA,76,0,71,7,NA,NA,NA,5,1,SSD,Gary Yep,NA,1,4,0,721,5,0,0,0,0
+city,CA,Kingsburg ,2016,NA,NA,69,0.5,49,5,NA,NA,NA,5,2,ALP,Laura North,NA,1,1,1,2600,10,1,1,1,1
+city,CA,Kingsburg ,2016,NA,NA,69,0.5,49,5,NA,NA,NA,5,2,ALP,Sherman Dix,NA,1,1,0,2141,10,1,1,1,1
+1,CA,Kingsburg ,2018,NA,NA,69,0.5,49,5,NA,NA,NA,5,1,SSD,Jewel Hurtado,2,1,2,1,292,5,1,1,1,1
+5,CA,Kingsburg ,2018,NA,NA,69,0.5,49,5,NA,NA,NA,5,1,SSD,Vince Palomar,NA,1,2,0,280,5,0,1,1,0
+city,CA,La Canada Flintridge,2017,NA,NA,71,0.5,5,26,NA,NA,NA,5,2,ALP,Jonathan C. Curtis,2,1,1,0,2665,10,0,0,0,0
+city,CA,La Canada Flintridge,2017,NA,NA,71,0.5,5,26,NA,NA,NA,5,2,ALP,David A. Spence,1,1,1,0,2565,10,0,0,0,0
+city,CA,La Habra Heights ,2017,NA,NA,79,0.5,24,13,NA,NA,NA,5,3,ALP,Brian Bergman,2,1,1,0,711,15,0,0,0,0
+city,CA,La Habra Heights ,2017,NA,NA,79,0.5,24,13,NA,NA,NA,5,3,ALP,Carey Klingfus,1,1,1,0,574,15,0,0,0,0
+city,CA,La Habra Heights ,2017,NA,NA,79,0.5,24,13,NA,NA,NA,5,3,ALP,Norm Zezula,1,1,1,0,572,15,0,0,0,0
+city,CA,La Habra,2014,NA,NA,55,2,58,7,NA,NA,NA,5,2,ALP,James Gomez,1,1,1,0,10496,10,0,0,0,0
+city,CA,La Habra,2014,NA,NA,55,2,58,7,NA,NA,NA,5,2,ALP,Jose Medrano,1,1,2,0,8711,10,0,0,0,0
+city,CA,La Habra,2016,NA,NA,55,2,58,7,NA,NA,NA,5,3,ALP,Tim Shaw,1,1,1,0,13243,15,1,1,1,1
+city,CA,La Habra,2016,NA,NA,55,2,58,7,NA,NA,NA,5,3,ALP,Rose Espinoza,2,1,2,1,9063,15,1,1,1,1
+city,CA,La Habra,2016,NA,NA,55,2,58,7,NA,NA,NA,5,3,ALP,Tom Beamish,1,1,1,0,8597,15,1,1,1,1
+city,CA,La Habra,2018,NA,NA,55,2,58,7,NA,NA,NA,5,2,ALP,Michele Steggell,1,1,1,1,3164,10,1,1,1,1
+city,CA,La Habra,2018,NA,NA,55,2,58,7,NA,NA,NA,5,2,ALP,Nitesh Patel,1,1,4,0,2979,10,1,1,1,1
+1,CA,La Mirada ,2017,NA,NA,54,2,40,18,NA,NA,NA,5,1,SSD,D1: John Lewis,2,1,1,0,442,5,0,0,0,0
+2,CA,La Mirada ,2017,NA,NA,54,2,40,18,NA,NA,NA,5,1,SSD,D2: Andrew Sarega,NA,1,1,0,477,5,0,0,0,0
+city,CA,La Palma,2016,NA,NA,40,7,14,46,NA,NA,NA,5,2,ALP,Gerard Goedhart,1,1,1,0,4086,10,0,0,0,0
+city,CA,La Palma,2016,NA,NA,40,7,14,46,NA,NA,NA,5,2,ALP,Peter Kim,2,1,4,0,4040,10,0,0,0,0
+city,CA,La Puente ,2018,NA,NA,64,2,86,8,NA,NA,NA,5,2,ALP,Valerie Muñoz,2,1,2,1,5144,10,1,1,1,1
+city,CA,La Puente ,2018,NA,NA,64,2,86,8,NA,NA,NA,5,2,ALP,Charlie Klinakis,NA,1,1,0,3304,10,1,1,1,1
+city,CA,La Verne,2017,NA,NA,77,4,29,8,NA,NA,NA,5,2,ALP,Robin M. Carde,2,1,1,1,3369,10,1,1,1,1
+city,CA,La Verne,2017,NA,NA,77,4,29,8,NA,NA,NA,5,2,ALP,Muir Davis,2,1,1,0,2688,10,1,1,1,1
+city,CA,Lafayette,2016,NA,NA,87,1,6,8,NA,NA,NA,5,2,ALP,Mike Anderson,1,1,3,0,8261,10,0,0,0,0
+city,CA,Lafayette,2016,NA,NA,87,1,6,8,NA,NA,NA,5,2,ALP,Mark Mitchell,NA,1,1,0,7985,10,0,0,0,0
+city,CA,Lafayette,2018,NA,NA,87,1,6,8,NA,NA,NA,5,2,ALP,Susan Candell,2,1,1,1,6408,10,2,2,2,2
+city,CA,Lafayette,2018,NA,NA,87,1,6,8,NA,NA,NA,5,2,ALP,Teresa Gerringer,2,1,1,1,5231,10,2,2,2,2
+city,CA,Laguna Beach ,2016,NA,NA,91,1,7,4,NA,NA,NA,5,2,ALP,Bob Whalen,2,1,1,0,7039,10,0,0,0,0
+city,CA,Laguna Beach ,2016,NA,NA,91,1,7,4,NA,NA,NA,5,2,ALP,Steve Dicterow,1,1,1,0,5452,10,0,0,0,0
+city,CA,Laguna Beach ,2018,NA,NA,91,1,7,4,NA,NA,NA,5,3,ALP,Peter Blake,NA,1,1,0,4881,15,2,2,2,2
+city,CA,Laguna Beach ,2018,NA,NA,91,1,7,4,NA,NA,NA,5,3,ALP,Toni Iseman,2,1,1,1,4792,15,2,2,2,2
+city,CA,Laguna Beach ,2018,NA,NA,91,1,7,4,NA,NA,NA,5,3,ALP,Sue Kempf,2,1,1,1,4483,15,2,2,2,2
+city,CA,Laguna Hills ,2016,NA,NA,74,1,19,12,NA,NA,NA,5,2,ALP,Janine Heft,1,1,1,1,8165,10,1,1,1,1
+city,CA,Laguna Hills ,2016,NA,NA,74,1,19,12,NA,NA,NA,5,2,ALP,Dore John Gilbert,1,1,1,0,5424,10,1,1,1,1
+city,CA,Laguna Hills ,2018,NA,NA,74,1,19,12,NA,NA,NA,5,3,ALP,Don Sedgwick,1,1,1,0,6407,15,1,1,1,1
+city,CA,Laguna Hills ,2018,NA,NA,74,1,19,12,NA,NA,NA,5,3,ALP,David Wheeler,1,1,1,0,5803,15,1,1,1,1
+city,CA,Laguna Hills ,2018,NA,NA,74,1,19,12,NA,NA,NA,5,3,ALP,Erica Pezold,1,1,1,1,5723,15,1,1,1,1
+city,CA,Laguna Niguel,2016,NA,NA,80,2,13,10,NA,NA,NA,5,3,ALP,Laurie Davies,1,1,1,1,19189,15,1,1,1,1
+city,CA,Laguna Niguel,2016,NA,NA,80,2,13,10,NA,NA,NA,5,3,ALP,Jerry Slusiewicz,1,1,1,0,12658,15,1,1,1,1
+city,CA,Laguna Niguel,2016,NA,NA,80,2,13,10,NA,NA,NA,5,3,ALP,John Jennings,1,1,1,0,11326,15,1,1,1,1
+1,CA,Laguna Niguel,2018,NA,NA,80,2,13,10,NA,NA,NA,5,1,SSD,Sandy Rains,1,1,1,1,15015,5,1,2,2,1
+2,CA,Laguna Niguel,2018,NA,NA,80,2,13,10,NA,NA,NA,5,1,SSD,Elaine Gennaway,1,1,1,1,18596,5,1,2,2,1
+city,CA,Laguna Woods,2018,NA,NA,88,1,4,10,NA,NA,NA,5,2,ALP,Carol Moore,1,1,1,1,5472,10,1,1,1,1
+city,CA,Laguna Woods,2018,NA,NA,88,1,4,10,NA,NA,NA,5,2,ALP,Joe Rainey,1,1,1,0,5055,10,1,1,1,1
+city,CA,Lake Forest,2016,NA,NA,67,2,23,15,NA,NA,NA,5,2,ALP,Leah Basile,1,1,1,1,13912,10,1,1,1,1
+city,CA,Lake Forest,2016,NA,NA,67,2,23,15,NA,NA,NA,5,2,ALP,Dwight Robinson,1,1,1,0,9984,10,1,1,1,1
+2,CA,Lake Forest,2018,NA,NA,67,2,23,15,NA,NA,NA,5,1,SSD,Neeki Moatazedi,1,1,1,1,4194,5,1,1,1,1
+4,CA,Lake Forest,2018,NA,NA,67,2,23,15,NA,NA,NA,5,1,SSD,Mark Tettemer,1,1,1,0,3333,5,0,1,1,0
+6,CA,Lake Forest,2018,NA,NA,67,2,23,15,NA,NA,NA,5,1,SSD,Scott Voigts,1,1,1,0,4206,5,0,1,1,0
+city,CA,Lakewood,2017,NA,NA,53,8,30,16,NA,NA,NA,5,3,ALP,Todd Rogers,2,1,1,0,4854,15,1,1,1,1
+city,CA,Lakewood,2017,NA,NA,53,8,30,16,NA,NA,NA,5,3,ALP,Diane Dubois,2,1,1,1,4596,15,1,1,1,1
+city,CA,Lakewood,2017,NA,NA,53,8,30,16,NA,NA,NA,5,3,ALP,Steve Croft,2,1,1,0,4596,15,1,1,1,1
+city,CA,Lawndale,2018,NA,NA,48,8,60,11,NA,NA,NA,5,2,ALP,Bernadette Lourdes Suarez,NA,1,1,1,3609,10,1,1,1,1
+city,CA,Lawndale,2018,NA,NA,48,8,60,11,NA,NA,NA,5,2,ALP,Pat Kearney,1,1,1,0,3024,10,1,1,1,1
+city,CA,Livermore,2016,NA,NA,79,2,19,10,NA,NA,NA,5,2,ALP,"Bob Coomber,",2,1,1,0,18153,10,0,0,0,0
+city,CA,Livermore,2016,NA,NA,79,2,19,10,NA,NA,NA,5,2,ALP,"Robert W Carling,",2,1,1,0,12427,10,0,0,0,0
+city,CA,Livermore,2018,NA,NA,79,2,19,10,NA,NA,NA,5,2,ALP,"Bob Woerner,",1,1,1,0,15824,10,1,1,1,1
+city,CA,Livermore,2018,NA,NA,79,2,19,10,NA,NA,NA,5,2,ALP,"Trish Munro,",2,1,1,1,10977,10,1,1,1,1
+city,CA,Lomita ,2018,NA,NA,62,2,38,16,NA,NA,NA,5,3,ALP,Cindy Segawa,2,1,1,1,3733,15,1,1,1,1
+city,CA,Lomita ,2018,NA,NA,62,2,38,16,NA,NA,NA,5,3,ALP,Mark Waronek,1,1,1,0,3543,15,1,1,1,1
+city,CA,Lomita ,2018,NA,NA,62,2,38,16,NA,NA,NA,5,3,ALP,Jim Gazeley,2,1,1,0,3364,15,1,1,1,1
+2,CA,Long Beach,2016,NA,NA,50,14,40,13,NA,NA,NA,9,1,SSD,Jeannine Pearce,NA,1,NA,NA,5706,9,0,0,0,0
+5,CA,Long Beach,2018,NA,NA,50,14,40,13,NA,NA,NA,9,1,SSD,D5: Stacy Mungo,2,1,1,1,8390,9,1,1,1,1
+7,CA,Long Beach,2018,NA,NA,50,14,40,13,NA,NA,NA,9,1,SSD,D7: Roberto Uranga,2,1,1,0,4733,9,0,1,1,0
+city,CA,Los Alamitos,2016,NA,NA,73,3,21,14,NA,NA,NA,5,2,ALP,Josh Wilson,1,1,1,0,2676,10,0,0,0,0
+city,CA,Los Alamitos,2016,NA,NA,73,3,21,14,NA,NA,NA,5,2,ALP,Richard Murphy,1,1,1,0,2245,10,0,0,0,0
+city,CA,Los Alamitos,2018,NA,NA,73,3,21,14,NA,NA,NA,5,4,ALP,Mark Chirco,NA,1,1,0,2344,20,1,1,1,1
+city,CA,Los Alamitos,2018,NA,NA,73,3,21,14,NA,NA,NA,5,4,ALP,Shelley Hasselbrink,1,1,1,1,2284,20,1,1,1,1
+city,CA,Los Alamitos,2018,NA,NA,73,3,21,14,NA,NA,NA,5,4,ALP,Warren Kusumoto,1,1,4,0,1974,20,1,1,1,1
+city,CA,Los Alamitos,2018,NA,NA,73,3,21,14,NA,NA,NA,5,4,ALP,Dean Grose,1,1,1,0,1890,20,1,1,1,1
+1,CA,Los Angeles,2017,NA,NA,52,10,48,11,NA,NA,NA,15,1,SSD,"D1: Gilbert ""Gil"" Cedillo",2,1,2,0,10396,15,0,0,0,0
+11,CA,Los Angeles,2017,NA,NA,52,10,48,11,NA,NA,NA,15,1,SSD,D11: Mike Bonin,2,1,1,0,31865,15,0,0,0,0
+13,CA,Los Angeles,2017,NA,NA,52,10,48,11,NA,NA,NA,15,1,SSD,D13: Mitch O'Farrell,2,1,1,0,17053,15,0,0,0,0
+15,CA,Los Angeles,2017,NA,NA,52,10,48,11,NA,NA,NA,15,1,SSD,D15: Joe Buscaino,2,1,1,0,12497,15,0,0,0,0
+3,CA,Los Angeles,2017,NA,NA,52,10,48,11,NA,NA,NA,15,1,SSD,D3: Bob Blumenfield,2,1,1,0,19063,15,0,0,0,0
+5,CA,Los Angeles,2017,NA,NA,52,10,48,11,NA,NA,NA,15,1,SSD,D5: Paul Kortez,2,1,1,0,25914,15,0,0,0,0
+9,CA,Los Angeles,2017,NA,NA,52,10,48,11,NA,NA,NA,15,1,SSD,D9: Curren D. Price,2,1,3,0,6565,15,0,0,0,0
+12,CA,Los Angeles,2019,NA,NA,52,10,48,11,NA,NA,NA,15,1,SSD,D12: John Lee,NA,1,NA,NA,19426,15,0,0,0,0
+city,CA,Lynwood,2015,NA,NA,33,9,87,1,NA,NA,NA,5,2,ALP,Salvador Alatorre,NA,1,NA,NA,1092,10,0,0,0,0
+city,CA,Lynwood,2015,NA,NA,33,9,87,1,NA,NA,NA,5,2,ALP,Aidé Castro,NA,1,NA,NA,1061,10,0,0,0,0
+city,CA,Lynwood,2018,NA,NA,33,9,87,1,NA,NA,NA,5,3,ALP,José Luis Solache,2,1,2,0,5362,15,1,1,1,1
+city,CA,Lynwood,2018,NA,NA,33,9,87,1,NA,NA,NA,5,3,ALP,Marisela Santana,NA,1,2,1,3304,15,1,1,1,1
+city,CA,Lynwood,2018,NA,NA,33,9,87,1,NA,NA,NA,5,3,ALP,Jorge Casanova,NA,1,2,0,3190,15,1,1,1,1
+city,CA,Malibu,2016,NA,NA,88,2,6,4,NA,NA,NA,5,3,ALP,Rick Mullen,NA,1,NA,NA,3888,15,0,0,0,0
+city,CA,Malibu,2016,NA,NA,88,2,6,4,NA,NA,NA,5,3,ALP,"Jefferson ""Zuma Jay"" Wagner",NA,1,NA,NA,3619,15,0,0,0,0
+city,CA,Malibu,2016,NA,NA,88,2,6,4,NA,NA,NA,5,3,ALP,Skylar Peak,NA,1,NA,NA,3228,15,0,0,0,0
+city,CA,Malibu,2018,NA,NA,88,2,6,4,NA,NA,NA,5,2,ALP,Karen Farrer,NA,1,NA,NA,2855,10,0,0,0,0
+city,CA,Malibu,2018,NA,NA,88,2,6,4,NA,NA,NA,5,2,ALP,Mikke Pierson,NA,1,NA,NA,2460,10,0,0,0,0
+city,CA,Manhattan Beach,2015,NA,NA,85,0.5,8,8,NA,NA,NA,5,2,ALP,Sergio Joseph Calderon,NA,1,NA,NA,654,10,0,0,0,0
+city,CA,Manhattan Beach,2015,NA,NA,85,0.5,8,8,NA,NA,NA,5,2,ALP,Ramon Medina,NA,1,NA,NA,628,10,0,0,0,0
+city,CA,Manhattan Beach,2017,NA,NA,85,0.5,8,8,NA,NA,NA,5,3,ALP,Steve Napolitano,NA,1,NA,NA,4450,15,0,0,0,0
+city,CA,Manhattan Beach,2017,NA,NA,85,0.5,8,8,NA,NA,NA,5,3,ALP,Nancy Hersman,NA,1,NA,NA,3472,15,0,0,0,0
+city,CA,Manhattan Beach,2017,NA,NA,85,0.5,8,8,NA,NA,NA,5,3,ALP,Richard P. Montgomery,NA,1,NA,NA,2753,15,0,0,0,0
+city,CA,Martinez,2016,NA,NA,80,5,14,8,NA,NA,NA,5,2,ALP,Mark Ross,2,1,1,0,17075,10,1,1,1,1
+city,CA,Martinez,2016,NA,NA,80,5,14,8,NA,NA,NA,5,2,ALP,Noralea Gipner,NA,1,1,1,5161,10,1,1,1,1
+1,CA,Martinez,2018,NA,NA,80,5,14,8,NA,NA,NA,5,1,SSD,Debbie McKillop,1,1,1,1,2326,5,1,2,2,1
+2,CA,Martinez,2018,NA,NA,80,5,14,8,NA,NA,NA,5,1,SSD,Lara Delaney,1,1,1,1,3090,5,1,2,2,1
+city,CA,Maywood,2018,NA,NA,66,1,98,0.5,NA,NA,NA,5,3,ALP,Heber A. Marquez,NA,1,NA,NA,2882,15,0,0,0,0
+city,CA,Maywood,2018,NA,NA,66,1,98,0.5,NA,NA,NA,5,3,ALP,Ricardo Lara,NA,1,NA,NA,2681,15,0,0,0,0
+city,CA,Maywood,2018,NA,NA,66,1,98,0.5,NA,NA,NA,5,3,ALP,"Eduardo ""Eddie"" De La Riva",NA,1,NA,NA,2484,15,0,0,0,0
+city,CA,Mendota,2016,NA,NA,86,1,96,2,NA,NA,NA,5,2,ALP,Victor Martinez,1,1,2,0,599,10,0,0,0,0
+city,CA,Mendota,2016,NA,NA,86,1,96,2,NA,NA,NA,5,2,ALP,Oscar Rosales,1,1,2,0,568,10,0,0,0,0
+city,CA,Mendota,2018,NA,NA,86,1,96,2,NA,NA,NA,5,3,ALP,Rolando Castro,1,1,2,0,605,15,0,0,0,0
+city,CA,Mendota,2018,NA,NA,86,1,96,2,NA,NA,NA,5,3,ALP,Jesse Mendoza,1,1,2,0,509,15,0,0,0,0
+city,CA,Mendota,2018,NA,NA,86,1,96,2,NA,NA,NA,5,3,ALP,Robert Silva,1,1,2,0,450,15,0,0,0,0
+city,CA,Mission Viejo,2016,NA,NA,80,1,15,9,NA,NA,NA,5,2,ALP,"Patricia Kelley,",1,1,1,1,22724,10,1,1,1,1
+city,CA,Mission Viejo,2016,NA,NA,80,1,15,9,NA,NA,NA,5,2,ALP,"Brian Goodell,",1,1,1,0,20198,10,1,1,1,1
+city,CA,Mission Viejo,2018,NA,NA,80,1,15,9,NA,NA,NA,5,3,ALP,"Ed Sachs,",1,1,1,0,25886,15,1,1,1,1
+city,CA,Mission Viejo,2018,NA,NA,80,1,15,9,NA,NA,NA,5,3,ALP,"Wendy Bucknum,",1,1,1,1,25206,15,1,1,1,1
+city,CA,Mission Viejo,2018,NA,NA,80,1,15,9,NA,NA,NA,5,3,ALP,"Greg Raths,",1,1,1,0,25017,15,1,1,1,1
+city,CA,Montebello,2015,NA,NA,57,1,79,10,NA,NA,NA,5,2,ALP,Jack Hadjinian,NA,1,NA,NA,2111,10,0,0,0,0
+city,CA,Montebello,2015,NA,NA,57,1,79,10,NA,NA,NA,5,2,ALP,Vanessa Delgado,NA,1,NA,NA,1899,10,0,0,0,0
+city,CA,Montebello,2018,NA,NA,57,1,79,10,NA,NA,NA,5,3,ALP,Salvador Melendez,NA,1,NA,NA,4176,15,0,0,0,0
+city,CA,Montebello,2018,NA,NA,57,1,79,10,NA,NA,NA,5,3,ALP,Kimberly Ann Cobos-Cawthorne,NA,1,NA,NA,4111,15,0,0,0,0
+city,CA,Montebello,2018,NA,NA,57,1,79,10,NA,NA,NA,5,3,ALP,Angie M. Jimenez,NA,1,NA,NA,4056,15,0,0,0,0
+city,CA,Monterey Park,2016,NA,NA,19,0.5,28,65,NA,NA,NA,5,3,ALP,Jennifer Perez,NA,1,NA,NA,2373,15,0,0,0,0
+city,CA,Monterey Park,2016,NA,NA,19,0.5,28,65,NA,NA,NA,5,3,ALP,Tony Ayala,NA,1,NA,NA,2298,15,0,0,0,0
+city,CA,Monterey Park,2016,NA,NA,19,0.5,28,65,NA,NA,NA,5,3,ALP,"Esperanza ""Espie"" Free",NA,1,NA,NA,1499,15,0,0,0,0
+city,CA,Monterey Park,2017,NA,NA,19,0.5,28,65,NA,NA,NA,5,2,ALP,Peter Chan,NA,1,NA,NA,2546,10,0,0,0,0
+city,CA,Monterey Park,2017,NA,NA,19,0.5,28,65,NA,NA,NA,5,2,ALP,Hans Liang,NA,1,NA,NA,2223,10,0,0,0,0
+city,CA,Moraga ,2016,NA,NA,79,2,7,15,NA,NA,NA,5,3,ALP,Roger Wykle,1,1,1,0,4175,15,2,2,2,2
+city,CA,Moraga ,2016,NA,NA,79,2,7,15,NA,NA,NA,5,3,ALP,Kymberleigh Korpus,1,1,1,1,3397,15,2,2,2,2
+city,CA,Moraga ,2016,NA,NA,79,2,7,15,NA,NA,NA,5,3,ALP,Jeanette Fritzky,2,1,4,1,2996,15,2,2,2,2
+city,CA,Moraga ,2018,NA,NA,79,2,7,15,NA,NA,NA,5,2,ALP,Mike McCluer,2,1,1,0,5050,10,0,0,0,0
+city,CA,Moraga ,2018,NA,NA,79,2,7,15,NA,NA,NA,5,2,ALP,Steve Woehleke,NA,1,1,0,4272,10,0,0,0,0
+city,CA,Morro Bay ,2016,NA,NA,96,0.5,18,2,NA,NA,NA,5,2,ALP,Marlys McPherson,2,1,1,1,2853,10,1,1,1,1
+city,CA,Morro Bay ,2016,NA,NA,96,0.5,18,2,NA,NA,NA,5,2,ALP,Robert Davis,2,1,1,0,2715,10,1,1,1,1
+city,CA,Morro Bay ,2018,NA,NA,96,0.5,18,2,NA,NA,NA,5,2,ALP,Dawn Addis,2,1,1,1,3062,10,1,1,1,1
+city,CA,Morro Bay ,2018,NA,NA,96,0.5,18,2,NA,NA,NA,5,2,ALP,Jeff Heller,2,1,1,0,2202,10,1,1,1,1
+city,CA,Newark ,2014,NA,NA,42,4,35,26,NA,NA,NA,5,2,ALP,c,1,1,1,0,1745,10,0,0,0,0
+city,CA,Newark ,2014,NA,NA,42,4,35,26,NA,NA,NA,5,2,ALP,Mike Bucci,2,1,1,0,1427,10,0,0,0,0
+1,CA,Newport Beach,2016,NA,NA,88,1,7,8,NA,NA,NA,7,1,SSD,Jeff Herdman,1,1,1,0,12986,7,0,0,0,0
+2,CA,Newport Beach,2016,NA,NA,88,1,7,8,NA,NA,NA,7,1,SSD,Will O'Neill,1,1,1,0,18186,7,0,0,0,0
+5,CA,Newport Beach,2016,NA,NA,88,1,7,8,NA,NA,NA,7,1,SSD,Brad Avery,1,1,1,0,20671,7,0,0,0,0
+1,CA,Newport Beach,2018,NA,NA,88,1,7,8,NA,NA,NA,7,1,SSD,Diane Dixon,1,1,1,1,21169,7,1,2,2,1
+3,CA,Newport Beach,2018,NA,NA,88,1,7,8,NA,NA,NA,7,1,SSD,Marshall Duffield,1,1,1,0,18458,7,0,2,2,0
+4,CA,Newport Beach,2018,NA,NA,88,1,7,8,NA,NA,NA,7,1,SSD,Kevin Muldoon,1,1,1,0,24227,7,0,2,2,0
+6,CA,Newport Beach,2018,NA,NA,88,1,7,8,NA,NA,NA,7,1,SSD,Joy Brenner,1,1,1,1,20514,7,1,2,2,1
+city,CA,Norwalk,2015,NA,NA,52,14,22,5,NA,NA,NA,15,4,ALP,Barbara Smyth,2,1,1,1,7930,60,1,1,1,1
+city,CA,Norwalk,2015,NA,NA,52,14,22,5,NA,NA,NA,15,4,ALP,Greg Burnette Sr.,2,1,3,0,7560,60,1,1,1,1
+city,CA,Norwalk,2015,NA,NA,52,14,22,5,NA,NA,NA,15,4,ALP,Doug Stern,2,1,1,0,7337,60,1,1,1,1
+city,CA,Norwalk,2015,NA,NA,52,14,22,5,NA,NA,NA,15,4,ALP,Nick Sacchinelli,2,1,1,0,7298,60,1,1,1,1
+2,CA,Oakland,2014,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,ABEL GUILLEN,NA,1,2,0,4886,8,0,2,2,0
+4,CA,Oakland,2014,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,ANNIE CAMPBELL WASHINGTON,NA,1,1,1,11358,8,1,2,2,1
+6,CA,Oakland,2014,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,DESLEY BROOKS,NA,1,3,1,4772,8,1,2,2,1
+1,CA,Oakland,2016,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,Dan Kalb,2,1,1,0,24955,8,0,2,2,0
+3,CA,Oakland,2016,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,Lynette Gibson McElhaney,2,1,3,1,13025,8,1,2,2,1
+4,CA,Oakland,2016,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,"Maria ""Sucy"" Collazo",2,1,2,1,9917,8,1,2,2,1
+5,CA,Oakland,2016,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,Noel Gallo,2,1,1,0,7775,8,0,2,2,0
+7,CA,Oakland,2016,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,"Larry Reid,",2,1,3,0,8392,8,0,2,2,0
+2,CA,Oakland,2018,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,Nikki Fortunato Bas,2,1,4,1,11273,8,1,3,3,1
+4,CA,Oakland,2018,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,Sheng Thao,2,1,4,1,8739,8,1,3,3,1
+6,CA,Oakland,2018,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,Loren Taylor,2,1,3,1,7144,8,1,3,3,1
+5,CA,Oakland,2019,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,(ward 5) David Greenwell,1,1,1,0,1314,8,0,1,1,0
+6,CA,Oakland,2019,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,(ward 6) Jobeth Hamon,2,1,1,1,1334,8,1,1,1,1
+8,CA,Oakland,2019,NA,NA,39,28,25,16,NA,NA,NA,8,1,RCV,(Ward 8) Mark Stonecipher,1,1,1,0,2393,8,0,1,1,0
+city,CA,Oakley,2016,NA,NA,65,8,40,6,NA,NA,NA,5,3,ALP,Doug Hardcastle,2,1,1,0,4708,15,1,1,1,1
+city,CA,Oakley,2016,NA,NA,65,8,40,6,NA,NA,NA,5,3,ALP,Kevin Romick,2,1,1,0,3935,15,1,1,1,1
+city,CA,Oakley,2016,NA,NA,65,8,40,6,NA,NA,NA,5,3,ALP,Claire Alaura,2,1,4,1,3441,15,1,1,1,1
+city,CA,Oakley,2018,NA,NA,65,8,40,6,NA,NA,NA,5,2,ALP,Sue Higgins,2,1,1,1,6067,10,1,1,1,1
+city,CA,Oakley,2018,NA,NA,65,8,40,6,NA,NA,NA,5,2,ALP,Randy Pope,1,1,1,0,5460,10,1,1,1,1
+city,CA,Orange ,2018,NA,NA,62,1,38,12,NA,NA,NA,5,2,ALP,Kimberlee Nichols,1,1,1,1,15494,10,1,1,1,1
+city,CA,Orange ,2018,NA,NA,62,1,38,12,NA,NA,NA,5,2,ALP,Chip Monaco,1,1,1,0,15080,10,1,1,1,1
+city,CA,Orange Cove,2014,NA,NA,54,2,96,0,NA,NA,NA,5,2,ALP,Gilbert Garcia,1,1,2,0,478,10,1,1,1,1
+city,CA,Orange Cove,2014,NA,NA,54,2,96,0,NA,NA,NA,5,2,ALP,Minerva Pineda,NA,1,2,1,451,10,1,1,1,1
+city,CA,Orange Cove,2018,NA,NA,54,2,96,0,NA,NA,NA,5,2,ALP,Esperanza Rodriguez,2,1,2,1,835,10,1,1,1,1
+city,CA,Orange Cove,2018,NA,NA,54,2,96,0,NA,NA,NA,5,2,ALP,Roy Rodriguez,2,1,2,0,669,10,1,1,1,1
+city,CA,Orinda ,2016,NA,NA,82,2,4,10,NA,NA,NA,5,2,ALP,Inga Miller,2,1,1,1,4683,10,2,2,2,2
+city,CA,Orinda ,2016,NA,NA,82,2,4,10,NA,NA,NA,5,2,ALP,Darlene Gee,2,1,1,1,4364,10,2,2,2,2
+city,CA,Orinda ,2018,NA,NA,82,2,4,10,NA,NA,NA,5,3,ALP,Amy Worth,2,1,1,1,6807,15,1,1,1,1
+city,CA,Orinda ,2018,NA,NA,82,2,4,10,NA,NA,NA,5,3,ALP,Dennis Fay,2,1,1,0,5714,15,1,1,1,1
+city,CA,Orinda ,2018,NA,NA,82,2,4,10,NA,NA,NA,5,3,ALP,Nick Fay,2,1,1,0,5380,15,1,1,1,1
+city,CA,Oroville,2016,NA,NA,71,3,11,11,NA,NA,NA,7,3,ALP,Linda Draper,1,1,1,1,1926,21,2,2,2,2
+city,CA,Oroville,2016,NA,NA,71,3,11,11,NA,NA,NA,7,3,ALP,Janet Goodson,2,1,3,1,1828,21,2,2,2,2
+city,CA,Oroville,2016,NA,NA,71,3,11,11,NA,NA,NA,7,3,ALP,Scott Thomson,1,1,1,0,1723,21,2,2,2,2
+city,CA,Oroville,2018,NA,NA,71,3,11,11,NA,NA,NA,7,3,ALP,David Pittman,1,1,1,0,2433,21,0,0,0,0
+city,CA,Oroville,2018,NA,NA,71,3,11,11,NA,NA,NA,7,3,ALP,Art Hatley,1,1,1,0,1636,21,0,0,0,0
+city,CA,Oroville,2018,NA,NA,71,3,11,11,NA,NA,NA,7,3,ALP,Eric Smith,1,1,1,0,1457,21,0,0,0,0
+1,CA,Palmdale,2016,NA,NA,43,14,54,4,NA,NA,NA,5,1,SSD,D1: Austin Bishop,NA,1,NA,NA,3220,5,0,0,0,0
+2,CA,Palmdale,2016,NA,NA,43,14,54,4,NA,NA,NA,5,1,SSD,D2: Steven D. Hofbauer,NA,1,NA,NA,6231,5,0,0,0,0
+3,CA,Palmdale,2016,NA,NA,43,14,54,4,NA,NA,NA,5,1,SSD,D3: Laura Bettencourt,NA,1,NA,NA,3512,5,0,0,0,0
+4,CA,Palmdale,2016,NA,NA,43,14,54,4,NA,NA,NA,5,1,SSD,D4: Juan Ventura,NA,1,NA,NA,3811,5,0,0,0,0
+3,CA,Palmdale,2018,NA,NA,43,14,54,4,NA,NA,NA,5,1,SSD,D3: Laura Bettencourt,NA,1,NA,NA,6457,5,0,0,0,0
+4,CA,Palmdale,2018,NA,NA,43,14,54,4,NA,NA,NA,5,1,SSD,D4: Juan Carrillo Ventura,NA,1,NA,NA,5124,5,0,0,0,0
+city,CA,Palos Verdes Estates,2017,NA,NA,61,3,8,29,NA,NA,NA,5,2,ALP,Kenneth J. Kao,NA,1,NA,NA,2242,10,0,0,0,0
+city,CA,Palos Verdes Estates,2017,NA,NA,61,3,8,29,NA,NA,NA,5,2,ALP,Sanford S. Davidson,NA,1,NA,NA,2001,10,0,0,0,0
+city,CA,Paradise,2016,NA,NA,91,1,8,1,NA,NA,NA,5,3,ALP,Greg Bolin,NA,1,1,0,6847,15,1,1,1,1
+city,CA,Paradise,2016,NA,NA,91,1,8,1,NA,NA,NA,5,3,ALP,Mike Zuccolillo,1,1,1,0,6308,15,1,1,1,1
+city,CA,Paradise,2016,NA,NA,91,1,8,1,NA,NA,NA,5,3,ALP,Melissa Schuster,NA,1,1,1,5786,15,1,1,1,1
+city,CA,Paradise,2018,NA,NA,91,1,8,1,NA,NA,NA,5,2,ALP,Steve Crowder,1,1,1,0,5561,10,1,1,1,1
+city,CA,Paradise,2018,NA,NA,91,1,8,1,NA,NA,NA,5,2,ALP,Jody Jones,1,1,1,1,5266,10,1,1,1,1
+city,CA,Paramount ,2017,NA,NA,33,10,80,3,NA,NA,NA,5,2,ALP,Laurie Guillen,NA,1,NA,NA,1141,10,0,0,0,0
+city,CA,Paramount ,2017,NA,NA,33,10,80,3,NA,NA,NA,5,2,ALP,Peggy Lemons,NA,1,NA,NA,1008,10,0,0,0,0
+1,CA,Parlier,2016,NA,NA,60,1,97,0.5,NA,NA,NA,5,1,SSD,Noe Rodriquez,NA,1,2,0,347,5,0,0,0,0
+3,CA,Parlier,2016,NA,NA,60,1,97,0.5,NA,NA,NA,5,1,SSD,Jose Escoto,NA,1,2,0,335,5,0,0,0,0
+2,CA,Parlier,2018,NA,NA,60,1,97,0.5,NA,NA,NA,5,1,SSD,Trinidad Pimentel,2,1,2,NA,196,5,0,1,1,0
+4,CA,Parlier,2018,NA,NA,60,1,97,0.5,NA,NA,NA,5,1,SSD,Diane Maldonado,2,1,2,1,224,5,1,1,1,1
+3,CA,Pasadena,2017,NA,NA,63,11,34,14,NA,NA,NA,7,1,SSD,D3: John J. Kennedy,NA,1,NA,NA,1108,7,0,0,0,0
+5,CA,Pasadena,2017,NA,NA,63,11,34,14,NA,NA,NA,7,1,SSD,D5: Victor M. Gordo,NA,1,NA,NA,1260,7,0,0,0,0
+7,CA,Pasadena,2017,NA,NA,63,11,34,14,NA,NA,NA,7,1,SSD,D7: Andy Wilson,NA,1,NA,NA,1501,7,0,0,0,0
+city,CA,Paso Robles,2016,NA,NA,77,5,35,2,NA,NA,NA,5,2,ALP,Steve Gregory,1,1,1,0,6715,10,0,0,0,0
+city,CA,Paso Robles,2016,NA,NA,77,5,35,2,NA,NA,NA,5,2,ALP,Fred Strong,1,1,1,0,5751,10,0,0,0,0
+city,CA,Paso Robles,2018,NA,NA,77,5,35,2,NA,NA,NA,5,2,ALP,John Hamon,1,1,1,0,5221,10,1,1,1,1
+city,CA,Paso Robles,2018,NA,NA,77,5,35,2,NA,NA,NA,5,2,ALP,Maria Elena Garcia,2,1,2,1,4831,10,1,1,1,1
+city,CA,Pico Rivera,2015,NA,NA,62,1,91,3,NA,NA,NA,6,3,ALP,Bob J. Archuleta,NA,1,NA,NA,2302,18,0,0,0,0
+city,CA,Pico Rivera,2015,NA,NA,62,1,91,3,NA,NA,NA,6,3,ALP,Gregory Salcido,NA,1,NA,NA,2294,18,0,0,0,0
+city,CA,Pico Rivera,2015,NA,NA,62,1,91,3,NA,NA,NA,6,3,ALP,Brent A. Tercero,NA,1,NA,NA,1988,18,0,0,0,0
+1,CA,Pico Rivera,2016,NA,NA,62,1,91,3,NA,NA,NA,6,1,SSD,D1: Rubio Gonzalez,NA,1,NA,NA,2474,6,0,0,0,0
+4,CA,Pico Rivera,2016,NA,NA,62,1,91,3,NA,NA,NA,6,1,SSD,D4: Elizabeth Ontiveros-Cole,NA,1,NA,NA,1999,6,0,0,0,0
+6,CA,Pico Rivera,2016,NA,NA,62,1,91,3,NA,NA,NA,6,1,SSD,D6: Robert Torres,NA,1,NA,NA,3078,6,0,0,0,0
+city,CA,Pico Rivera,2018,NA,NA,62,1,91,3,NA,NA,NA,6,2,ALP,Gustavo V. Camacho,NA,1,NA,NA,6820,12,0,0,0,0
+city,CA,Pico Rivera,2018,NA,NA,62,1,91,3,NA,NA,NA,6,2,ALP,Raul Elias,NA,1,NA,NA,5056,12,0,0,0,0
+city,CA,Piedmont,2016,NA,NA,76,1,4,20,NA,NA,NA,5,2,ALP,Jen Cavenaugh,2,1,1,1,4627,10,1,1,1,1
+city,CA,Piedmont,2016,NA,NA,76,1,4,20,NA,NA,NA,5,2,ALP,Bob McBain,2,1,1,0,3236,10,1,1,1,1
+city,CA,Piedmont,2018,NA,NA,76,1,4,20,NA,NA,NA,5,3,ALP,Betsy Smegal Andersen,1,1,1,1,4798,15,2,2,2,2
+city,CA,Piedmont,2018,NA,NA,76,1,4,20,NA,NA,NA,5,3,ALP,Teddy Gray King,1,1,1,1,4379,15,2,2,2,2
+city,CA,Piedmont,2018,NA,NA,76,1,4,20,NA,NA,NA,5,3,ALP,Tim Rood,2,1,1,0,4255,15,2,2,2,2
+city,CA,Pinole,2018,NA,NA,50,10,22,23,NA,NA,NA,5,3,ALP,Norma Martinez-Rubin,2,1,2,1,3541,15,1,1,1,1
+city,CA,Pinole,2018,NA,NA,50,10,22,23,NA,NA,NA,5,3,ALP,Vincent Salimi,2,1,1,0,3463,15,1,1,1,1
+city,CA,Pinole,2018,NA,NA,50,10,22,23,NA,NA,NA,5,3,ALP,Anthony Tave,2,1,1,0,3413,15,1,1,1,1
+city,CA,Pismo Beach,2016,NA,NA,88,1,10,3,NA,NA,NA,5,2,ALP,Marcia Guthrie,2,1,1,1,1969,10,1,1,1,1
+city,CA,Pismo Beach,2016,NA,NA,88,1,10,3,NA,NA,NA,5,2,ALP,Erik Howell,2,1,1,0,1944,10,1,1,1,1
+city,CA,Pismo Beach,2018,NA,NA,88,1,10,3,NA,NA,NA,5,2,ALP,Carlyn Christianson,2,1,1,1,9276,10,2,2,2,2
+city,CA,Pismo Beach,2018,NA,NA,88,1,10,3,NA,NA,NA,5,2,ALP,Erica Stewart,2,1,3,1,7045,10,2,2,2,2
+city,CA,Pittsburg ,2016,NA,NA,41,18,42,15,NA,NA,NA,5,2,ALP,Juan Banales,2,1,2,0,7512,10,0,0,0,0
+city,CA,Pittsburg ,2016,NA,NA,41,18,42,15,NA,NA,NA,5,2,ALP,Jelani Killings,2,1,3,0,7274,10,0,0,0,0
+city,CA,Pittsburg ,2018,NA,NA,41,18,42,15,NA,NA,NA,5,3,ALP,Marilyn Craft,2,1,3,1,9384,15,2,2,2,2
+city,CA,Pittsburg ,2018,NA,NA,41,18,42,15,NA,NA,NA,5,3,ALP,Holland White,2,1,3,0,8243,15,2,2,2,2
+city,CA,Pittsburg ,2018,NA,NA,41,18,42,15,NA,NA,NA,5,3,ALP,Shanelle Scales-Preston,NA,1,3,1,7579,15,2,2,2,2
+city,CA,Placentia ,2016,NA,NA,66,2,38,15,NA,NA,NA,5,3,ALP,Jeremy Yamaguchi,1,1,4,0,7749,15,1,1,1,1
+city,CA,Placentia ,2016,NA,NA,66,2,38,15,NA,NA,NA,5,3,ALP,Ward Smith,1,1,1,0,7709,15,1,1,1,1
+city,CA,Placentia ,2016,NA,NA,66,2,38,15,NA,NA,NA,5,3,ALP,Rhonda Shader,1,1,1,1,6078,15,1,1,1,1
+1,CA,Placentia ,2018,NA,NA,66,2,38,15,NA,NA,NA,5,1,SSD,Craig Green,1,1,1,0,1515,5,0,0,0,0
+city,CA,Placentia ,2018,NA,NA,66,2,38,15,NA,NA,NA,5,2,ALP,Chad Wanke,1,1,1,0,2745,10,0,0,0,0
+city,CA,Placentia ,2018,NA,NA,66,2,38,15,NA,NA,NA,5,2,ALP,Richard Nichols,11,1,1,0,1256,10,0,0,0,0
+city,CA,Pleasant Hill,2016,NA,NA,75,2,14,14,NA,NA,NA,5,3,ALP,Tim Flaherty,2,1,1,0,10124,15,0,0,0,0
+city,CA,Pleasant Hill,2016,NA,NA,75,2,14,14,NA,NA,NA,5,3,ALP,Ken Carlson,NA,1,1,0,9173,15,0,0,0,0
+city,CA,Pleasant Hill,2016,NA,NA,75,2,14,14,NA,NA,NA,5,3,ALP,Matthew Rinn,2,1,1,0,6214,15,0,0,0,0
+city,CA,Pleasant Hill,2018,NA,NA,75,2,14,14,NA,NA,NA,5,2,ALP,Sue Noack,2,1,1,1,9369,10,1,1,1,1
+city,CA,Pleasant Hill,2018,NA,NA,75,2,14,14,NA,NA,NA,5,2,ALP,Michael Harris,2,1,1,0,7981,10,1,1,1,1
+city,CA,Pleasanton,2016,NA,NA,68,3,11,23,NA,NA,NA,5,2,ALP,Karla Brown,1,1,1,1,20337,10,1,1,1,1
+city,CA,Pleasanton,2016,NA,NA,68,3,11,23,NA,NA,NA,5,2,ALP,Jerry Pentin,1,1,1,0,14499,10,1,1,1,1
+city,CA,Pleasanton,2018,NA,NA,68,3,11,23,NA,NA,NA,5,2,ALP,Kathy Narum,2,1,1,1,15800,10,2,2,2,2
+city,CA,Pleasanton,2018,NA,NA,68,3,11,23,NA,NA,NA,5,2,ALP,Julie Testa,2,1,1,1,12362,10,2,2,2,2
+2,CA,Pomona,2018,NA,NA,54,9,70,8,NA,NA,NA,5,1,SSD,D2: Victor Preciado,NA,1,NA,NA,1696,5,0,0,0,0
+3,CA,Pomona,2018,NA,NA,54,9,70,8,NA,NA,NA,5,1,SSD,D3: Nora Garcia,NA,1,NA,NA,1963,5,0,0,0,0
+5,CA,Pomona,2018,NA,NA,54,9,70,8,NA,NA,NA,5,1,SSD,D5: Steve Lustro,NA,1,NA,NA,2466,5,0,0,0,0
+city,CA,Rancho Palos Verdes,2015,NA,NA,61,3,8,29,NA,NA,NA,5,3,ALP,Jerry Duhovic,NA,1,NA,NA,3099,15,0,0,0,0
+city,CA,Rancho Palos Verdes,2015,NA,NA,61,3,8,29,NA,NA,NA,5,3,ALP,Susan Brooks,NA,1,NA,NA,2861,15,0,0,0,0
+city,CA,Rancho Palos Verdes,2015,NA,NA,61,3,8,29,NA,NA,NA,5,3,ALP,Ken Dyda,NA,1,NA,NA,2734,15,0,0,0,0
+city,CA,Rancho Palos Verdes,2017,NA,NA,61,3,8,29,NA,NA,NA,5,2,ALP,John Cruikshank,NA,1,NA,NA,3306,10,0,0,0,0
+city,CA,Rancho Palos Verdes,2017,NA,NA,61,3,8,29,NA,NA,NA,5,2,ALP,Eric Alegria,NA,1,NA,NA,2399,10,0,0,0,0
+city,CA,Rancho Santa Margarita,2016,NA,NA,78,1,17,11,NA,NA,NA,5,2,ALP,Tony Beall,1,1,1,0,14106,10,1,1,1,1
+city,CA,Rancho Santa Margarita,2016,NA,NA,78,1,17,11,NA,NA,NA,5,2,ALP,Carol Gamble,1,1,1,1,10527,10,1,1,1,1
+city,CA,Rancho Santa Margarita,2018,NA,NA,78,1,17,11,NA,NA,NA,5,3,ALP,Brad McGirr,1,1,1,0,10679,15,1,1,1,1
+city,CA,Rancho Santa Margarita,2018,NA,NA,78,1,17,11,NA,NA,NA,5,3,ALP,Anne Figueroa,1,1,1,1,10502,15,1,1,1,1
+city,CA,Rancho Santa Margarita,2018,NA,NA,78,1,17,11,NA,NA,NA,5,3,ALP,Jerry Holloway,1,1,1,0,8234,15,1,1,1,1
+1,CA,Redondo Beach,2017,NA,NA,77,3,16,11,NA,NA,NA,5,1,SSD,D1: Nils Nehrenheim,NA,1,NA,NA,1734,5,0,0,0,0
+2,CA,Redondo Beach,2017,NA,NA,77,3,16,11,NA,NA,NA,5,1,SSD,D2: Todd Loewenstein,NA,1,NA,NA,2180,5,0,0,0,0
+4,CA,Redondo Beach,2017,NA,NA,77,3,16,11,NA,NA,NA,5,1,SSD,D4: John F. Gran,NA,1,NA,NA,1358,5,0,0,0,0
+2,CA,Reedley,2014,NA,NA,62,1,76,3,NA,NA,NA,5,1,SSD,Mary Fast,NA,1,1,1,3098,5,1,1,1,1
+4,CA,Reedley,2014,NA,NA,62,1,76,3,NA,NA,NA,5,1,SSD,Ray Soleno,2,1,2,0,1775,5,0,1,1,0
+1,CA,Reedley,2016,NA,NA,62,1,76,3,NA,NA,NA,5,1,SSD,Frank Pinon,NA,1,2,0,2914,5,0,0,0,0
+4,CA,Reedley,2018,NA,NA,62,1,76,3,NA,NA,NA,5,1,SSD,Ray Soleno,2,1,2,0,2652,5,0,0,0,0
+city,CA,Richmond,2016,NA,NA,44,27,38,15,NA,NA,NA,6,3,ALP,Melvin Willis Jr,2,1,3,0,12137,18,0,0,0,0
+city,CA,Richmond,2016,NA,NA,44,27,38,15,NA,NA,NA,6,3,ALP,Ben Choi,2,1,4,0,10490,18,0,0,0,0
+city,CA,Richmond,2016,NA,NA,44,27,38,15,NA,NA,NA,6,3,ALP,Jael Myrick,2,1,3,0,9793,18,0,0,0,0
+city,CA,Richmond,2018,NA,NA,44,27,38,15,NA,NA,NA,6,3,ALP,Demnlus Johnson,2,1,3,0,9545,18,0,0,0,0
+city,CA,Richmond,2018,NA,NA,44,27,38,15,NA,NA,NA,6,3,ALP,Eduardo Martinez,2,1,2,0,8833,18,0,0,0,0
+city,CA,Richmond,2018,NA,NA,44,27,38,15,NA,NA,NA,6,3,ALP,Nathaniel Bates,2,1,1,0,7934,18,0,0,0,0
+city,CA,Rolling Hills Estates,2015,NA,NA,66,6,4,24,NA,NA,NA,5,3,ALP,Judy Mitchell,NA,1,NA,NA,702,15,0,0,0,0
+city,CA,Rolling Hills Estates,2015,NA,NA,66,6,4,24,NA,NA,NA,5,3,ALP,Frank V. Zerunyan,NA,1,NA,NA,646,15,0,0,0,0
+city,CA,Rolling Hills Estates,2015,NA,NA,66,6,4,24,NA,NA,NA,5,3,ALP,Velveth Schmitz,NA,1,NA,NA,483,15,0,0,0,0
+city,CA,Rolling Hills Estates,2018,NA,NA,66,6,4,24,NA,NA,NA,5,2,ALP,Britt Huff,NA,1,NA,NA,1199,10,0,0,0,0
+city,CA,Rolling Hills Estates,2018,NA,NA,66,6,4,24,NA,NA,NA,5,2,ALP,Steven Zuckerman,NA,1,NA,NA,1146,10,0,0,0,0
+1,CA,Rosemead,2018,NA,NA,22,1,32,61,NA,NA,NA,5,1,SSD,Sean Dang,NA,1,NA,NA,3105,5,0,0,0,0
+city,CA,San Clemente ,2016,NA,NA,83,1,15,5,NA,NA,NA,5,2,ALP,Chris Hamm,1,1,1,0,14315,10,0,0,0,0
+city,CA,San Clemente ,2016,NA,NA,83,1,15,5,NA,NA,NA,5,2,ALP,Steven Swartz,1,1,1,0,11421,10,0,0,0,0
+city,CA,San Clemente ,2018,NA,NA,83,1,15,5,NA,NA,NA,5,3,ALP,Dan Bane,1,1,1,0,12184,15,2,2,2,2
+city,CA,San Clemente ,2018,NA,NA,83,1,15,5,NA,NA,NA,5,3,ALP,Laura Ferguson,1,1,1,1,8728,15,2,2,2,2
+city,CA,San Clemente ,2018,NA,NA,83,1,15,5,NA,NA,NA,5,3,ALP,Kathy Ward,1,1,1,1,8146,15,2,2,2,2
+city,CA,San Dimas,2017,NA,NA,70,3,26,12,NA,NA,NA,5,2,ALP,Denis Bertone,NA,1,NA,NA,1860,10,0,0,0,0
+city,CA,San Dimas,2017,NA,NA,70,3,26,12,NA,NA,NA,5,2,ALP,Ryan Vienna,NA,1,NA,NA,1598,10,0,0,0,0
+city,CA,San Fernando ,2017,NA,NA,66,0.5,91,1,NA,NA,NA,5,2,ALP,Joel Fajardo,NA,1,NA,NA,965,10,0,0,0,0
+city,CA,San Fernando ,2017,NA,NA,66,0.5,91,1,NA,NA,NA,5,2,ALP,Robert C. Gonzales,NA,1,NA,NA,848,10,0,0,0,0
+city,CA,San Fernando ,2018,NA,NA,66,0.5,91,1,NA,NA,NA,5,3,ALP,Sylvia Ballin,NA,1,NA,NA,2246,15,0,0,0,0
+city,CA,San Fernando ,2018,NA,NA,66,0.5,91,1,NA,NA,NA,5,3,ALP,Antonio G. Lopez,NA,1,NA,NA,2199,15,0,0,0,0
+city,CA,San Fernando ,2018,NA,NA,66,0.5,91,1,NA,NA,NA,5,3,ALP,Hector A. Pacheco,NA,1,NA,NA,2120,15,0,0,0,0
+10,CA,San Francisco,2014,NA,NA,52,6,15,36,NA,NA,NA,11,1,RCV,MALIA COHEN,NA,1,3,1,7176,11,1,3,3,1
+2,CA,San Francisco,2014,NA,NA,52,6,15,36,NA,NA,NA,11,1,RCV,Mark Farrell,NA,1,1,0,15546,11,0,3,3,0
+4,CA,San Francisco,2014,NA,NA,52,6,15,36,NA,NA,NA,11,1,RCV,Katy Tang,NA,1,4,1,100,11,1,3,3,1
+5,CA,San Francisco,2014,NA,NA,52,6,15,36,NA,NA,NA,11,1,RCV,DEAN PRESTON,NA,1,1,0,11239,11,0,3,3,0
+6,CA,San Francisco,2014,NA,NA,52,6,15,36,NA,NA,NA,11,1,RCV,Jane Kim,NA,1,4,1,8827,11,1,3,3,1
+8,CA,San Francisco,2014,NA,NA,52,6,15,36,NA,NA,NA,11,1,RCV,Scott Wiener,NA,1,1,0,22854,11,0,3,3,0
+10,CA,San Francisco,2018,NA,NA,52,6,15,36,NA,NA,NA,11,1,RCV,SHAMANN WALTON,NA,1,3,0,9585,11,0,1,1,0
+2,CA,San Francisco,2018,NA,NA,52,6,15,36,NA,NA,NA,11,1,RCV,CATHERINE STEFANI,NA,1,1,1,14415,11,1,1,1,1
+4,CA,San Francisco,2018,NA,NA,52,6,15,36,NA,NA,NA,11,1,RCV,GORDON MAR,NA,1,4,0,10314,11,0,1,1,0
+6,CA,San Francisco,2018,NA,NA,52,6,15,36,NA,NA,NA,11,1,RCV,MATT HANEY,NA,1,1,0,14288,11,0,1,1,0
+8,CA,San Francisco,2018,NA,NA,52,6,15,36,NA,NA,NA,11,1,RCV,RAFAEL MANDELMAN,NA,1,1,0,38406,11,0,1,1,0
+city,CA,San Gabriel,2015,NA,NA,27,1,26,60,NA,NA,NA,5,2,ALP,Steve Talt,NA,1,NA,NA,2001,10,0,0,0,0
+city,CA,San Gabriel,2015,NA,NA,27,1,26,60,NA,NA,NA,5,2,ALP,Steven Huang,NA,1,NA,NA,1445,10,0,0,0,0
+city,CA,San Gabriel,2017,NA,NA,27,1,26,60,NA,NA,NA,5,3,ALP,Jason Pu,NA,1,NA,NA,1804,15,0,0,0,0
+city,CA,San Gabriel,2017,NA,NA,27,1,26,60,NA,NA,NA,5,3,ALP,Chin Ho Liao,NA,1,NA,NA,1727,15,0,0,0,0
+city,CA,San Gabriel,2017,NA,NA,27,1,26,60,NA,NA,NA,5,3,ALP,Denise Menchaca,NA,1,NA,NA,1528,15,0,0,0,0
+city,CA,San Joaquin,2016,NA,NA,97,0,97,0.5,NA,NA,NA,5,3,ALP,Abel Lua,NA,1,2,0,293,15,1,1,1,1
+city,CA,San Joaquin,2016,NA,NA,97,0,97,0.5,NA,NA,NA,5,3,ALP,Amarpreet Dhaiwal,NA,1,4,0,276,15,1,1,1,1
+city,CA,San Joaquin,2016,NA,NA,97,0,97,0.5,NA,NA,NA,5,3,ALP,Julia Hernandez,NA,1,2,1,242,15,1,1,1,1
+city,CA,San Joaquin,2018,NA,NA,97,0,97,0.5,NA,NA,NA,5,2,ALP,Adam Flores,2,1,2,0,186,10,0,0,0,0
+city,CA,San Joaquin,2018,NA,NA,97,0,97,0.5,NA,NA,NA,5,2,ALP,Jose Ornelas,2,1,2,0,147,10,0,0,0,0
+10,CA,San Jose,2016,NA,NA,48,3,33,32,NA,NA,NA,10,1,SSD,(District 10) Johnny Khamis,1,1,4,0,15983,10,0,2,2,0
+2,CA,San Jose,2016,NA,NA,48,3,33,32,NA,NA,NA,10,1,SSD,(District 2) Sergio Jimenez,2,1,2,0,17629,10,0,2,2,0
+4,CA,San Jose,2016,NA,NA,48,3,33,32,NA,NA,NA,10,1,SSD,(District 4) Lan Diep,2,1,4,0,8689,10,0,2,2,0
+6,CA,San Jose,2016,NA,NA,48,3,33,32,NA,NA,NA,10,1,SSD,"(District 6) Devora ""Dev"" Joan Davis",1,1,1,1,20360,10,1,2,2,1
+8,CA,San Jose,2016,NA,NA,48,3,33,32,NA,NA,NA,10,1,SSD,(District 8) Sylvia Arenas,2,1,2,1,17258,10,1,2,2,1
+1,CA,San Jose,2018,NA,NA,48,3,33,32,NA,NA,NA,10,1,SSD,"(District 1) Charles ""Chappie"" Jones",11,1,3,0,12440,10,0,3,3,0
+3,CA,San Jose,2018,NA,NA,48,3,33,32,NA,NA,NA,10,1,SSD,(District 3) Raul Peralez,2,1,2,0,10077,10,0,3,3,0
+5,CA,San Jose,2018,NA,NA,48,3,33,32,NA,NA,NA,10,1,SSD,(District 5) Magdalena Carrasco,2,1,2,1,6707,10,1,3,3,1
+7,CA,San Jose,2018,NA,NA,48,3,33,32,NA,NA,NA,10,1,SSD,(District 7) Maya Esparza,2,1,2,1,11165,10,1,3,3,1
+9,CA,San Jose,2018,NA,NA,48,3,33,32,NA,NA,NA,10,1,SSD,(District 9) Pam Foley,1,1,1,1,15930,10,1,3,3,1
+1,CA,San Juan Capistrano ,2016,NA,NA,71,0.5,38,3,NA,NA,NA,5,1,SSD,Sergio Farias,6,1,2,0,961,5,0,0,0,0
+5,CA,San Juan Capistrano ,2016,NA,NA,71,0.5,38,3,NA,NA,NA,5,1,SSD,Brian Maryott,1,1,1,0,1992,5,0,0,0,0
+1,CA,San Juan Capistrano ,2018,NA,NA,71,0.5,38,3,NA,NA,NA,5,1,SSD,John Taylor,1,1,1,0,757,5,0,0,0,0
+2,CA,San Juan Capistrano ,2018,NA,NA,71,0.5,38,3,NA,NA,NA,5,1,SSD,Troy Bourne,1,1,1,0,2216,5,0,0,0,0
+3,CA,San Juan Capistrano ,2018,NA,NA,71,0.5,38,3,NA,NA,NA,5,1,SSD,Derek Reeve,1,1,1,0,1207,5,0,0,0,0
+4,CA,San Juan Capistrano ,2018,NA,NA,71,0.5,38,3,NA,NA,NA,5,1,SSD,Austin Lumbard,1,1,1,0,13543,5,0,0,0,0
+1,CA,San Leandro,2016,NA,NA,45,13,26,30,NA,NA,NA,5,1,RCV,Ed Hernandez,2,1,2,0,14331,5,0,0,0,0
+3,CA,San Leandro,2016,NA,NA,45,13,26,30,NA,NA,NA,5,1,RCV,Pete Ballew,2,1,1,0,20867,5,0,0,0,0
+5,CA,San Leandro,2016,NA,NA,45,13,26,30,NA,NA,NA,5,1,RCV,Benny Lee,2,1,4,0,21779,5,0,0,0,0
+1,CA,San Leandro,2018,NA,NA,45,13,26,30,NA,NA,NA,5,1,RCV,Deborah Cox,2,1,1,1,16103,5,1,2,2,1
+2,CA,San Leandro,2018,NA,NA,45,13,26,30,NA,NA,NA,5,1,RCV,Victor Aguilar,2,1,2,0,11845,5,0,2,2,0
+4,CA,San Leandro,2018,NA,NA,45,13,26,30,NA,NA,NA,5,1,RCV,Corina Lopez,2,1,2,1,16315,5,1,2,2,1
+city,CA,San Luis Obispo,2016,NA,NA,83,2,17,6,NA,NA,NA,5,2,ALP,"Andrea Pease,",2,1,1,1,9473,10,1,1,1,1
+city,CA,San Luis Obispo,2016,NA,NA,83,2,17,6,NA,NA,NA,5,2,ALP,"Aaron Gomez,",2,1,1,0,8489,10,1,1,1,1
+city,CA,San Luis Obispo,2018,NA,NA,83,2,17,6,NA,NA,NA,5,2,ALP,"Carlyn Christianson,",2,1,1,1,9276,10,2,2,2,2
+city,CA,San Luis Obispo,2018,NA,NA,83,2,17,6,NA,NA,NA,5,2,ALP,"Erica Stewart,",2,1,3,1,7045,10,2,2,2,2
+city,CA,San Marino,2016,NA,NA,44,0,7,52,NA,NA,NA,5,2,ALP,Bob Kellar,NA,1,NA,NA,32216,10,0,0,0,0
+city,CA,San Marino,2016,NA,NA,44,0,7,52,NA,NA,NA,5,2,ALP,Cameron Smyth,NA,1,NA,NA,30109,10,0,0,0,0
+city,CA,San Marino,2017,NA,NA,44,0,7,52,NA,NA,NA,5,3,ALP,Gretchen Shepherd Romey,NA,1,NA,NA,1875,15,0,0,0,0
+city,CA,San Marino,2017,NA,NA,44,0,7,52,NA,NA,NA,5,3,ALP,Ken Ude,NA,1,NA,NA,1686,15,0,0,0,0
+city,CA,San Marino,2017,NA,NA,44,0,7,52,NA,NA,NA,5,3,ALP,Susan Jakubowski,NA,1,NA,NA,1685,15,0,0,0,0
+city,CA,San Pablo ,2016,NA,NA,54,15,56,16,NA,NA,NA,5,3,ALP,Cecilia Valdez,2,1,2,1,3628,15,1,1,1,1
+city,CA,San Pablo ,2016,NA,NA,54,15,56,16,NA,NA,NA,5,3,ALP,Rich Kinney,1,1,1,0,3352,15,1,1,1,1
+city,CA,San Pablo ,2016,NA,NA,54,15,56,16,NA,NA,NA,5,3,ALP,Arturo Cruz,2,1,2,0,2325,15,1,1,1,1
+city,CA,San Pablo ,2018,NA,NA,54,15,56,16,NA,NA,NA,5,2,ALP,Elizabeth Pabon-Alvarado,2,1,2,1,2962,10,2,2,2,2
+city,CA,San Pablo ,2018,NA,NA,54,15,56,16,NA,NA,NA,5,2,ALP,Rita Xavier,2,1,1,1,2806,10,2,2,2,2
+city,CA,San Ramon ,2016,NA,NA,53,2,10,36,NA,NA,NA,5,2,ALP,Philip O'Loane,2,1,1,0,14727,10,0,0,0,0
+city,CA,San Ramon ,2016,NA,NA,53,2,10,36,NA,NA,NA,5,2,ALP,Scott Perkins,1,1,1,0,16175,10,0,0,0,0
+city,CA,San Ramon ,2018,NA,NA,53,2,10,36,NA,NA,NA,5,2,ALP,David Hudson,2,1,1,1,15148,10,1,1,1,1
+city,CA,San Ramon ,2018,NA,NA,53,2,10,36,NA,NA,NA,5,2,ALP,Sabina Zafar,NA,1,5,0,11541,10,1,1,1,1
+1,CA,Sanger ,2016,NA,NA,63,3,77,4,NA,NA,NA,5,1,SSD,Melissa Hurtado,2,1,2,1,815,5,1,1,1,1
+3,CA,Sanger ,2016,NA,NA,63,3,77,4,NA,NA,NA,5,1,SSD,Daniel Martinez,2,1,2,0,1230,5,0,1,1,0
+2,CA,Sanger ,2018,NA,NA,63,3,77,4,NA,NA,NA,5,1,SSD,Humberto Garza,2,1,2,0,422,5,0,0,0,0
+4,CA,Sanger ,2018,NA,NA,63,3,77,4,NA,NA,NA,5,1,SSD,Eli Ontiveros,NA,1,2,0,759,5,0,0,0,0
+1,CA,Santa Ana,2016,NA,NA,42,1,79,10,NA,NA,NA,6,1,SSD,Vicente Sarmiento,2,1,2,0,36486,6,0,0,0,0
+3,CA,Santa Ana,2016,NA,NA,42,1,79,10,NA,NA,NA,6,1,SSD,Jose Solorio,2,1,2,0,28002,6,0,0,0,0
+5,CA,Santa Ana,2016,NA,NA,42,1,79,10,NA,NA,NA,6,1,SSD,Juan Villegas,11,1,2,0,35187,6,0,0,0,0
+2,CA,Santa Ana,2018,NA,NA,42,1,79,10,NA,NA,NA,6,1,SSD,David Penaloza,1,1,2,0,14549,6,0,1,1,0
+4,CA,Santa Ana,2018,NA,NA,42,1,79,10,NA,NA,NA,6,1,SSD,Roman Reyna,2,1,2,0,29863,6,0,1,1,0
+6,CA,Santa Ana,2018,NA,NA,42,1,79,10,NA,NA,NA,6,1,SSD,Cecilia Iglesias,1,1,2,1,21077,6,1,1,1,1
+city,CA,Santa Clarita,2016,NA,NA,73,2,30,9,NA,NA,NA,5,2,ALP,"Bob Kellar,",NA,1,NA,NA,32216,10,0,0,0,0
+city,CA,Santa Clarita,2016,NA,NA,73,2,30,9,NA,NA,NA,5,2,ALP,"Cameron Smyth,",NA,1,NA,NA,30109,10,0,0,0,0
+city,CA,Santa Clarita,2018,NA,NA,73,2,30,9,NA,NA,NA,5,3,ALP,"Laurene Weste,",NA,1,NA,NA,25603,15,0,0,0,0
+city,CA,Santa Clarita,2018,NA,NA,73,2,30,9,NA,NA,NA,5,3,ALP,"Marsha McLean,",NA,1,NA,NA,25273,15,0,0,0,0
+city,CA,Santa Clarita,2018,NA,NA,73,2,30,9,NA,NA,NA,5,3,ALP,"Bill Miranda,",NA,1,NA,NA,18885,15,0,0,0,0
+city,CA,Santa Fe Springs ,2015,NA,NA,62,4,81,2,NA,NA,NA,5,3,ALP,Bill Rounds,NA,1,NA,NA,646,15,0,0,0,0
+city,CA,Santa Fe Springs ,2015,NA,NA,62,4,81,2,NA,NA,NA,5,3,ALP,Joe Angel Zamora,NA,1,NA,NA,615,15,0,0,0,0
+city,CA,Santa Fe Springs ,2015,NA,NA,62,4,81,2,NA,NA,NA,5,3,ALP,Louie Gonzalez,NA,1,NA,NA,609,15,0,0,0,0
+city,CA,Santa Fe Springs ,2018,NA,NA,62,4,81,2,NA,NA,NA,5,2,ALP,Juanita Trujillo,NA,1,NA,NA,2786,10,0,0,0,0
+city,CA,Santa Fe Springs ,2018,NA,NA,62,4,81,2,NA,NA,NA,5,2,ALP,Annette Rodriguez,NA,1,NA,NA,2692,10,0,0,0,0
+city,CA,Santa Monica,2016,NA,NA,78,4,12,10,NA,NA,NA,7,4,ALP,"Terry O'Day,",NA,1,NA,NA,19263,28,0,0,0,0
+city,CA,Santa Monica,2016,NA,NA,78,4,12,10,NA,NA,NA,7,4,ALP,"Tony Vazquez,",NA,1,NA,NA,18456,28,0,0,0,0
+city,CA,Santa Monica,2016,NA,NA,78,4,12,10,NA,NA,NA,7,4,ALP,"Ted Winterer,",NA,1,NA,NA,18156,28,0,0,0,0
+city,CA,Santa Monica,2016,NA,NA,78,4,12,10,NA,NA,NA,7,4,ALP,"Gleam Olivia Davis,",NA,1,NA,NA,17842,28,0,0,0,0
+city,CA,Santa Monica,2018,NA,NA,78,4,12,10,NA,NA,NA,7,3,ALP,"Sue Himmelrich,",NA,1,NA,NA,23419,21,0,0,0,0
+city,CA,Santa Monica,2018,NA,NA,78,4,12,10,NA,NA,NA,7,3,ALP,"Greg Morena,",NA,1,NA,NA,19454,21,0,0,0,0
+city,CA,Santa Monica,2018,NA,NA,78,4,12,10,NA,NA,NA,7,3,ALP,"Kevin McKeown,",NA,1,NA,NA,18836,21,0,0,0,0
+2,CA,Seal Beach,2016,NA,NA,83,1,11,10,NA,NA,NA,5,1,SSD,Thomas Moore,1,1,1,0,1410,5,0,1,1,0
+4,CA,Seal Beach,2016,NA,NA,83,1,11,10,NA,NA,NA,5,1,SSD,Schelly Sustarsic,NA,1,1,1,1966,5,1,1,1,1
+1,CA,Seal Beach,2018,NA,NA,83,1,11,10,NA,NA,NA,5,1,SSD,Joe Kalmick,1,1,1,0,988,5,0,1,1,0
+3,CA,Seal Beach,2018,NA,NA,83,1,11,10,NA,NA,NA,5,1,SSD,Mike Varipapa,1,1,1,0,1728,5,0,1,1,0
+5,CA,Seal Beach,2018,NA,NA,83,1,11,10,NA,NA,NA,5,1,SSD,Sandra Massa-Lavitt,2,1,2,1,2280,5,1,1,1,1
+city,CA,Selma,2016,NA,NA,58,2,80,4,NA,NA,NA,5,3,ALP,Scott Robertson,2,1,1,0,3017,15,0,0,0,0
+city,CA,Selma,2016,NA,NA,58,2,80,4,NA,NA,NA,5,3,ALP,Jim Avalos,2,1,2,0,2906,15,0,0,0,0
+city,CA,Selma,2016,NA,NA,58,2,80,4,NA,NA,NA,5,3,ALP,Louis Franco,NA,1,2,0,2122,15,0,0,0,0
+city,CA,Selma,2018,NA,NA,58,2,80,4,NA,NA,NA,5,2,ALP,Sarah Guerra,NA,1,2,1,2327,10,1,1,1,1
+city,CA,Selma,2018,NA,NA,58,2,80,4,NA,NA,NA,5,2,ALP,Johnny Trujillo,2,1,2,0,1446,10,1,1,1,1
+city,CA,South El Monte,2015,NA,NA,64,0.5,86,11,NA,NA,NA,5,2,ALP,Hector Delgado,NA,1,NA,NA,618,10,0,0,0,0
+city,CA,South El Monte,2015,NA,NA,64,0.5,86,11,NA,NA,NA,5,2,ALP,Gloria Olmos,NA,1,NA,NA,545,10,0,0,0,0
+1,CA,South El Monte,2017,NA,NA,64,0.5,86,11,NA,NA,NA,5,1,SSD,Richard Angel,NA,1,NA,NA,721,5,0,0,0,0
+city,CA,South El Monte,2017,NA,NA,64,0.5,86,11,NA,NA,NA,5,2,ALP,"Manuel ""Manny"" Acosta",NA,1,NA,NA,497,10,0,0,0,0
+city,CA,South El Monte,2017,NA,NA,64,0.5,86,11,NA,NA,NA,5,2,ALP,Gracie Retamoza,NA,1,NA,NA,407,10,0,0,0,0
+city,CA,South Gate,2017,NA,NA,47,1,95,1,NA,NA,NA,5,2,ALP,Al Rios,NA,1,NA,NA,1637,10,0,0,0,0
+city,CA,South Gate,2017,NA,NA,47,1,95,1,NA,NA,NA,5,2,ALP,Denise Diaz,NA,1,NA,NA,1559,10,0,0,0,0
+city,CA,South Pasadena,2015,NA,NA,58,2,21,31,NA,NA,NA,5,3,ALP,Robert Joe,NA,1,NA,NA,2568,15,0,0,0,0
+city,CA,South Pasadena,2015,NA,NA,58,2,21,31,NA,NA,NA,5,3,ALP,Marina Khubesrian,NA,1,NA,NA,2213,15,0,0,0,0
+city,CA,South Pasadena,2015,NA,NA,58,2,21,31,NA,NA,NA,5,3,ALP,& Richard D. Schneider,NA,1,NA,NA,2176,15,0,0,0,0
+4,CA,South Pasadena,2018,NA,NA,58,2,21,31,NA,NA,NA,5,1,SSD,D4: Michael A. Cacciotti,NA,1,NA,NA,1377,5,0,0,0,0
+5,CA,South Pasadena,2018,NA,NA,58,2,21,31,NA,NA,NA,5,1,SSD,D5: Diana Mahmud,NA,1,NA,NA,1858,5,0,0,0,0
+city,CA,Stanton,2016,NA,NA,44,3,48,22,NA,NA,NA,5,2,ALP,Carol Warren,2,1,1,1,4960,10,1,1,1,1
+city,CA,Stanton,2016,NA,NA,44,3,48,22,NA,NA,NA,5,2,ALP,Al Ethans,1,1,1,0,4521,10,1,1,1,1
+3,CA,Stanton,2018,NA,NA,44,3,48,22,NA,NA,NA,5,1,SSD,Gary Taylor,1,1,1,0,1154,5,0,0,0,0
+city,CA,Stanton,2018,NA,NA,44,3,48,22,NA,NA,NA,5,2,ALP,Rigoberto Ramirez,1,1,2,0,1460,10,0,0,0,0
+city,CA,Torrance,2018,NA,NA,51,3,17,35,NA,NA,NA,5,3,ALP,Tim Goodrich,NA,1,NA,NA,13620,15,0,0,0,0
+city,CA,Torrance,2018,NA,NA,51,3,17,35,NA,NA,NA,5,3,ALP,George Chen,NA,1,NA,NA,11945,15,0,0,0,0
+city,CA,Torrance,2018,NA,NA,51,3,17,35,NA,NA,NA,5,3,ALP,Aurelio Mattucci,NA,1,NA,NA,11230,15,0,0,0,0
+city,CA,Tustin ,2016,NA,NA,57,2,38,21,NA,NA,NA,5,3,ALP,Charles Puckett,1,1,1,0,13662,15,1,1,1,1
+city,CA,Tustin ,2016,NA,NA,57,2,38,21,NA,NA,NA,5,3,ALP,Letitia Clark,2,1,3,1,12748,15,1,1,1,1
+city,CA,Tustin ,2016,NA,NA,57,2,38,21,NA,NA,NA,5,3,ALP,Allan Bernstein,1,1,1,0,11974,15,1,1,1,1
+city,CA,Union City,2016,NA,NA,22,6,22,53,NA,NA,NA,5,2,ALP,Gary Singh,2,1,4,0,10068,10,0,0,0,0
+city,CA,Union City,2016,NA,NA,22,6,22,53,NA,NA,NA,5,2,ALP,Jaime Patino,1,1,2,0,9097,10,0,0,0,0
+city,CA,Union City,2018,NA,NA,22,6,22,53,NA,NA,NA,5,3,ALP,Emily Duncan,2,1,3,1,9255,15,2,2,2,2
+city,CA,Union City,2018,NA,NA,22,6,22,53,NA,NA,NA,5,3,ALP,Jaime Patino,1,1,2,0,6710,15,2,2,2,2
+city,CA,Union City,2018,NA,NA,22,6,22,53,NA,NA,NA,5,3,ALP,Pat Gacoscos,2,1,4,1,5687,15,2,2,2,2
+city,CA,Villa Park,2016,NA,NA,76,0.5,8,15,NA,NA,NA,5,2,ALP,Vince Rossini,1,1,1,0,1769,10,0,0,0,0
+city,CA,Villa Park,2016,NA,NA,76,0.5,8,15,NA,NA,NA,5,2,ALP,Robert Pitts,1,1,1,0,1737,10,0,0,0,0
+city,CA,Villa Park,2018,NA,NA,76,0.5,8,15,NA,NA,NA,5,3,ALP,Crystal Miles,1,1,1,1,2194,15,1,1,1,1
+city,CA,Villa Park,2018,NA,NA,76,0.5,8,15,NA,NA,NA,5,3,ALP,Chad Zimmerman,1,1,1,0,2065,15,1,1,1,1
+city,CA,Villa Park,2018,NA,NA,76,0.5,8,15,NA,NA,NA,5,3,ALP,Robert Collacott,1,1,1,0,1698,15,1,1,1,1
+city,CA,Walnut Creek,2016,NA,NA,81,2,10,12,NA,NA,NA,5,3,ALP,Kevin Wilk,2,1,1,0,19409,15,1,1,1,1
+city,CA,Walnut Creek,2016,NA,NA,81,2,10,12,NA,NA,NA,5,3,ALP,Justin Wedel,1,1,1,0,17346,15,1,1,1,1
+city,CA,Walnut Creek,2016,NA,NA,81,2,10,12,NA,NA,NA,5,3,ALP,Loella Haskew,1,1,1,1,17278,15,1,1,1,1
+city,CA,Walnut Creek,2018,NA,NA,81,2,10,12,NA,NA,NA,5,2,ALP,Cindy Silva,1,1,1,1,17038,10,1,1,1,1
+city,CA,Walnut Creek,2018,NA,NA,81,2,10,12,NA,NA,NA,5,2,ALP,Matt Francois,NA,1,1,0,12899,10,1,1,1,1
+city,CA,Walnut,2018,NA,NA,22,3,18,65,NA,NA,NA,5,2,ALP,Bob Pacheco,NA,1,NA,NA,4704,10,0,0,0,0
+city,CA,Walnut,2018,NA,NA,22,3,18,65,NA,NA,NA,5,2,ALP,Allen Wu,NA,1,NA,NA,3319,10,0,0,0,0
+city,CA,West Covina,2015,NA,NA,37,5,54,25,NA,NA,NA,5,2,ALP,Lloyd A. Johnson,NA,1,NA,NA,2627,10,0,0,0,0
+city,CA,West Covina,2015,NA,NA,37,5,54,25,NA,NA,NA,5,2,ALP,Tony Wu,NA,1,NA,NA,2544,10,0,0,0,0
+2,CA,West Covina,2018,NA,NA,37,5,54,25,NA,NA,NA,5,1,SSD,D2: Letty Lopez,NA,1,NA,NA,1972,5,0,0,0,0
+4,CA,West Covina,2018,NA,NA,37,5,54,25,NA,NA,NA,5,1,SSD,D4: Dario Castellanos,NA,1,NA,NA,2926,5,0,0,0,0
+5,CA,West Covina,2018,NA,NA,37,5,54,25,NA,NA,NA,5,1,SSD,D5: Tony Wu,NA,1,NA,NA,2968,5,0,0,0,0
+city,CA,West Hollywood,2017,NA,NA,84,2,13,5,NA,NA,NA,5,2,ALP,John Heilman,NA,1,NA,NA,3343,10,0,0,0,0
+city,CA,West Hollywood,2017,NA,NA,84,2,13,5,NA,NA,NA,5,2,ALP,John J. Duran,NA,1,NA,NA,2828,10,0,0,0,0
+city,CA,West Lake Village,2018,NA,NA,90,1,8,5,NA,NA,NA,5,3,ALP,Brad Halpern,NA,1,NA,NA,2527,15,0,0,0,0
+city,CA,West Lake Village,2018,NA,NA,90,1,8,5,NA,NA,NA,5,3,ALP,Susan McSweeney,NA,1,NA,NA,2203,15,0,0,0,0
+city,CA,West Lake Village,2018,NA,NA,90,1,8,5,NA,NA,NA,5,3,ALP,Ray Pearl,NA,1,NA,NA,1955,15,0,0,0,0
+city,CA,Westminster,2016,NA,NA,40,1,22,47,NA,NA,NA,5,2,ALP,Sergio Contreras,2,1,2,0,13975,10,1,1,1,1
+city,CA,Westminster,2016,NA,NA,40,1,22,47,NA,NA,NA,5,2,ALP,Kimberly Ho,1,1,4,1,12426,10,1,1,1,1
+city,CA,Westminster,2018,NA,NA,40,1,22,47,NA,NA,NA,5,2,ALP,Tai Do,1,1,4,0,7860,10,0,0,0,0
+city,CA,Westminster,2018,NA,NA,40,1,22,47,NA,NA,NA,5,2,ALP,Chi Nguyen,1,1,4,0,7655,10,0,0,0,0
+city,CA,Yorba Linda,2016,NA,NA,76,2,15,16,NA,NA,NA,5,3,ALP,Tara Campbell,1,1,1,1,15253,15,2,2,2,2
+city,CA,Yorba Linda,2016,NA,NA,76,2,15,16,NA,NA,NA,5,3,ALP,Eugene Hernandez,1,1,2,0,13331,15,2,2,2,2
+city,CA,Yorba Linda,2016,NA,NA,76,2,15,16,NA,NA,NA,5,3,ALP,Beth Haney,1,1,1,1,11981,15,2,2,2,2
+city,CA,Yorba Linda,2018,NA,NA,76,2,15,16,NA,NA,NA,5,2,ALP,Peggy Huang,1,1,4,1,18764,10,1,1,1,1
+city,CA,Yorba Linda,2018,NA,NA,76,2,15,16,NA,NA,NA,5,2,ALP,Carlos Rodriguez,1,1,2,0,16120,10,1,1,1,1
+A,CT,Norwalk,2017,NA,NA,52,14,22,5,NA,NA,NA,15,1,SSD,(district a) Eloisa Melendez,2,1,2,1,1488,15,1,3,3,1
+B,CT,Norwalk,2017,NA,NA,52,14,22,5,NA,NA,NA,15,2,ALP,(district B) Travis Simms,2,1,3,0,917,30,1,3,3,1
+B,CT,Norwalk,2017,NA,NA,52,14,22,5,NA,NA,NA,15,2,ALP,"Phaedrel ""Faye"" Bowman",2,1,3,1,806,30,1,3,3,1
+C,CT,Norwalk,2017,NA,NA,52,14,22,5,NA,NA,NA,15,2,ALP,(district C) George C. Tsiranides,2,1,1,0,1802,30,0,3,3,0
+C,CT,Norwalk,2017,NA,NA,52,14,22,5,NA,NA,NA,15,2,ALP,Douglas Hempstead,2,1,1,0,1705,30,0,3,3,0
+city,CT,Norwalk,2017,NA,NA,52,14,22,5,NA,NA,NA,15,1,SSD,Margarita Rios,NA,1,NA,NA,3433,15,0,3,3,0
+D,CT,Norwalk,2017,NA,NA,52,14,22,5,NA,NA,NA,15,2,ALP,(district D) John Kydes,2,1,1,0,2028,30,1,3,3,1
+D,CT,Norwalk,2017,NA,NA,52,14,22,5,NA,NA,NA,15,2,ALP,Beth Siegelbaum,2,1,1,1,1469,30,1,3,3,1
+E,CT,Norwalk,2017,NA,NA,52,14,22,5,NA,NA,NA,15,2,ALP,(district E) Tom Livingston,2,1,1,0,2168,30,0,3,3,0
+E,CT,Norwalk,2017,NA,NA,52,14,22,5,NA,NA,NA,15,2,ALP,John E. Igneri,2,1,1,0,2126,30,0,3,3,0
+2,DC,Washington,2016,NA,NA,37,39,4,3,NA,NA,NA,13,1,SSD,(Ward2) Jack Evans,2,1,1,0,27534,13,0,0,0,0
+4,DC,Washington,2016,NA,NA,37,39,4,3,NA,NA,NA,13,1,SSD,(Ward 4) Brandon Todd,2,1,3,0,35100,13,0,0,0,0
+7,DC,Washington,2016,NA,NA,37,39,4,3,NA,NA,NA,13,1,SSD,(Ward 7) Vincent C. Gray,2,1,1,0,27956,13,0,0,0,0
+8,DC,Washington,2016,NA,NA,37,39,4,3,NA,NA,NA,13,1,SSD,"(Ward 8) Trayon ""Ward Eight"" White",2,1,3,0,27174,13,0,0,0,0
+city,DC,Washington,2016,NA,NA,37,39,4,3,NA,NA,NA,13,2,ALP,(At-large) Robert White,2,1,3,0,233983,26,0,0,0,0
+city,DC,Washington,2016,NA,NA,37,39,4,3,NA,NA,NA,13,2,ALP,David Grosso,11,1,1,0,108745,26,0,0,0,0
+1,DC,Washington,2018,NA,NA,37,39,4,3,NA,NA,NA,13,1,SSD,(Ward1) Brianne K. Nadeau,2,1,1,1,23283,13,1,4,4,1
+3,DC,Washington,2018,NA,NA,37,39,4,3,NA,NA,NA,13,1,SSD,(Ward 3) Mary M. Cheh,2,1,1,1,23443,13,1,4,4,1
+5,DC,Washington,2018,NA,NA,37,39,4,3,NA,NA,NA,13,1,SSD,(Ward 5) Kenyan McDuffie,2,1,3,0,23745,13,0,4,4,0
+6,DC,Washington,2018,NA,NA,37,39,4,3,NA,NA,NA,13,1,SSD,(Ward 6) Charles Allen,2,1,1,0,35780,13,0,4,4,0
+city,DC,Washington,2018,NA,NA,37,39,4,3,NA,NA,NA,13,2,ALP,(At-large)Anita Bonds,2,1,3,1,152460,26,2,4,4,2
+city,DC,Washington,2018,NA,NA,37,39,4,3,NA,NA,NA,13,2,ALP,Elissa Silverman,11,1,1,1,90589,26,2,4,4,2
+1,GA,Roswell,2015,NA,NA,75,14,16,4,NA,NA,NA,6,1,SSD,(Post 1) Marcelo Zapata,NA,1,2,0,4045,6,0,0,0,0
+2,GA,Roswell,2015,NA,NA,75,14,16,4,NA,NA,NA,6,1,SSD,(Post 2) Mike Palermo,2,1,1,0,5241,6,0,0,0,0
+3,GA,Roswell,2015,NA,NA,75,14,16,4,NA,NA,NA,6,1,SSD,(Post 3) Donald J. Horton,NA,1,1,0,4545,6,0,0,0,0
+4,GA,Roswell,2017,NA,NA,75,14,16,4,NA,NA,NA,6,1,SSD,(post 4) Marie Willsey,2,1,1,1,7040,6,1,1,1,1
+1,IL,Waukegan,2019,NA,NA,46,20,53,5,NA,NA,NA,10,1,SSD,Sylvia Sims-Bolton,2,1,3,1,207,10,1,4,4,1
+2,IL,Waukegan,2019,NA,NA,46,20,53,5,NA,NA,NA,10,1,SSD,Patrick D. Seger,2,1,1,0,215,10,0,4,4,0
+3,IL,Waukegan,2019,NA,NA,46,20,53,5,NA,NA,NA,10,1,SSD,"Greg ""Coach Mo"" Moiso",2,1,1,0,362,10,0,4,4,0
+4,IL,Waukegan,2019,NA,NA,46,20,53,5,NA,NA,NA,10,1,SSD,Roudell Kirkwood,2,1,3,0,206,10,0,4,4,0
+5,IL,Waukegan,2019,NA,NA,46,20,53,5,NA,NA,NA,10,1,SSD,"Edith ""Edie"" Newsome",1,1,3,1,336,10,1,4,4,1
+6,IL,Waukegan,2019,NA,NA,46,20,53,5,NA,NA,NA,10,1,SSD,Keith E. Turner,2,1,3,0,456,10,0,4,4,0
+7,IL,Waukegan,2019,NA,NA,46,20,53,5,NA,NA,NA,10,1,SSD,Felix L. Rivera,11,1,2,0,553,10,0,4,4,0
+8,IL,Waukegan,2019,NA,NA,46,20,53,5,NA,NA,NA,10,1,SSD,Lynn Florian,2,1,1,1,533,10,1,4,4,1
+9,IL,Waukegan,2019,NA,NA,46,20,53,5,NA,NA,NA,10,1,SSD,Ann Taylor,11,1,1,1,571,10,1,4,4,1
+ARTAN E-WHITEHALL LEA,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"ROE, PATRICIA (S.D.)",5,1,1,1,1951,378,3,25,25,3
+ARTAN E-WHITEHALL LEA,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* O'TOOLE, LARRY (S.F.)",16,1,1,0,1757,378,3,25,25,3
+ARTAN E-WHITEHALL LEA,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"BATTEN, RACHEAL (F.F.)",15,1,1,1,1362,378,3,25,25,3
+ARTAN E-WHITEHALL LEA,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"GILLILAND, ALISON (LAB.)",12,1,1,1,1276,378,3,25,25,3
+ARTAN E-WHITEHALL LEA,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* FLANAGAN, DECLAN (F.G.)",17,1,1,0,1264,378,3,25,25,3
+ARTAN E-WHITEHALL LEA,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* LYONS, JOHN (NON-P.)",11,1,1,0,1246,378,3,25,25,3
+BALLYFERMOT-DRIMNAGH,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* DOOLAN, DAITHI (S.F.)",16,1,1,0,1628,315,2,25,25,2
+BALLYFERMOT-DRIMNAGH,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* DE NORTUIN, HAZEL (SPBP)",6,1,1,1,1383,315,2,25,25,2
+BALLYFERMOT-DRIMNAGH,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* JACKSON, VINCENT (NON-P.)",11,1,1,0,1346,315,2,25,25,2
+BALLYFERMOT-DRIMNAGH,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"NICOULLAUD, SOPHIE (G.P.)",4,1,1,1,1321,315,2,25,25,2
+BALLYFERMOT-DRIMNAGH,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* DE ROISTE, DAITHI (F.F.)",15,1,1,0,1135,315,2,25,25,2
+BALLYMUN-FINGLAS,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* MCAULIFFE, PAUL (F.F.)",15,1,1,0,2300,378,3,25,25,3
+BALLYMUN-FINGLAS,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* REILLY, NOELEEN (NON-P.)",11,1,1,1,1741,378,3,25,25,3
+BALLYMUN-FINGLAS,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"CONNOLLY, KEITH (F.F.)",15,1,1,0,1279,378,3,25,25,3
+BALLYMUN-FINGLAS,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"CALLAGHAN, MARY (S.D.)",5,1,1,1,1152,378,3,25,25,3
+BALLYMUN-FINGLAS,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"CONROY, CAROLINE (G.P.)",4,1,1,1,985,378,3,25,25,3
+BALLYMUN-FINGLAS,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* CONNAGHAN, ANTHONY (S.F.)",16,1,1,0,870,378,3,25,25,3
+CABRA-GLASNEVIN,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"FITZPATRICK, MARY (F.F.)",15,1,1,1,3218,441,3,25,25,3
+CABRA-GLASNEVIN,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"HOURIGAN, NEASA (G.P.)",4,1,1,1,2163,441,3,25,25,3
+CABRA-GLASNEVIN,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"* GANNON, GARY (S.D.)",5,1,1,0,1662,441,3,25,25,3
+CABRA-GLASNEVIN,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"* PERRY, CIERAN (NON-P.)",11,1,1,0,1483,441,3,25,25,3
+CABRA-GLASNEVIN,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"* MCGRATTAN, SEAMAS (S.F.)",16,1,1,0,1127,441,3,25,25,3
+CABRA-GLASNEVIN,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"O'ROURKE, COLM (F.G.)",17,1,1,0,823,441,3,25,25,3
+CABRA-GLASNEVIN,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"SHERLOCK, MARIE (LAB.)",12,1,1,1,773,441,3,25,25,3
+CLONTARF,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* O'FARRELL, DAMIAN (NON-P.)",11,1,1,0,3545,378,4,25,25,4
+CLONTARF,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"COONEY, DONNA (G.P.)",4,1,1,1,2840,378,4,25,25,4
+CLONTARF,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* HENEY, DEIRDRE (F.F.)",15,1,1,1,2680,378,4,25,25,4
+CLONTARF,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* O'MUIRI, NAOISE (F.G.)",17,1,1,0,2139,378,4,25,25,4
+CLONTARF,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* HORGAN-JONES, JANE (LAB.)",12,1,1,1,2059,378,4,25,25,4
+CLONTARF,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"STOCKER, CATHERINE (S.D.)",5,1,1,1,1344,378,4,25,25,4
+DONAGHMEDE,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* BRABAZON, TOM (F.F.)",15,1,1,0,2051,315,0,25,25,0
+DONAGHMEDE,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"BARRON, DARYL (F.F.)",15,1,1,0,1539,315,0,25,25,0
+DONAGHMEDE,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* MACDONNCHA, MICHEAL",16,1,1,0,1490,315,0,25,25,0
+DONAGHMEDE,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"FLANAGAN, TERENCE (F.G.)",17,1,1,0,1206,315,0,25,25,0
+DONAGHMEDE,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"HEMMINGS, LAWRENCE (G.P.)",4,1,1,0,1027,315,0,25,25,0
+KIMMAGE-RATHMINES,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"* COSTELLO, PATRICK (G.P.)",4,1,1,0,3283,441,4,25,25,4
+KIMMAGE-RATHMINES,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"* FREEHILL, MARY (LAB.)",12,1,1,1,1786,441,4,25,25,4
+KIMMAGE-RATHMINES,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"* DUNNE, PAT (1.4.C)",7,1,1,0,1680,441,4,25,25,4
+KIMMAGE-RATHMINES,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"* FEENEY, ANNE (F.G.)",17,1,1,1,1447,441,4,25,25,4
+KIMMAGE-RATHMINES,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"DEACY, TARA (S.D.)",5,1,1,1,1196,441,4,25,25,4
+KIMMAGE-RATHMINES,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"CONROY, DEIRDRE (F.F.)",15,1,1,1,1065,441,4,25,25,4
+KIMMAGE-RATHMINES,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,7,STV,"* McGinley, Ruairi (Non-P.)",11,1,1,0,785,441,4,25,25,4
+NORTH INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* CUFFE, CIARAN (G.P.)",4,1,1,0,1386,378,1,25,25,1
+NORTH INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* BURKE, CHRISTY (NON-P.)",11,1,1,0,1105,378,1,25,25,1
+NORTH INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* M CAD AM, RAY (F.G.)",17,1,1,0,815,378,1,25,25,1
+NORTH INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* RING, NIAL",11,1,1,0,764,378,1,25,25,1
+NORTH INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"* BOYLAN, JANICE (S.F.)",16,1,1,1,661,378,1,25,25,1
+NORTH INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,6,STV,"FLYNN, ANTHONY (NON-P.)",11,1,1,0,608,378,1,25,25,1
+PEMBROKE,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"CHU, HAZEL (G.P.)",4,1,4,1,4069,315,2,25,25,2
+PEMBROKE,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"GEOGHEGAN, JAMES (F.G.)",17,1,1,0,1931,315,2,25,25,2
+PEMBROKE,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* LACEY, DERMOT (LAB.)",12,1,1,0,1790,315,2,25,25,2
+PEMBROKE,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* MCCARTAN, PADDY (F.G.)",17,1,1,0,1391,315,2,25,25,2
+PEMBROKE,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* O'CONNOR, CLAIRE (F.F.)",15,1,1,1,1374,315,2,25,25,2
+SOUTH EAST INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* BYRNE, CLAIRE (G.P.)",4,1,1,1,1961,315,1,25,25,1
+SOUTH EAST INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* ANDREWS, CHRIS (S.F.)",16,1,1,0,1019,315,1,25,25,1
+SOUTH EAST INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"BYRNE, DANNY (F.G.)",17,1,1,0,675,315,1,25,25,1
+SOUTH EAST INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"DONOGHUE, KEVIN (LAB.)",12,1,1,0,584,315,1,25,25,1
+SOUTH EAST INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* FLYNN, MANNIX",11,1,1,0,548,315,1,25,25,1
+SOUTH WEST INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"PIDGEON, MICHAEL (G.P.)",4,1,1,0,1765,315,2,25,25,2
+SOUTH WEST INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* MACVEIGH, TINA (SPBP)",6,1,1,1,938,315,2,25,25,2
+SOUTH WEST INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* MOYNIHAN, REBECCA (LAB.)",12,1,1,1,891,315,2,25,25,2
+SOUTH WEST INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"WATTERS, MICHAEL (F.F.)",15,1,1,0,837,315,2,25,25,2
+SOUTH WEST INNER CITY,IRE,Dublin,2019,NA,NA,85,2,0,3,NA,NA,NA,63,5,STV,"* Nl DHALAIGH, CRIONA (S.F.)",16,1,1,0,799,315,2,25,25,2
+1,MA,Lynn,2017,NA,NA,37,11,42,7,NA,NA,NA,11,1,SSD,(Ward 1) Wayne A. Lozzi,2,1,1,0,2279,11,0,3,3,0
+2,MA,Lynn,2017,NA,NA,37,11,42,7,NA,NA,NA,11,1,SSD,(Ward 2) Rachard B. Starbard,1,1,1,NA,1203,11,0,3,3,0
+3,MA,Lynn,2017,NA,NA,37,11,42,7,NA,NA,NA,11,1,SSD,(Ward 3) Darren P. Cyr,NA,1,1,1,1163,11,1,3,3,1
+4,MA,Lynn,2017,NA,NA,37,11,42,7,NA,NA,NA,11,1,SSD,(Ward 4) Richard C. Colucci,NA,1,1,0,783,11,0,3,3,0
+5,MA,Lynn,2017,NA,NA,37,11,42,7,NA,NA,NA,11,1,SSD,(Ward 5) Dianna Chakoutis,NA,1,1,1,785,11,1,3,3,1
+6,MA,Lynn,2017,NA,NA,37,11,42,7,NA,NA,NA,11,1,SSD,(Ward 6) Peter L. Capano,2,1,1,0,772,11,0,3,3,0
+7,MA,Lynn,2017,NA,NA,37,11,42,7,NA,NA,NA,11,1,SSD,(Ward 7) John Jay Walsh Jr.,NA,1,1,1,1849,11,1,3,3,1
+city,MA,Lynn,2017,NA,NA,37,11,42,7,NA,NA,NA,11,4,ALP,Brian P. LaPierre,2,1,1,0,6594,44,0,3,3,0
+city,MA,Lynn,2017,NA,NA,37,11,42,7,NA,NA,NA,11,4,ALP,G. Buzzy Barton,2,1,1,0,5639,44,0,3,3,0
+city,MA,Lynn,2017,NA,NA,37,11,42,7,NA,NA,NA,11,4,ALP,Hong L. Net,2,1,4,0,5534,44,0,3,3,0
+city,MA,Lynn,2017,NA,NA,37,11,42,7,NA,NA,NA,11,4,ALP,Brian M. Field,NA,1,1,0,4933,44,0,3,3,0
+city,MD,Rockville,2015,NA,NA,47,11,15,20,NA,NA,NA,6,4,ALP,Beryl L. Feinberg,NA,1,1,1,3448,24,3,3,3,3
+city,MD,Rockville,2015,NA,NA,47,11,15,20,NA,NA,NA,6,4,ALP,Julie Palakovich Carr,2,1,1,1,2998,24,3,3,3,3
+city,MD,Rockville,2015,NA,NA,47,11,15,20,NA,NA,NA,6,4,ALP,Mark Pierzchala,NA,1,1,0,2799,24,3,3,3,3
+city,MD,Rockville,2015,NA,NA,47,11,15,20,NA,NA,NA,6,4,ALP,Virginia Onley,NA,1,3,1,2752,24,3,3,3,3
+5,MD,Rockville,2017,NA,NA,47,11,15,20,NA,NA,NA,6,1,SSD,(Post 5) Matthew C. Tyser,NA,1,1,0,6310,6,0,0,0,0
+6,MD,Rockville,2017,NA,NA,47,11,15,20,NA,NA,NA,6,1,SSD,(Post 6) Matt Judy,NA,1,1,0,5992,6,0,0,0,0
+1,MN,Minneapolis,2013,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Kevin Reich,NA,1,1,0,4268,13,0,6,6,0
+10,MN,Minneapolis,2013,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Lisa Bender,NA,1,1,1,3704,13,1,6,6,1
+11,MN,Minneapolis,2013,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,John  Quincy,NA,1,1,0,4952,13,0,6,6,0
+12,MN,Minneapolis,2013,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Andrew Johnson,NA,1,1,0,4553,13,0,6,6,0
+13,MN,Minneapolis,2013,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,LINEA PALMISANO,NA,1,1,1,4452,13,1,6,6,1
+2,MN,Minneapolis,2013,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Cam  Gordon,NA,1,1,0,4060,13,0,6,6,0
+3,MN,Minneapolis,2013,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Jacob  Frey,NA,1,1,0,3722,13,0,6,6,0
+4,MN,Minneapolis,2013,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,"Barbara ""Barb"" Johnson",NA,1,1,1,2153,13,1,6,6,1
+5,MN,Minneapolis,2013,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,BLONG YANG,NA,1,4,0,1475,13,0,6,6,0
+6,MN,Minneapolis,2013,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Abdi Warsame,NA,1,6,0,3090,13,0,6,6,0
+7,MN,Minneapolis,2013,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Lisa Goodman,NA,1,1,1,5309,13,1,6,6,1
+8,MN,Minneapolis,2013,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Elizabeth  Glidden,NA,1,1,1,5105,13,1,6,6,1
+9,MN,Minneapolis,2013,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,ALONDRA CANO,NA,1,2,1,1698,13,1,6,6,1
+1,MN,Minneapolis,2017,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Kevin Reich,NA,1,1,0,4015,13,0,7,7,0
+10,MN,Minneapolis,2017,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Lisa Bender,NA,1,1,1,4886,13,1,7,7,1
+11,MN,Minneapolis,2017,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Jeremy Schroeder,NA,1,1,0,3230,13,0,7,7,0
+12,MN,Minneapolis,2017,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Andrew Johnson,NA,1,1,0,8875,13,0,7,7,0
+13,MN,Minneapolis,2017,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Linea Palmisano,NA,1,1,1,9411,13,1,7,7,1
+2,MN,Minneapolis,2017,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Cam Gordon,NA,1,1,0,5923,13,0,7,7,0
+3,MN,Minneapolis,2017,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Ginger Jentzen,NA,1,1,1,3297,13,1,7,7,1
+4,MN,Minneapolis,2017,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,"Barbara A. ""Barb"" Johnson",NA,1,1,1,2258,13,1,7,7,1
+5,MN,Minneapolis,2017,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Jeremiah Ellison,NA,1,3,0,1987,13,0,7,7,0
+6,MN,Minneapolis,2017,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Abdi Warsame,NA,1,6,0,3629,13,0,7,7,0
+7,MN,Minneapolis,2017,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Lisa Goodman,NA,1,1,1,4751,13,1,7,7,1
+8,MN,Minneapolis,2017,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Andrea Jenkins,NA,1,3,1,5766,13,1,7,7,1
+9,MN,Minneapolis,2017,NA,NA,59,19,8,6,NA,NA,NA,13,1,RCV,Alondra Cano,NA,1,2,1,2623,13,1,7,7,1
+1,MN,St. Paul,2015,NA,NA,57,16,9,19,NA,NA,NA,7,1,RCV,(Ward 1) Dai Thao,2,1,4,0,2503,7,0,3,3,0
+2,MN,St. Paul,2015,NA,NA,57,16,9,19,NA,NA,NA,7,1,RCV,(Ward 2) Rebecca Noecker,2,1,1,1,2390,7,1,3,3,1
+3,MN,St. Paul,2015,NA,NA,57,16,9,19,NA,NA,NA,7,1,RCV,(Ward 3) Chris Tolbert,2,1,1,0,4484,7,0,3,3,0
+4,MN,St. Paul,2015,NA,NA,57,16,9,19,NA,NA,NA,7,1,RCV,(Ward 4) Russ Stark,2,1,1,0,3293,7,0,3,3,0
+5,MN,St. Paul,2015,NA,NA,57,16,9,19,NA,NA,NA,7,1,RCV,(Ward 5) Amy Bendmoen,2,1,1,1,2202,7,1,3,3,1
+6,MN,St. Paul,2015,NA,NA,57,16,9,19,NA,NA,NA,7,1,RCV,(Ward 6) Dan Bostrom,2,1,1,0,1571,7,0,3,3,0
+7,MN,St. Paul,2015,NA,NA,57,16,9,19,NA,NA,NA,7,1,RCV,(Ward 7) Jane Prince,2,1,1,1,1574,7,1,3,3,1
+4,MN,St. Paul,2018,NA,NA,57,16,9,19,NA,NA,NA,7,1,RCV,Mitra Jalali Nelson,NA,1,6,1,5642,7,1,1,1,1
+Central,NJ,Newark,2018,NA,NA,26,51,34,2,NA,NA,NA,9,1,SSD,(central ward) LaMonica McIver,2,1,3,1,1578,9,1,2,2,1
+city,NJ,Newark,2018,NA,NA,26,51,34,2,NA,NA,NA,9,2,ALP,Luis A. Quintana,2,1,2,0,16934,18,1,2,2,1
+city,NJ,Newark,2018,NA,NA,26,51,34,2,NA,NA,NA,9,2,ALP,Mildred C. Crump,2,1,3,1,16694,18,1,2,2,1
+East,NJ,Newark,2018,NA,NA,26,51,34,2,NA,NA,NA,9,1,SSD,(east ward) Augusto Amador,2,1,1,0,1824,9,0,2,2,0
+North,NJ,Newark,2018,NA,NA,26,51,34,2,NA,NA,NA,9,1,SSD,(north ward) Anibal Ramos Jr.,2,1,2,0,4401,9,0,2,2,0
+South,NJ,Newark,2018,NA,NA,26,51,34,2,NA,NA,NA,9,1,SSD,(south ward) John Sharpe James,2,1,3,0,3046,9,0,2,2,0
+West,NJ,Newark,2018,NA,NA,26,51,34,2,NA,NA,NA,9,1,SSD,(west ward) Jospeh McCallum Jr.,2,1,3,0,1378,9,0,2,2,0
+1,NM,Las Cruces,2019,NA,NA,35,3,59,2,NA,NA,NA,6,1,RCV,Kasandra Gandara,NA,1,2,1,1215,6,1,3,3,1
+2,NM,Las Cruces,2019,NA,NA,35,3,59,2,NA,NA,NA,6,1,RCV,Tessa Stuve,NA,1,1,1,970,6,1,3,3,1
+4,NM,Las Cruces,2019,NA,NA,35,3,59,2,NA,NA,NA,6,1,RCV,Johana Bencomo,NA,1,2,1,763,6,1,3,3,1
+1,NM,Santa Fe,2018,NA,NA,88,1,55,1,NA,NA,NA,8,1,RCV,Signe Lindell,NA,1,1,1,4625,8,1,3,3,1
+2,NM,Santa Fe,2018,NA,NA,88,1,55,1,NA,NA,NA,8,1,RCV,Carol Romero-Wirth,NA,1,1,1,3310,8,1,3,3,1
+4,NM,Santa Fe,2018,NA,NA,88,1,55,1,NA,NA,NA,8,1,RCV,JoAnne Vigil Coppler,NA,1,1,1,2121,8,1,3,3,1
+1,NM,Santa Fe,2019,NA,NA,88,1,55,1,NA,NA,NA,8,1,RCV,Renee Villarreal,NA,1,2,1,2865,8,1,1,1,1
+2,NM,Santa Fe,2019,NA,NA,88,1,55,1,NA,NA,NA,8,1,RCV,Michael Garcia,NA,1,2,0,2345,8,0,1,1,0
+3,NM,Santa Fe,2019,NA,NA,88,1,55,1,NA,NA,NA,8,1,RCV,Chris Rivera,NA,1,2,0,845,8,0,1,1,0
+1,NY,New Rochelle,2015,NA,NA,44,19,25,5,NA,NA,NA,6,1,SSD,(District 1) Louis J. Trangucci,1,1,1,0,491,6,0,1,1,0
+2,NY,New Rochelle,2015,NA,NA,44,19,25,5,NA,NA,NA,6,1,SSD,(District 2) Albert Tarantino Jr.,1,1,1,0,1054,6,0,1,1,0
+3,NY,New Rochelle,2015,NA,NA,44,19,25,5,NA,NA,NA,6,1,SSD,(District 3) Jared R. Rice,2,1,3,NA,976,6,0,1,1,0
+4,NY,New Rochelle,2015,NA,NA,44,19,25,5,NA,NA,NA,6,1,SSD,(District 4) Ivar Hyden,2,1,1,0,737,6,0,1,1,0
+5,NY,New Rochelle,2015,NA,NA,44,19,25,5,NA,NA,NA,6,1,SSD,(District 5) Barry R. Fertel,2,1,1,0,1431,6,0,1,1,0
+6,NY,New Rochelle,2015,NA,NA,44,19,25,5,NA,NA,NA,6,1,SSD,(District 6) Elizabeth M. Fried,2,1,1,1,1327,6,1,1,1,1
+1,NY,Yonkers,2015,NA,NA,39,15,31,7,NA,NA,NA,6,1,SSD,Christopher A. Johnson,2,1,1,0,2074,6,0,0,0,0
+3,NY,Yonkers,2015,NA,NA,39,15,31,7,NA,NA,NA,6,1,SSD,Michael Sabatino,2,1,1,0,1966,6,0,0,0,0
+1,NY,Yonkers,2017,NA,NA,39,15,31,7,NA,NA,NA,6,1,SSD,Mike Khader,2,1,4,0,17306,6,0,2,2,0
+2,NY,Yonkers,2017,NA,NA,39,15,31,7,NA,NA,NA,6,1,SSD,Corazon Pineda Isaac,2,1,3,1,2137,6,1,2,2,1
+3,NY,Yonkers,2017,NA,NA,39,15,31,7,NA,NA,NA,6,1,SSD,Tasha Diaz,2,1,3,1,800,6,1,2,2,1
+4,NY,Yonkers,2017,NA,NA,39,15,31,7,NA,NA,NA,6,1,SSD,John Rubbo,1,1,1,0,2934,6,0,2,2,0
+6,NY,Yonkers,2017,NA,NA,39,15,31,7,NA,NA,NA,6,1,SSD,Anthony J. Merante,1,1,1,0,2814,6,0,2,2,0
+1,NY,Yonkers,2019,NA,NA,39,15,31,7,NA,NA,NA,6,1,SSD,Shanae V. Williams,2,1,3,1,1099,6,1,1,1,1
+1,OK,Oklahoma City,2017,NA,NA,67,14,20,5,NA,NA,NA,8,1,SSD,(ward 1) James Greiner,1,1,1,0,864,8,0,0,0,0
+3,OK,Oklahoma City,2017,NA,NA,67,14,20,5,NA,NA,NA,8,1,SSD,(ward 3) Larry McAtee,1,1,1,0,431,8,0,0,0,0
+4,OK,Oklahoma City,2017,NA,NA,67,14,20,5,NA,NA,NA,8,1,SSD,(ward 4) Todd Stone,1,1,1,0,523,8,0,0,0,0
+7,OK,Oklahoma City,2017,NA,NA,67,14,20,5,NA,NA,NA,8,1,SSD,(ward 7) John A Pettis Jr.,2,1,3,0,2473,8,0,0,0,0
+2,OK,Oklahoma City,2019,NA,NA,67,14,20,5,NA,NA,NA,8,1,SSD,(ward2) James Cooper,2,1,3,0,2434,8,0,0,0,0
+3,WA,Renton,2015,NA,NA,50,9,15,24,NA,NA,NA,7,1,SSD,(position 3) Carol Ann Witschi,2,1,1,0,8176,7,0,1,1,0
+4,WA,Renton,2015,NA,NA,50,9,15,24,NA,NA,NA,7,1,SSD,(position 4) Ryan McIrvin,2,1,1,0,7605,7,0,1,1,0
+5,WA,Renton,2015,NA,NA,50,9,15,24,NA,NA,NA,7,1,SSD,(position 5) Ed Prince,2,1,3,0,9204,7,0,1,1,0
+6,WA,Renton,2015,NA,NA,50,9,15,24,NA,NA,NA,7,1,SSD,(position 6) Ruth Perez,2,1,2,1,9147,7,1,1,1,1
+7,WA,Renton,2015,NA,NA,50,9,15,24,NA,NA,NA,7,1,SSD,(position 7) Don Persson,NA,1,1,0,9118,7,0,1,1,0
+1,WA,Renton,2017,NA,NA,50,9,15,24,NA,NA,NA,7,1,SSD,(position 1) Randy Corman,2,1,1,0,10920,7,0,1,1,0
+2,WA,Renton,2017,NA,NA,50,9,15,24,NA,NA,NA,7,1,SSD,(position 2) Armondo Pavone,2,1,1,0,8241,7,0,1,1,0
+6,WA,Renton,2017,NA,NA,50,9,15,24,NA,NA,NA,7,1,SSD,(position 6) Ruth Perez,2,1,2,1,7790,7,1,1,1,1
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Dorienke de Grave-Verkerk,45,1,1,1,1202,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Simion Blom,4,1,3,0,938,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Don Ceder,1.1,1,3,0,4501,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Marijin Bosman,5,1,1,1,3026,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Alexander Hammelburg,5,1,1,0,737,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Hulya Kat,5,1,1,1,742,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Iiana Rooderkerk,5,1,1,1,584,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Jan-Bert Vroege,5,1,1,0,281,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Reiner van Dantzig,5,1,1,0,22454,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Hendrik Jan Biemound,12,1,1,0,895,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Anne Marttin,45,1,1,1,512,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Hala Nehme,45,1,1,1,1675,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Rik Torn,45,1,1,0,543,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Erik Flentge,6.1,1,1,0,453,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Tiers Bakker,6.1,1,1,0,393,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Elisabeth IJmker,4,1,1,1,234,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Nienke van Renssen,4,1,1,1,1778,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Tirza de Fockert,4,1,1,1,1107,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Zeeger Ernsting,4,1,1,0,545,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Jennifer Bloemberg-Issa,40.1,1,1,1,1563,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Johnas van Lammeren,40.1,1,1,0,12559,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Diederik Boomsma,1,1,1,0,6341,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Wil van Soest,9.1,1,1,1,5809,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Anton van Schijndel,6.2,1,1,0,445,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Gerard Kohler,6.2,1,1,0,52,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Kevin Kreuger,6.2,1,1,0,216,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Jazie Veldhuyzen,15.2,1,1,0,227,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Dennis Boutkan,12,1,1,0,537,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Dehlia Timman,5,1,3,1,1976,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Claire Martens,45,1,1,1,1189,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Marianne Poot,45,1,1,1,7458,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,David Schreuders,6.1,1,1,0,133,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Femke Roosma,4,1,1,1,24609,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Jenneke van Pijpen,4,1,1,1,781,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Lene Grooten,4,1,1,1,2199,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Jasper Groen,4,1,1,0,1455,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Anke Bakker,40.1,1,1,1,6240,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Nenita La Rose,12,1,3,1,1312,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Yassmine El Ksaiji,5,1,6,1,2358,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Sofyan Mbarki,12,1,6,0,2186,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Imane Nadif,4,1,6,1,6540,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Aysegul Kilic,8.1,1,6,1,5407,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Mourad Taimounti,8.1,1,6,0,6818,2025,22,22,22,22
+city,NED,Amsterdam,2018,NA,NA,71,9,1,1,NA,NA,0,45,45,FLPR,Numan Yilmaz,8.1,1,6,0,4522,2025,22,22,22,22
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,P.J.H.D. Verkoelen,8.3,1,0,1,5690,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,S. Langen,1,1,0,0,6369,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,E.C. Eskes,1,1,0,1,1365,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,T.J. Vonk,1.2,1,0,0,3935,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,S. Kasmi,5,1,0,0,7214,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,C.M. Zeegers,5,1,0,1,8811,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,N. Arsieni,5,1,0,1,1703,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,I. Wifferen,5,1,0,1,614,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,E.S. Walgenbach,5,1,0,1,655,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,S.R.T. Baarle,8.1,1,6,0,3460,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,E. Yigit,8.1,1,6,0,2144,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,F. Achbar,8.1,1,6,0,710,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,T. Kuzu,8.1,1,6,0,6614,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,J. Bokhove,4,1,0,NA,15695,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,L.L.P.R. Roest,4,1,0,NA,1269,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,S. Leewis,4,1,0,NA,379,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,J.P. Postma,4,1,0,NA,419,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,A. Kockelkoren,4,1,0,NA,1101,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,B.J. Eerdmans,14.4,1,0,0,36547,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,T.C. Hoogwerf,14.4,1,0,1,4543,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,M.J.W. Struijvenberg,14.4,1,0,0,482,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,M.G.J. Elck,14.4,1,0,0,283,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,E. Jami,14.4,1,6,0,86,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,B.J. Rij,14.4,1,0,0,211,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,B. Schaik,14.4,1,0,0,488,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,C. Aafjes - van Aalst,14.4,1,0,1,800,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,R.A.C.J. Simons,14.4,1,0,0,159,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,J. Esbeukman,14.4,1,0,0,91,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,G.J.M. Vreugdenhil,14.4,1,0,0,101,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,N. Ouali,14.5,1,6,0,6945,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,E. Büyükçifci,14.5,1,6,0,267,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,B.C. Kathmann,12,1,0,1,14266,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,G.J. Engberts,12,1,0,0,708,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,D. Yildirim,12,1,6,1,1120,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,D.P.A. Tak,12,1,0,0,368,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,N. Balwantsingh,12,1,5,0,2040,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,R.T.J. Velden,40.1,1,0,0,3722,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,M.J.P. Meeuwissen,7,1,0,0,6281,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,L.P.M. Kleijn,6.1,1,0,0,6430,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,M.L. Soares,6.1,1,6,1,1605,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,V.P.G. Karremans,45,1,0,0,16319,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,D.A. Groningen - de Haas,45,1,0,1,3460,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,J.W. Verheij,45,1,0,0,356,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,T.B. Versnel,45,1,0,0,359,2025,12,12,12,12
+city,NED,Rotterdam,2018,NA,NA,76,4,0,2,NA,TRUE,NA,45,45,FLPR,P.J.P. Lansink - Bastemeijer,45,1,0,0,177,2025,12,12,12,12
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,A. Waveren,1,1,0,0,4600,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,G.C. Steeg,1,1,0,0,165,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,M. Ooijen,1.1,1,0,0,3077,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,R. Streefland-Driesprong,1.1,1,0,1,1359,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,A. Podt,5,1,0,1,8864,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,J. Ferket,5,1,0,1,1467,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,E. Bijsterbosch,5,1,0,1,1721,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,S.E. Schilderman,5,1,0,1,1756,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,M.A. Koning,5,1,0,NA,521,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,C.M. Dun,5,1,0,1,513,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,H.J.J.M. Bakker,5,1,0,NA,250,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,M. Saiah,5,1,6,NA,804,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,J.W. Schreuder,5,1,0,NA,175,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,H. Dekker-Abdulaziz,5,1,6,1,907,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,M. Sungur,8.1,1,6,0,3339,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,I. Abassi,8.1,1,6,0,952,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,A.H. Boer,4,1,0,1,18285,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,P.H. Corler,4,1,0,NA,529,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,F. Koning,4,1,0,1,3403,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,T.IJ.W. Weistra,4,1,0,NA,287,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,G. Deldjou Fard,4,1,6,1,3146,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,R. Heijne,4,1,0,1,1191,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,J. Kleinrensink,4,1,0,1,1198,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,P. Zwanenberg,4,1,0,NA,1304,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,E.C. Virginia,4,1,0,NA,145,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,G.H.C.J. Dekkers,4,1,0,NA,123,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,R. Zweth,12,1,0,0,3150,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,M.H. Assen,12,1,0,1,2558,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,B. Işik,12,1,6,0,724,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,E.M. Esch,40.1,1,0,1,5905,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,M. Heuven,40.1,1,0,0,380,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,H. Deún,7,1,0,0,4076,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,T.W. Schipper,6.1,1,0,0,3214,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,R. Wiegant,6.1,1,0,0,159,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,C.H. Bos,14.7,1,0,0,2379,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,T. Homan,14.8,1,0,0,1672,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,E.L. Oosters,14.8,1,0,1,1599,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,D.N.E.A. Gilissen,45,1,0,NA,10896,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,M.G. Dalen,45,1,0,NA,562,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,G. Hoonte,45,1,0,NA,258,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,M. Pagter,45,1,0,NA,195,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,E. Marel,45,1,0,NA,356,2025,15,15,15,15
+city,NED,Utrecht,2018,NA,NA,71,3,0,2,NA,FALSE,NA,45,45,FLPR,T.A.A. Meerding,45,1,0,NA,1277,2025,15,15,15,15
+2,CA,Sacramento,2020,340478,NA,32.4,12.7,28.9,20.3,NA,NA,0.4,8,1,SSD,ALLEN WARREN,2,1,2,0,3210,8,0,3,3,0
+2,CA,Sacramento,2020,340478,NA,32.4,12.7,28.9,20.3,NA,NA,0.4,8,1,SSD,SEAN LOLOEE,7,1,6,0,2191,8,0,3,3,0
+4,CA,Sacramento,2020,340478,NA,32.4,12.7,28.9,20.3,NA,NA,0.4,8,1,SSD,KATIE VALENZUELA,2,1,3,1,11570,8,1,3,3,1
+6,CA,Sacramento,2020,340478,NA,32.4,12.7,28.9,20.3,NA,NA,0.4,8,1,SSD,ERIC GUERRA,2,1,3,0,9180,8,0,3,3,0
+8,CA,Sacramento,2020,340478,NA,32.4,12.7,28.9,20.3,NA,NA,0.4,8,1,SSD,MAI VANG,2,1,4,1,4705,8,2,3,3,2
+8,CA,Sacramento,2020,340478,NA,32.4,12.7,28.9,20.3,NA,NA,0.4,8,1,SSD,LES SIMMONS,2,1,2,0,3309,8,2,3,3,2
+2,CA,Sacramento,2020,340478,NA,32.4,12.7,28.9,20.3,NA,NA,0.4,8,1,MR,SEAN LOLOEE,7,1,6,0,10166,8,0,3,3,0
+8,CA,Sacramento,2020,340478,NA,32.4,12.7,28.9,20.3,NA,NA,0.4,8,1,MR,MAI VANG,2,1,4,1,10225,8,2,3,3,2
+1,CA,Sacramento,2018,332670,NA,32.5,13,28.7,20.3,NA,NA,0.3,8,1,SSD,ANGELIQUE ASHBY,2,1,1,1,7731,8,1,1,1,1
+3,CA,Sacramento,2018,332670,NA,32.5,13,28.7,20.3,NA,NA,0.3,8,1,SSD,JEFF S. HARRIS,2,1,1,0,10087,8,0,1,1,0
+5,CA,Sacramento,2018,332670,NA,32.5,13,28.7,20.3,NA,NA,0.3,8,1,SSD,JAY SCHENIRER,2,1,1,0,6765,8,0,1,1,0
+7,CA,Sacramento,2018,332670,NA,32.5,13,28.7,20.3,NA,NA,0.3,8,1,SSD,RICK JENNINGS II,2,1,2,0,9690,8,0,1,1,0
+2,CA,Sacramento,2016,323968,NA,33.6,13.2,28.1,19.6,NA,NA,0.3,8,1,SSD,ALLEN WARREN,2,1,2,0,3967,8,0,0,0,0
+4,CA,Sacramento,2016,323968,NA,33.6,13.2,28.1,19.6,NA,NA,0.3,8,1,SSD,STEVE HANSEN,2,1,1,0,12879,8,0,0,0,0
+6,CA,Sacramento,2016,323968,NA,33.6,13.2,28.1,19.6,NA,NA,0.3,8,1,SSD,ERIC GUERRA,2,1,3,0,9366,8,0,0,0,0
+8,CA,Sacramento,2016,323968,NA,33.6,13.2,28.1,19.6,NA,NA,0.3,8,1,SSD,LARRY CARR,2,1,2,0,4566,8,0,0,0,0
+1,CA,Sacramento,2014,315304,NA,34,13,27.6,19.799999999999997,NA,NA,0.4,8,1,SSD,ANGELIQUE ASHBY,2,1,1,1,5140,8,1,1,1,1
+3,CA,Sacramento,2014,315304,NA,34,13,27.6,19.799999999999997,NA,NA,0.4,8,1,SSD,JEFF HARRIS,2,1,1,0,2382,8,0,1,1,0
+3,CA,Sacramento,2014,315304,NA,34,13,27.6,19.799999999999997,NA,NA,0.4,8,1,SSD,CYRIL SHAH,2,1,5,0,2152,8,0,1,1,0
+5,CA,Sacramento,2014,315304,NA,34,13,27.6,19.799999999999997,NA,NA,0.4,8,1,SSD,JAY SCHENIRER,2,1,1,0,5454,8,0,1,1,0
+7,CA,Sacramento,2014,315304,NA,34,13,27.6,19.799999999999997,NA,NA,0.4,8,1,SSD,RICK JENNINGS,2,1,2,0,5165,8,0,1,1,0
+3,CA,Sacramento,2014,315304,NA,34,13,27.6,19.799999999999997,NA,NA,0.4,8,1,MR,JEFF S. HARRIS,2,1,1,0,7338,8,0,1,1,0
+8,CA,Sacramento,2014,315304,NA,34,13,27.6,19.799999999999997,NA,NA,0.4,8,1,SSD,LARRY CARR,2,1,2,0,3412,8,0,1,1,0
+2,CA,Sacramento,2012,306218,NA,34.8,13.4,26.3,20.1,NA,NA,0.5,8,1,SSD,ROB KERTH,2,1,1,0,2133,8,0,1,1,0
+2,CA,Sacramento,2012,306218,NA,34.8,13.4,26.3,20.1,NA,NA,0.5,8,1,SSD,ALLEN WARREN,2,1,2,0,2004,8,0,1,1,0
+4,CA,Sacramento,2012,306218,NA,34.8,13.4,26.3,20.1,NA,NA,0.5,8,1,SSD,STEVE HANSEN,2,1,1,0,3454,8,0,1,1,0
+4,CA,Sacramento,2012,306218,NA,34.8,13.4,26.3,20.1,NA,NA,0.5,8,1,SSD,JOSEPH YEE,2,1,4,0,3379,8,0,1,1,0
+6,CA,Sacramento,2012,306218,NA,34.8,13.4,26.3,20.1,NA,NA,0.5,8,1,SSD,KEVIN MCCARTY,2,1,1,0,6743,8,0,1,1,0
+8,CA,Sacramento,2012,306218,NA,34.8,13.4,26.3,20.1,NA,NA,0.5,8,1,SSD,BONNIE PANNELL,2,1,2,1,2888,8,1,1,1,1
+2,CA,Sacramento,2012,306218,NA,34.8,13.4,26.3,20.1,NA,NA,0.5,8,1,MR,ALLEN WARREN,2,1,2,0,6115,8,0,1,1,0
+4,CA,Sacramento,2012,306218,NA,34.8,13.4,26.3,20.1,NA,NA,0.5,8,1,MR,STEVE HANSEN,2,1,1,0,11345,8,0,1,1,0
+1,CA,Sacramento,2010,295787,NA,36.1,13.7,25.4,19.799999999999997,NA,NA,0.6,8,1,SSD,ANGELIQUE ASHBY,2,1,1,1,6753,8,1,1,1,1
+3,CA,Sacramento,2010,295787,NA,36.1,13.7,25.4,19.799999999999997,NA,NA,0.6,8,1,SSD,STEVE COHN,2,1,1,0,6648,8,0,1,1,0
+5,CA,Sacramento,2010,295787,NA,36.1,13.7,25.4,19.799999999999997,NA,NA,0.6,8,1,SSD,JAY SCHENIRER,2,1,1,0,3294,8,0,1,1,0
+7,CA,Sacramento,2010,295787,NA,36.1,13.7,25.4,19.799999999999997,NA,NA,0.6,8,1,SSD,RYAN CHIN,2,1,4,0,4069,8,0,1,1,0
